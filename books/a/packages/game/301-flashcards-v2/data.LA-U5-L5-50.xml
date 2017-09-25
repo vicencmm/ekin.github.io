@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U5/L5-50/audio/combined.mp3,demo/LA/U5/L5-50/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U5/L5-50/images/thumbs/DRAMAIWB285a.png</thumb>
+      <source>demo/LA/U5/L5-50/images/DRAMAIWB285.png</source>
+      <sound>drum</sound>
+      <word>drum</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U5/L5-50/images/thumbs/DRAMAIWB286a.png</thumb>
+      <source>demo/LA/U5/L5-50/images/DRAMAIWB286.png</source>
+      <sound>piano</sound>
+      <word>piano</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L5-50/images/thumbs/DRAMAIWB287a.png</thumb>
+      <source>demo/LA/U5/L5-50/images/DRAMAIWB287.png</source>
+      <sound>guitar</sound>
+      <word>guitar</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L5-50/images/thumbs/DRAMAIWB288a.png</thumb>
+      <source>demo/LA/U5/L5-50/images/DRAMAIWB288.png</source>
+      <sound>trumpet</sound>
+      <word>trumpet</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>drum</id>
+<start>0.64</start>
+<stop>5.12</stop>
+</sound>
+<sound>
+<id>piano</id>
+<start>6.85</start>
+<stop>11.78</stop>
+</sound>
+<sound>
+<id>guitar</id>
+<start>13.75</start>
+<stop>18.35</stop>
+</sound>
+<sound>
+<id>trumpet</id>
+<start>20.64</start>
+<stop>25.55</stop>
+</sound>
+<sound>
+<id>s1</id>
+<start>25.56</start>
+<stop>25.57</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/U6/L8-63/audio/combined.mp3,demo/LA/U6/L8-63/audio/combined.ogg" type="three-in-a-row">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <selectPlayer>
+    <background>demo/LA/U2/L8-19/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">Snake</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB359.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB362.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB363.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB364.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Cocodrile</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB360.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB363.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB362.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB364.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Monkey</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB361.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB360.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB363.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB362.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Parrot</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB362.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB364.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB359.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB360.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Lion</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB363.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB359.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB360.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB364.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Elephant</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB364.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB361.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB363.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB362.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Trees</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB365.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB366.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB367.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB368.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Grass</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB366.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB367.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB365.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB368.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">River</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB367.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB368.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB366.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB365.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Rocks</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U6/L8-63/images/DRAMAIWB368.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB365.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB367.png</answer>
+          <answer>demo/LA/U6/L8-63/images/DRAMAIWB366.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+      <id>Snake</id>
+      <start>0.23</start>
+      <stop>1.20</stop>
+    </sound>
+    <sound>
+      <id>Cocodrile</id>
+      <start>2.96</start>
+      <stop>4.16</stop>
+    </sound>
+    <sound>
+      <id>Monkey</id>
+      <start>5.90</start>
+      <stop>6.85</stop>
+    </sound>
+    <sound>
+      <id>Parrot</id>
+      <start>8.58</start>
+      <stop>9.44</stop>
+    </sound>
+    <sound>
+      <id>Lion</id>
+      <start>11.20</start>
+      <stop>12.15</stop>
+    </sound>
+    <sound>
+      <id>Elephant</id>
+      <start>13.91</start>
+      <stop>14.96</stop>
+    </sound>
+    <sound>
+      <id>Trees</id>
+      <start>16.71</start>
+      <stop>17.76</stop>
+    </sound>
+    <sound>
+      <id>Grass</id>
+      <start>19.50</start>
+      <stop>20.54</stop>
+    </sound>
+    <sound>
+      <id>River</id>
+      <start>22.29</start>
+      <stop>23.17</stop>
+    </sound>
+    <sound>
+      <id>Rocks</id>
+      <start>24.91</start>
+      <stop>25.96</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>27.37</start>
+      <stop>32.08</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>35.06</start>
+      <stop>36.73</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>39.45</start>
+      <stop>40.07</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>42.59</start>
+      <stop>50.75</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U6/L8-63/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </win>
+    <trophy>
+      <image>demo/LA/U6/L8-63/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+  </popups>
+</game>

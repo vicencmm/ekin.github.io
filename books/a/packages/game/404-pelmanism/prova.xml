@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U0/L3-06/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U0/L3-06/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U0/L3-06/audio/combined.mp3,demo/LA/U0/L3-06/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U0/L3-06/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U0/L3-06/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <level>veryeasy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U0/L3-06/images/DRAMAIWB623.png</source>
+      <sound>red</sound>
+      <title>red</title>
+    </image>
+    <image>
+      <source>demo/LA/U0/L3-06/images/DRAMAIWB624.png</source>
+      <sound>yellow</sound>
+      <title>yellow</title>
+    </image>
+    <image>
+      <source>demo/LA/U0/L3-06/images/DRAMAIWB625.png</source>
+      <sound>green</sound>
+      <title>green</title>
+    </image>
+    <image>
+      <source>demo/LA/U0/L3-06/images/DRAMAIWB626.png</source>
+      <sound>blue</sound>
+      <title>blue</title>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.67</start>
+      <stop>1.65</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>4.24</start>
+      <stop>4.75</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.62</start>
+      <stop>14.70</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>18.13</start>
+      <stop>22.84</stop>
+    </sound>
+    <sound>
+      <id>red</id>
+      <start>24.49</start>
+      <stop>25.35</stop>
+    </sound>
+    <sound>
+      <id>yellow</id>
+      <start>26.41</start>
+      <stop>27.43</stop>
+    </sound>
+    <sound>
+      <id>green</id>
+      <start>28.54</start>
+      <stop>29.59</stop>
+    </sound>
+    <sound>
+      <id>blue</id>
+      <start>30.90</start>
+      <stop>32.35</stop>
+    </sound>
+  </sounds>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism" fullcard="1">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/L4/U1/L7-01/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/L4/U1/L7-01/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/L4/U1/L7-01/audio/combined.mp3,demo/L4/U1/L7-01/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/L4/U1/L7-01/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/L4/U1/L7-01/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>win</id>
+      <start>33.576</start>
+      <stop>38.370</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>13.943</start>
+      <stop>15.618</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>16.247</start>
+      <stop>16.758</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>24.235</start>
+      <stop>32.329</stop>
+    </sound>
+    <sound>
+      <id>Letswave</id>
+      <start>0</start>
+      <stop>1.600</stop>
+    </sound>
+    <sound>
+      <id>Letsclap</id>
+      <start>2.470</start>
+      <stop>3.700</stop>
+    </sound>
+    <sound>
+      <id>Letspoint</id>
+      <start>4.531</start>
+      <stop>5.843</stop>
+    </sound>
+    <sound>
+      <id>Letssitdown</id>
+      <start>6.740</start>
+      <stop>8.290</stop>
+    </sound>
+    <sound>
+      <id>Letsstandup</id>
+      <start>9.169</start>
+      <stop>10.642</stop>
+    </sound>
+    <sound>
+      <id>Letsdance</id>
+      <start>11.420</start>
+      <stop>12.821</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB020.png</source>
+      <sound>Letsdance</sound>
+      <title>Let's dance</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB021.png</source>
+      <sound>Letsclap</sound>
+      <title>Let's clap</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB022.png</source>
+      <sound>Letspoint</sound>
+      <title>Let's point</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB023.png</source>
+      <sound>Letssitdown</sound>
+      <title>Let's sit down</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB024.png</source>
+      <sound>Letsstandup</sound>
+      <title>Let's stand up</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB025.png</source>
+      <sound>Letswave</sound>
+      <title>Let's wave</title>
+    </image>
+  </images>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism" fullcard="0">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+  <textBackground>How many players?</textBackground>
+    <background>demo/LA/U2/L4-15/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U2/L4-15/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U2/L4-15/audio/combined.mp3,demo/LA/U2/L4-15/audio/combined.ogg</audio>
+   <popups>
+    <trophy>
+      <image>demo/LA/U2/L4-15/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U2/L4-15/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB101.png</source>
+      <sound>ears</sound>
+      <title>ears</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB102.png</source>
+      <sound>nose</sound>
+      <title>nose</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB103.png</source>
+      <sound>eyes</sound>
+      <title>eyes</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB310.png</source>
+      <sound>mouth</sound>
+      <title>mouth</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB311.png</source>
+      <sound>sad</sound>
+      <title>sad</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB312.png</source>
+      <sound>happy</sound>
+      <title>happy</title>
+    </image>
+  </images>
+  <sounds>
+<sound>
+<id>win</id>
+<start>0.09</start>
+<stop>4.81</stop>
+</sound>
+<sound>
+<id>yes</id>
+<start>5.71</start>
+<stop>6.84</stop>
+</sound>
+<sound>
+<id>no</id>
+<start>8.03</start>
+<stop>8.55</stop>
+</sound>
+<sound>
+<id>intro</id>
+<start>9.61</start>
+<stop>17.70</stop>
+</sound>
+<sound>
+<id>ears</id>
+<start>18.72</start>
+<stop>19.69</stop>
+</sound>
+<sound>
+<id>sad</id>
+<start>20.63</start>
+<stop>21.63</stop>
+</sound>
+<sound>
+<id>nose</id>
+<start>22.58</start>
+<stop>23.60</stop>
+</sound>
+<sound>
+<id>mouth</id>
+<start>24.56</start>
+<stop>25.44</stop>
+</sound>
+<sound>
+<id>dirtyh</id>
+<start>26.38</start>
+<stop>27.94</stop>
+</sound>
+<sound>
+<id>happy</id>
+<start>28.91</start>
+<stop>30.06</stop>
+</sound>
+<sound>
+<id>cleanh</id>
+<start>31.01</start>
+<stop>32.55</stop>
+</sound>
+<sound>
+<id>dirtyf</id>
+<start>33.50</start>
+<stop>35.20</stop>
+</sound>
+<sound>
+<id>eyes</id>
+<start>36.17</start>
+<stop>37.11</stop>
+</sound>
+<sound>
+<id>cleanf</id>
+<start>38.05</start>
+<stop>40.27</stop>
+</sound>
+</sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U3/L4-26/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U3/L4-26/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U3/L4-26/audio/combined.mp3,demo/LA/U3/L4-26/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U3/L4-26/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U3/L4-26/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>black</id>
+      <start>0.75</start>
+      <stop>4.96</stop>
+    </sound>
+    <sound>
+      <id>white</id>
+      <start>7.08</start>
+      <stop>11.59</stop>
+    </sound>
+    <sound>
+      <id>pink</id>
+      <start>13.71</start>
+      <stop>18.32</stop>
+    </sound>
+    <sound>
+      <id>orange</id>
+      <start>20.44</start>
+      <stop>25.38</stop>
+    </sound>
+    <sound>
+      <id>grey</id>
+      <start>27.39</start>
+      <stop>32.17</stop>
+    </sound>
+    <sound>
+      <id>brown</id>
+      <start>34.31</start>
+      <stop>38.82</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>42.08</start>
+      <stop>43.60</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>47.27</start>
+      <stop>47.89</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>51.27</start>
+      <stop>59.49</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>62.79</start>
+      <stop>67.49</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB157.png</source>
+      <sound>black</sound>
+      <title>black</title>
+    </image>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB158.png</source>
+      <sound>white</sound>
+      <title>white</title>
+    </image>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB159.png</source>
+      <sound>pink</sound>
+      <title>pink</title>
+    </image>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB160.png</source>
+      <sound>orange</sound>
+      <title>orange</title>
+    </image>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB161.png</source>
+      <sound>grey</sound>
+      <title>grey</title>
+    </image>
+    <image>
+      <source>demo/LA/U3/L4-26/images/DRAMAIWB162.png</source>
+      <sound>brown</sound>
+      <title>brown</title>
+    </image>
+  </images>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U4/L4-37/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U4/L4-37/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U4/L4-37/audio/combined.mp3,demo/LA/U4/L4-37/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U4/L4-37/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U4/L4-37/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>granny</id>
+      <start>0.37</start>
+      <stop>4.39</stop>
+    </sound>
+    <sound>
+      <id>grandad</id>
+      <start>6.36</start>
+      <stop>10.54</stop>
+    </sound>
+    <sound>
+      <id>mummy</id>
+      <start>12.59</start>
+      <stop>16.57</stop>
+    </sound>
+    <sound>
+      <id>daddy</id>
+      <start>18.59</start>
+      <stop>22.29</stop>
+    </sound>
+    <sound>
+      <id>sister</id>
+      <start>24.30</start>
+      <stop>28.31</stop>
+    </sound>
+    <sound>
+      <id>brother</id>
+      <start>30.30</start>
+      <stop>33.95</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>35.97</start>
+      <stop>37.57</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>39.57</start>
+      <stop>40.10</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>41.93</start>
+      <stop>50.13</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>53.45</start>
+      <stop>58.16</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB212.png</source>
+      <sound>granny</sound>
+      <title>granny</title>
+    </image>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB213.png</source>
+      <sound>grandad</sound>
+      <title>grandad</title>
+    </image>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB214.png</source>
+      <sound>mummy</sound>
+      <title>mummy</title>
+    </image>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB215.png</source>
+      <sound>daddy</sound>
+      <title>daddy</title>
+    </image>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB216.png</source>
+      <sound>sister</sound>
+      <title>sister</title>
+    </image>
+    <image>
+      <source>demo/LA/U4/L4-37/images/DRAMAIWB217.png</source>
+      <sound>brother</sound>
+      <title>brother</title>
+    </image>
+  </images>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U5/L4-48/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U5/L4-48/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U5/L4-48/audio/combined.mp3,demo/LA/U5/L4-48/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U5/L4-48/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U5/L4-48/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>1.18</start>
+      <stop>2.98</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>4.75</start>
+      <stop>5.26</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>7.25</start>
+      <stop>15.34</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>19.75</start>
+      <stop>24.62</stop>
+    </sound>
+    <sound>
+      <id>scooter</id>
+      <start>26.58</start>
+      <stop>32.98</stop>
+    </sound>
+    <sound>
+      <id>bike</id>
+      <start>35.72</start>
+      <stop>42.42</stop>
+    </sound>
+    <sound>
+      <id>swing</id>
+      <start>45.10</start>
+      <stop>51.76</stop>
+    </sound>
+    <sound>
+      <id>trampoline</id>
+      <start>54.50</start>
+      <stop>61.63</stop>
+    </sound>
+    <sound>
+      <id>climbingframe</id>
+      <start>64.38</start>
+      <stop>72.21</stop>
+    </sound>
+    <sound>
+      <id>slide</id>
+      <start>75.09</start>
+      <stop>81.59</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB275.png</source>
+      <sound>scooter</sound>
+      <title>scooter</title>
+    </image>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB276.png</source>
+      <sound>bike</sound>
+      <title>bike</title>
+    </image>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB277.png</source>
+      <sound>swing</sound>
+      <title>swing</title>
+    </image>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB278.png</source>
+      <sound>trampoline</sound>
+      <title>trampoline</title>
+    </image>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB279.png</source>
+      <sound>climbingframe</sound>
+      <title>climbingFrame</title>
+    </image>
+    <image>
+      <source>demo/LA/U5/L4-48/images/DRAMAIWB280.png</source>
+      <sound>slide</sound>
+      <title>slide</title>
+    </image>
+  </images>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U6/L4-59/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U6/L4-59/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U6/L4-59/audio/combined.mp3,demo/LA/U6/L4-59/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U6/L4-59/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U6/L4-59/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>snake</id>
+      <start>0.35</start>
+      <stop>5.28</stop>
+    </sound>
+    <sound>
+      <id>crocodile</id>
+      <start>7.63</start>
+      <stop>13.24</stop>
+    </sound>
+    <sound>
+      <id>monkey</id>
+      <start>15.64</start>
+      <stop>20.61</stop>
+    </sound>
+    <sound>
+      <id>parrot</id>
+      <start>23.02</start>
+      <stop>27.93</stop>
+    </sound>
+    <sound>
+      <id>lion</id>
+      <start>30.28</start>
+      <stop>35.30</stop>
+    </sound>
+    <sound>
+      <id>elephant</id>
+      <start>37.66</start>
+      <stop>42.97</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>46.74</start>
+      <stop>48.30</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>50.31</start>
+      <stop>50.88</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>52.68</start>
+      <stop>60.82</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>64.19</start>
+      <stop>68.91</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB336.png</source>
+      <sound>snake</sound>
+      <title>snake</title>
+    </image>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB337.png</source>
+      <sound>crocodile</sound>
+      <title>crocodile</title>
+    </image>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB338.png</source>
+      <sound>monkey</sound>
+      <title>monkey</title>
+    </image>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB339.png</source>
+      <sound>parrot</sound>
+      <title>parrot</title>
+    </image>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB340.png</source>
+      <sound>lion</sound>
+      <title>lion</title>
+    </image>
+    <image>
+      <source>demo/LA/U6/L4-59/images/DRAMAIWB341.png</source>
+      <sound>elephant</sound>
+      <title>elephant</title>
+    </image>
+  </images>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game fullcard="1" type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U7/L4-70/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U7/L4-70/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U7/L4-70/audio/combined.mp3,demo/LA/U7/L4-70/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U7/L4-70/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U7/L4-70/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB402.png</source>
+      <sound>astronaut</sound>
+      <title>astronaut</title>
+    </image>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB403.png</source>
+      <sound>rocket</sound>
+      <title>rocket</title>
+    </image>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB404.png</source>
+      <sound>earth</sound>
+      <title>earth</title>
+    </image>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB405.png</source>
+      <sound>sky</sound>
+      <title>sky</title>
+    </image>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB406.png</source>
+      <sound>stars</sound>
+      <title>stars</title>
+    </image>
+    <image>
+      <source>demo/LA/U7/L4-70/images/DRAMAIWB407.png</source>
+      <sound>moon</sound>
+      <title>moon</title>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.56</start>
+      <stop>1.98</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>4.13</start>
+      <stop>4.68</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.51</start>
+      <stop>14.68</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>17.98</start>
+      <stop>22.76</stop>
+    </sound>
+    <sound>
+      <id>astronaut</id>
+      <start>25.20</start>
+      <stop>26.46</stop>
+    </sound>
+    <sound>
+      <id>rocket</id>
+      <start>28.64</start>
+      <stop>29.62</stop>
+    </sound>
+    <sound>
+      <id>earth</id>
+      <start>31.40</start>
+      <stop>32.25</stop>
+    </sound>
+    <sound>
+      <id>sky</id>
+      <start>34.64</start>
+      <stop>35.74</stop>
+    </sound>
+    <sound>
+      <id>stars</id>
+      <start>37.73</start>
+      <stop>38.90</stop>
+    </sound>
+    <sound>
+      <id>moon</id>
+      <start>41.02</start>
+      <stop>42.46</stop>
+    </sound>
+  </sounds>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/LA/U8/L4-81/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U8/L4-81/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U8/L4-81/audio/combined.mp3,demo/LA/U8/L4-81/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/LA/U8/L4-81/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U8/L4-81/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB460.png</source>
+      <sound>apples</sound>
+      <title>apples</title>
+    </image>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB461.png</source>
+      <sound>pears</sound>
+      <title>pears</title>
+    </image>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB462.png</source>
+      <sound>oranges</sound>
+      <title>oranges</title>
+    </image>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB463.png</source>
+      <sound>bananas</sound>
+      <title>bananas</title>
+    </image>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB464.png</source>
+      <sound>cherries</sound>
+      <title>cherries</title>
+    </image>
+    <image>
+      <source>demo/LA/U8/L4-81/images/DRAMAIWB465.png</source>
+      <sound>strawberries</sound>
+      <title>strawberries</title>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.62</start>
+      <stop>1.62</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>4.19</start>
+      <stop>4.69</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.57</start>
+      <stop>14.65</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>18.08</start>
+      <stop>22.79</stop>
+    </sound>
+    <sound>
+      <id>apples</id>
+      <start>25.13</start>
+      <stop>30.13</stop>
+    </sound>
+    <sound>
+      <id>pears</id>
+      <start>31.69</start>
+      <stop>36.65</stop>
+    </sound>
+    <sound>
+      <id>oranges</id>
+      <start>38.25</start>
+      <stop>43.61</stop>
+    </sound>
+    <sound>
+      <id>bananas</id>
+      <start>45.07</start>
+      <stop>50.43</stop>
+    </sound>
+    <sound>
+      <id>cherries</id>
+      <start>52.06</start>
+      <stop>56.96</stop>
+    </sound>
+    <sound>
+      <id>strawberries</id>
+      <start>58.59</start>
+      <stop>63.95</stop>
+    </sound>
+  </sounds>
+</game>

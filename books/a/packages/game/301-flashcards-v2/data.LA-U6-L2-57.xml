@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U6/L2-57/audio/combined.mp3,demo/LA/U6/L2-57/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB320a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB320.png</source>
+      <sound>snake</sound>
+      <word>I can see a snake.</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB321a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB321.png</source>
+      <sound>crocodile</sound>
+      <word>I can see a crocodile.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB322a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB322.png</source>
+      <sound>monkey</sound>
+      <word>I can see a monkey.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB323a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB323.png</source>
+      <sound>parrot</sound>
+      <word>I can see a parrot.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB324a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB324.png</source>
+      <sound>lion</sound>
+      <word>I can see a lion.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L2-57/images/thumbs/DRAMAIWB325a.png</thumb>
+      <source>demo/LA/U6/L2-57/images/DRAMAIWB325.png</source>
+      <sound>elephant</sound>
+      <word>I can see an elephant.</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>snake</id>
+<start>1.12</start>
+<stop>6.22</stop>
+</sound>
+<sound>
+<id>crocodile</id>
+<start>7.53</start>
+<stop>13.89</stop>
+</sound>
+<sound>
+<id>monkey</id>
+<start>14.96</start>
+<stop>20.92</stop>
+</sound>
+<sound>
+<id>parrot</id>
+<start>21.88</start>
+<stop>27.22</stop>
+</sound>
+<sound>
+<id>lion</id>
+<start>28.57</start>
+<stop>33.95</stop>
+</sound>
+<sound>
+<id>elephant</id>
+<start>35.33</start>
+<stop>41.10</stop>
+</sound>
+</sounds>
+</game>

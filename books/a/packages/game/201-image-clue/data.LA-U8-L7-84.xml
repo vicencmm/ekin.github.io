@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game time="135" type="image-clue">
+  <title>Find and click.</title>
+  <screens>
+    <screen align="center, center, center" rows="3,3,3" size="">
+      <images>
+        <image>
+          <source>demo/LA/U8/L7-84/images/DRAMAIWB472.png</source>
+          <sound>a</sound>
+          <title>Hungry</title>
+        </image>
+        <image>
+          <source>demo/LA/U8/L7-84/images/DRAMAIWB473.png</source>
+          <sound>b</sound>
+          <title>Thirsty</title>
+        </image>
+      </images>
+    </screen>
+    <screen align="center,center,center" rows="3,3,3" size="">
+      <images>
+        <image>
+          <source>demo/LA/U8/L7-84/images/DRAMAIWB474.png</source>
+          <sound>c</sound>
+          <title>Food</title>
+        </image>
+        <image>
+          <source>demo/LA/U8/L7-84/images/DRAMAIWB475.png</source>
+          <sound>d</sound>
+          <title>Drink</title>
+        </image>
+      </images>
+    </screen>
+  </screens>
+  <sounds>
+    <sound>
+      <id>intro</id>
+      <start>0.80</start>
+      <stop>8.88</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>9.91</start>
+      <stop>14.62</stop>
+    </sound>
+    <sound>
+      <id>timeup</id>
+      <start>16.50</start>
+      <stop>19.02</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>20.59</start>
+      <stop>22.0</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>22.88</start>
+      <stop>23.38</stop>
+    </sound>
+    <sound>
+      <id>a</id>
+      <start>25.00</start>
+      <stop>25.99</stop>
+    </sound>
+    <sound>
+      <id>b</id>
+      <start>27.28</start>
+      <stop>28.27</stop>
+    </sound>
+    <sound>
+      <id>c</id>
+      <start>30.38</start>
+      <stop>31.28</stop>
+    </sound>
+    <sound>
+      <id>d</id>
+      <start>32.76</start>
+      <stop>33.64</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U8/L7-84/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+    <timeup>
+      <text>Time's up!</text>
+      <image>demo/LA/U8/L7-84/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <sound>timeup</sound>
+      <button>Try again</button>
+    </timeup>
+  </popups>
+  <audio>demo/LA/U8/L7-84/audio/combined.mp3,demo/LA/U8/L7-84/audio/combined.ogg</audio>
+</game>

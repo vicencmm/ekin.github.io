@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/PH/U8-109/audio/combined.mp3,demo/LA/PH/U8-109/audio/combined.ogg" countdown="0" type="phonics-matching">
+  <title>Listen and say. Click.</title>
+  <sounds>
+    <sound>
+      <id>ER</id>
+      <start>2.48</start>
+      <stop>2.88</stop>
+    </sound>
+    <sound>
+      <id>OW</id>
+      <start>4.84</start>
+      <stop>5.68</stop>
+    </sound>
+    <sound>
+      <id>EAR</id>
+      <start>7.62</start>
+      <stop>8.36</stop>
+    </sound>
+    <sound>
+      <id>AIR</id>
+      <start>10.28</start>
+      <stop>11.08</stop>
+    </sound>
+    <sound>
+      <id>1</id>
+      <start>13.57</start>
+      <stop>14.36</stop>
+    </sound>
+    <sound>
+      <id>2</id>
+      <start>16.26</start>
+      <stop>17.19</stop>
+    </sound>
+    <sound>
+      <id>3</id>
+      <start>19.46</start>
+      <stop>20.14</stop>
+    </sound>
+    <sound>
+      <id>4</id>
+      <start>22.07</start>
+      <stop>22.84</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>25.83</start>
+      <stop>30.51</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>33.16</start>
+      <stop>34.91</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>37.21</start>
+      <stop>37.84</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>40.11</start>
+      <stop>48.36</stop>
+    </sound>
+  </sounds>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">ER</sound>
+      <text>er</text>
+    </phonic>
+    <image solution="1">
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB568.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB569.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB570.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB571.png</source>
+      <sound>4</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">OW</sound>
+      <image>demo/LA/PH/U8-109/images/ow.png</image>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB568.png</source>
+      <sound>1</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB569.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB570.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB571.png</source>
+      <sound>4</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">EAR</sound>
+      <image>demo/LA/PH/U8-109/images/ear.png</image>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB568.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB569.png</source>
+      <sound>2</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB570.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB571.png</source>
+      <sound>4</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">AIR</sound>
+      <text>air</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB568.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB569.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB570.png</source>
+      <sound>3</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U8-109/images/DRAMAIWB571.png</source>
+      <sound>4</sound>
+    </image>
+  </screen>
+  <phoneme_background>img/background.png</phoneme_background>
+  <popups>
+    <trophy>
+      <image>demo/LA/PH/U8-109/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <winnerText/>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/PH/U8-109/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+</game>

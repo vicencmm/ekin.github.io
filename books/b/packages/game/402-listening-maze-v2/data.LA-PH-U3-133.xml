@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/PH/U3-133/audio/combined.mp3,demo/LA/PH/U3-133/audio/combined.ogg" time="4" type="listening-maze">
+  <title>Listen and click the letters.</title>
+  <character>
+    <listen>demo/LA/PH/U3-133/images/listen.png</listen>
+    <jump>demo/LA/PH/U3-133/images/jump.png</jump>
+    <land>demo/LA/PH/U3-133/images/wait.png</land>
+    <finish pos="690">demo/LA/PH/U3-133/images/finish.png</finish>
+  </character>
+  <finish>
+    <sound>win</sound>
+    <image>demo/LA/PH/U3-133/images/trophy.png</image>
+  </finish>
+  <fontSize>45px</fontSize>
+  <sounds>
+    <sound>
+      <id>igh</id>
+      <start>1.97</start>
+      <stop>2.76</stop>
+    </sound>
+    <sound>
+      <id>oo</id>
+      <start>4.70</start>
+      <stop>5.08</stop>
+    </sound>
+    <sound>
+      <id>o2</id>
+      <start>7.00</start>
+      <stop>7.83</stop>
+    </sound>
+    <sound>
+      <id>ee</id>
+      <start>9.44</start>
+      <stop>10.21</stop>
+    </sound>
+    <sound>
+      <id>oa</id>
+      <start>34.408</start>
+      <stop>35.167</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>14.38</start>
+      <stop>16.08</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>17.90</start>
+      <stop>18.49</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>20.17</start>
+      <stop>28.39</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>30.67</start>
+      <stop>32.62</stop>
+    </sound>
+  </sounds>
+  <col>
+    <sound>igh</sound>
+    <letters solution="igh">oo.OO.igh.ee.oa</letters>
+  </col>
+  <col>
+    <sound>oo</sound>
+    <letters solution="oo">oo.oa.ee.igh.OO</letters>
+  </col>
+  <col>
+    <sound>o2</sound>
+    <letters solution="OO">oo.oa.igh.ee.OO</letters>
+  </col>
+  <col>
+    <sound>ee</sound>
+    <letters solution="ee">oa.oo.ee.igh.OO</letters>
+  </col>
+  <col>
+    <sound>oa</sound>
+    <letters solution="oa">igh.oo.oa.ee.OO</letters>
+  </col>
+</game>

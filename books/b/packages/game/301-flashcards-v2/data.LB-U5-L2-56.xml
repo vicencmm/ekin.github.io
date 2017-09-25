@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U5/L2-56/audio/audio.mp3,demo/LB/U5/L2-56/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB317a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB317.png</source>
+      <sound>trousers</sound>
+      <word>Put on your trousers.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB318a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB318.png</source>
+      <sound>hat</sound>
+      <word>Put on your hat.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB319a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB319.png</source>
+      <sound>jumper</sound>
+      <word>Put on your jumper.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB320a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB320.png</source>
+      <sound>gloves</sound>
+      <word>Put on your gloves.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB321a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB321.png</source>
+      <sound>socks</sound>
+      <word>Put on your socks.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L2-56/images/thumbs/DRAMBIWB322a.png</thumb>
+      <source>demo/LB/U5/L2-56/images/DRAMBIWB322.png</source>
+      <sound>boots</sound>
+      <word>Put on your boots.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>trousers</id>
+    <start>0.85</start>
+    <stop>5.02</stop>
+    </sound>
+    <sound>
+    <id>hat</id>
+    <start>6.86</start>
+    <stop>10.38</stop>
+    </sound>
+    <sound>
+    <id>jumper</id>
+    <start>12.24</start>
+    <stop>16.06</stop>
+    </sound>
+    <sound>
+    <id>gloves</id>
+    <start>17.92</start>
+    <stop>21.67</stop>
+    </sound>
+    <sound>
+    <id>socks</id>
+    <start>23.51</start>
+    <stop>27.43</stop>
+    </sound>
+    <sound>
+    <id>boots</id>
+    <start>29.28</start>
+    <stop>34.10</stop>
+    </sound>
+  </sounds>
+</game>

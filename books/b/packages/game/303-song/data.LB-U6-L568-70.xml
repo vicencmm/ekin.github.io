@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U6/L568-70/audio/audio.mp3,demo/LB/U6/L568-70/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>9.16</start>
+    <stop>11.47</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>11.47</start>
+    <stop>13.67</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[There’s an island]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>13.67</start>
+    <stop>16.13</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[In the sea.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>16.13</start>
+    <stop>18.44</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[There’s an island]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>18.44</start>
+    <stop>20.72</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[In the sea.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>20.72</start>
+    <stop>22.85</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>22.84</start>
+    <stop>25.25</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>25.25</start>
+    <stop>27.57</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[There’s a mountain]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>27.57</start>
+    <stop>29.83</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[And some trees.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>29.83</start>
+    <stop>32.12</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[There’s a mountain]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>32.12</start>
+    <stop>34.41</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[And some trees.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>34.41</start>
+    <stop>36.58</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>36.58</start>
+    <stop>38.82</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>38.82</start>
+    <stop>41.30</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[There’s a river]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>41.30</start>
+    <stop>43.41</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[And a beach.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>43.42</start>
+    <stop>45.75</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[There’s a river]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>45.74</start>
+    <stop>48.15</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[And a beach.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>48.15</start>
+    <stop>50.28</stop>
+    </sound>
+    <sound>
+    <id>19Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>50.28</start>
+    <stop>52.69</stop>
+    </sound>
+    <sound>
+    <id>20Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>52.69</start>
+    <stop>54.99</stop>
+    </sound>
+    <sound>
+    <id>21Label</id>
+    <text><![CDATA[There’s a house]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>54.99</start>
+    <stop>57.04</stop>
+    </sound>
+    <sound>
+    <id>22Label</id>
+    <text><![CDATA[For you and me!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>57.04</start>
+    <stop>59.63</stop>
+    </sound>
+    <sound>
+    <id>23Label</id>
+    <text><![CDATA[There’s a house]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>59.63</start>
+    <stop>61.65</stop>
+    </sound>
+    <sound>
+    <id>24Label</id>
+    <text><![CDATA[For you and me!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>61.65</start>
+    <stop>66.44</stop>
+    </sound>
+  </sounds>
+</game>

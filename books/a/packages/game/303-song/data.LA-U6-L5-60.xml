@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U6/L5-60/audio/combined.mp3,demo/LA/U6/L5-60/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[I can see a monkey,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB342.png</image>
+      <start>9.585</start>
+      <stop>11.575</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[A monkey, a monkey.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB342.png</image>
+      <start>11.575</start>
+      <stop>13.948</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a monkey,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB342.png</image>
+      <start>13.948</start>
+      <stop>16.130</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[In the trees. ]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB342.png</image>
+      <start>16.130</start>
+      <stop>27.047</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a lion,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB343.png</image>
+      <start>27.047</start>
+      <stop>29.037</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[A lion, a lion.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB343.png</image>
+      <start>29.037</start>
+      <stop>31.393</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a lion,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB343.png</image>
+      <start>31.393</start>
+      <stop>33.587</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[In the grass.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB343.png</image>
+      <start>33.587</start>
+      <stop>44.491</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a crocodile,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB344.png</image>
+      <start>44.491</start>
+      <stop>46.495</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[A crocodile, a crocodile.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB344.png</image>
+      <start>46.495</start>
+      <stop>48.855</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a crocodile,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB344.png</image>
+      <start>48.855</start>
+      <stop>51.041</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[In the river.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB344.png</image>
+      <start>51.041</start>
+      <stop>61.936</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a snake,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB345.png</image>
+      <start>61.936</start>
+      <stop>63.922</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[A snake, a snake.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB345.png</image>
+      <start>63.922</start>
+      <stop>66.313</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I can see a snake,]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB345.png</image>
+      <start>66.313</start>
+      <stop>68.490</stop>
+    </sound>
+	<sound>
+      <text><![CDATA[In the rocks.]]></text>
+      <image>demo/LA/U6/L5-60/images/DRAMAIWB345.png</image>
+      <start>68.490</start>
+      <stop>79.938</stop>
+    </sound>
+  </sounds>
+</game>

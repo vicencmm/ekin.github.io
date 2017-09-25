@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U8/L2-89/audio/audio.mp3,demo/LB/U8/L2-89/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U8/L2-89/images/thumbs/DRAMBIWB502a.png</thumb>
+      <source>demo/LB/U8/L2-89/images/DRAMBIWB502.png</source>
+      <sound>grass</sound>
+      <word>It's in the grass.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U8/L2-89/images/thumbs/DRAMBIWB503a.png</thumb>
+      <source>demo/LB/U8/L2-89/images/DRAMBIWB503.png</source>
+      <sound>bench</sound>
+      <word>It's on the bench.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U8/L2-89/images/thumbs/DRAMBIWB504a.png</thumb>
+      <source>demo/LB/U8/L2-89/images/DRAMBIWB504.png</source>
+      <sound>path</sound>
+      <word>It's on the path.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>grass</id>
+    <start>0.46</start>
+    <stop>4.91</stop>
+    </sound>
+    <sound>
+    <id>bench</id>
+    <start>6.76</start>
+    <stop>11.11</stop>
+    </sound>
+    <sound>
+    <id>path</id>
+    <start>12.97</start>
+    <stop>17.39</stop>
+    </sound>
+  </sounds>
+</game>

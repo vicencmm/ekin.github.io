@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U7/L5-82/audio/audio.mp3,demo/LB/U7/L5-82/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U7/L5-82/images/thumbs/DRAMBIWB465a.png</thumb>
+      <source>demo/LB/U7/L5-82/images/DRAMBIWB465.png</source>
+      <sound>chickens</sound>
+      <word>eggs <![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]]> chickens</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L5-82/images/thumbs/DRAMBIWB466a.png</thumb>
+      <source>demo/LB/U7/L5-82/images/DRAMBIWB466.png</source>
+      <sound>bees</sound>
+      <word>honey <![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]]> bees</word>
+    </image>
+        <image>
+      <thumb>demo/LB/U7/L5-82/images/thumbs/DRAMBIWB467a.png</thumb>
+      <source>demo/LB/U7/L5-82/images/DRAMBIWB467.png</source>
+      <sound>cows</sound>
+      <word>milk <![CDATA[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]]> cows</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>chickens</id>
+    <start>0.83</start>
+    <stop>11.66</stop>
+    </sound>
+    <sound>
+    <id>bees</id>
+    <start>13.57</start>
+    <stop>24.61</stop>
+    </sound>
+    <sound>
+    <id>cows</id>
+    <start>26.96</start>
+    <stop>40.52</stop>
+    </sound>
+  </sounds>
+</game>

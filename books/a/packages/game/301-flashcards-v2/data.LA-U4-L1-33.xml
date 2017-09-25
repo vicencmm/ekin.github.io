@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U4/L1-33/audio/combined.mp3,demo/LA/U4/L1-33/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB189a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB189.png</source>
+      <sound>mummy</sound>
+      <word>mummy</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB190a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB190.png</source>
+      <sound>daddy</sound>
+      <word>daddy</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB191a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB191.png</source>
+      <sound>sister</sound>
+      <word>sister</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB192a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB192.png</source>
+      <sound>brother</sound>
+      <word>brother</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB193a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB193.png</source>
+      <sound>granny</sound>
+      <word>granny</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L1-33/images/thumbs/DRAMAIWB194a.png</thumb>
+      <source>demo/LA/U4/L1-33/images/DRAMAIWB194.png</source>
+      <sound>grandad</sound>
+      <word>grandad</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>mummy</id>
+<start>0.76</start>
+<stop>1.59</stop>
+</sound>
+<sound>
+<id>daddy</id>
+<start>2.95</start>
+<stop>3.78</stop>
+</sound>
+<sound>
+<id>sister</id>
+<start>5.78</start>
+<stop>6.75</stop>
+</sound>
+<sound>
+<id>brother</id>
+<start>8.73</start>
+<stop>9.58</stop>
+</sound>
+<sound>
+<id>granny</id>
+<start>11.51</start>
+<stop>12.44</stop>
+</sound>
+<sound>
+<id>grandad</id>
+<start>14.68</start>
+<stop>15.84</stop>
+</sound>
+</sounds>
+</game>

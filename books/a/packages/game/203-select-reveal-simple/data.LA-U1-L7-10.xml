@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="select-reveal" countdown="0" audio="demo/L7/U1/L10-01/audio/combined.mp3,demo/L7/U1/L10-01/audio/combined.ogg">
+  <title sound="true">Listen and click.</title>
+  <screens>
+    <screen size="70">
+      <image>
+        <show>demo/L7/U1/L10-01/images/DRAMAIWB026a.png</show>
+        <reveal>demo/L7/U1/L10-01/images/DRAMAIWB027a.png</reveal>
+      </image>
+      <sounds>
+        <answer>Let's run. Run.</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image solution="1">
+          <sound>Let's run. Run.</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB027.png</source>
+        </image>
+        <image>
+          <sound>Let's jump. Jump</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB028.png</source>
+        </image>
+        <image>
+          <sound>Let's stretch. Str</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB029.png</source>
+        </image>
+        <image>
+          <sound>Let's climb. Climb</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB030.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="70">
+      <image>
+        <show>demo/L7/U1/L10-01/images/DRAMAIWB026b.png</show>
+        <reveal>demo/L7/U1/L10-01/images/DRAMAIWB028a.png</reveal>
+      </image>
+      <sounds>
+        <answer>Let's jump. Jump</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>Let's run. Run.</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB027.png</source>
+        </image>
+        <image solution="1">
+          <sound>Let's jump. Jump</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB028.png</source>
+        </image>
+        <image>
+          <sound>Let's stretch. Str</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB029.png</source>
+        </image>
+        <image>
+          <sound>Let's climb. Climb</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB030.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="70">
+      <image>
+        <show>demo/L7/U1/L10-01/images/DRAMAIWB026c.png</show>
+        <reveal>demo/L7/U1/L10-01/images/DRAMAIWB029a.png</reveal>
+      </image>
+      <sounds>
+        <answer>Let's stretch. Str</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>Let's run. Run.</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB027.png</source>
+        </image>
+        <image>
+          <sound>Let's jump. Jump</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB028.png</source>
+        </image>
+        <image solution="1">
+          <sound>Let's stretch. Str</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB029.png</source>
+        </image>
+        <image>
+          <sound>Let's climb. Climb</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB030.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="70">
+      <image>
+        <show>demo/L7/U1/L10-01/images/DRAMAIWB026d.png</show>
+        <reveal>demo/L7/U1/L10-01/images/DRAMAIWB030a.png</reveal>
+      </image>
+      <sounds>
+        <answer>Let's climb. Climb</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>Let's run. Run.</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB027.png</source>
+        </image>
+        <image>
+          <sound>Let's jump. Jump</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB028.png</source>
+        </image>
+        <image>
+          <sound>Let's stretch. Str</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB029.png</source>
+        </image>
+        <image solution="1">
+          <sound>Let's climb. Climb</sound>
+          <source>demo/L7/U1/L10-01/images/DRAMAIWB030.png</source>
+        </image>
+      </images>
+    </screen>
+  </screens>
+  <sounds>
+    <sound>
+      <id>Let's run. Run.</id>
+      <start>0</start>
+      <stop>4.7631875</stop>
+    </sound>
+    <sound>
+      <id>Let's jump. Jump</id>
+      <start>4.9631875</start>
+      <stop>10.0920625</stop>
+    </sound>
+    <sound>
+      <id>Let's stretch. Str</id>
+      <start>10.2920625</start>
+      <stop>15.8650625</stop>
+    </sound>
+    <sound>
+      <id>Let's climb. Climb</id>
+      <start>16.0650625</start>
+      <stop>21.3245625</stop>
+    </sound>
+    <sound>
+      <id>Let's run. Run.</id>
+      <start>21.5245625</start>
+      <stop>26.28775</stop>
+    </sound>
+    <sound>
+      <id>Let's jump. Jump</id>
+      <start>26.48775</start>
+      <stop>31.616625</stop>
+    </sound>
+    <sound>
+      <id>Let's stretch. Str</id>
+      <start>31.816625</start>
+      <stop>37.389625</stop>
+    </sound>
+    <sound>
+      <id>Let's climb. Climb</id>
+      <start>37.589625</start>
+      <stop>42.849125</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>43.049125</start>
+      <stop>45.3568125</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>45.5568125</start>
+      <stop>46.506125</stop>
+    </sound>
+    <sound>
+      <id>wins</id>
+      <start>58.500</start>
+      <stop>63.500</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>48.9003125</start>
+      <stop>57.2</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/L7/U1/L10-01/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>wins</sound>
+    </win>
+  </popups>
+</game>

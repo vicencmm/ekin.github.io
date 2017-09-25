@@ -1,0 +1,131 @@
+#game.phonics-matching #game-content {
+  position: absolute;
+  left: 23px;
+  right: 23px;
+  top: 60px;
+  bottom: 66px; }
+  #game.phonics-matching #game-content ul#images {
+    width: 354px;
+    position: absolute;
+    left: 0px; }
+  #game.phonics-matching #game-content div.separator {
+    position: absolute;
+    height: 100%;
+    background: #951b81;
+    margin-left: -1.5px;
+    width: 3px;
+    left: 50%; }
+  #game.phonics-matching #game-content.big ul#images {
+    width: 25%;
+    text-align: left; }
+    #game.phonics-matching #game-content.big ul#images ul.row {
+      text-align: left; }
+  #game.phonics-matching #game-content.big #phonic {
+    text-align: left;
+    width: 60%; }
+    #game.phonics-matching #game-content.big #phonic .dropzones {
+      text-align: right; }
+  #game.phonics-matching #game-content ul {
+    position: relative;
+    text-align: center; }
+  #game.phonics-matching #game-content ul li {
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+    position: relative;
+    overflow: visible;
+    border: 1px solid #66a033;
+    border-radius: 6px;
+    padding: 3px;
+    /*-webkit-backface-visibility: hidden;*/ }
+    #game.phonics-matching #game-content ul li.inactive {
+      cursor: default !important; }
+  #game.phonics-matching #game-content ul#images li {
+    box-shadow: 3px 3px 6px #666666;
+    -moz-box-shadow: 3px 3px 6px #666666;
+    -webkit-box-shadow: 3px 3px 6px #666666;
+    background: #ffffff; }
+  #game.phonics-matching #game-content ul#images li.selected div.source {
+    background: #e7b5fc; }
+  #game.phonics-matching #game-content ul#images li.empty {
+    -webkit-box-shadow: 0 0 0 0 #fff;
+    -moz-box-shadow: 0 0 0 0 #fff;
+    box-shadow: 0 0 0 0 #fff;
+    border-color: #fff;
+    cursor: default; }
+  #game.phonics-matching #game-content ul li img {
+    vertical-align: middle; }
+  #game.phonics-matching #game-content #phonic {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 354px;
+    text-align: center;
+    margin-top: -10px; }
+  #game.phonics-matching #game-content #phonic .dropzones {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    text-align: left;
+    width: 800px; }
+  #game.phonics-matching #game-content .dropzones li {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    box-shadow: inset 0px 0px 8px #aaaaaa;
+    -moz-box-shadow: inset 0px 0px 8px #aaaaaa;
+    -webkit-box-shadow: inset 0px 0px 8px #aaaaaa;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    margin: 0px 15px;
+    background: #fff;
+    padding: 3px;
+    border: 1px solid #951b81; }
+  #game.phonics-matching #game-content .dropzones li:last-child {
+    margin-right: 0px; }
+  #game.phonics-matching #game-content .dropzones li:first-child {
+    margin-left: 0px; }
+  #game.phonics-matching #game-content #phonic .phonic-image {
+    background-size: contain;
+    display: inline-block;
+    position: relative;
+    text-align: center; }
+    #game.phonics-matching #game-content #phonic .phonic-image span {
+      vertical-align: middle;
+      color: white;
+      font-size: 150px; }
+  #game.phonics-matching #game-content #phonic img {
+    width: 100%;
+    height: 100%; }
+  #game.phonics-matching #game-content #phonic .phonic-image div.sound-icon {
+    left: 0px;
+    top: 0px;
+    display: block;
+    position: absolute; }
+  #game.phonics-matching #game-content ul.matches li > img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 10; }
+  #game.phonics-matching #game-content ul li div.source {
+    z-index: 20;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border: 3px solid #951b81;
+    padding: 1px;
+    left: -1px;
+    top: -1px; }
+  #game.phonics-matching #game-content #phonic .dropzones div.source {
+    border-width: 1px;
+    padding: 3px;
+    text-align: center; }
+    #game.phonics-matching #game-content #phonic .dropzones div.source img {
+      width: auto;
+      height: auto; }

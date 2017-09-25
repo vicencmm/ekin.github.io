@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U5/L568-59/audio/audio.mp3,demo/LB/U5/L568-59/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>7.94</start>
+    <stop>11.87</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>11.87</start>
+    <stop>16.22</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[Put on your gloves]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>16.22</start>
+    <stop>17.92</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>17.92</start>
+    <stop>19.96</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>19.96</start>
+    <stop>27.89</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>27.89</start>
+    <stop>31.90</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>31.90</start>
+    <stop>36.22</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Put on your boots]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>36.22</start>
+    <stop>37.94</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>37.94</start>
+    <stop>39.93</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>39.95</start>
+    <stop>47.94</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>47.94</start>
+    <stop>51.94</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>51.94</start>
+    <stop>56.24</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Put on your hat]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>56.24</start>
+    <stop>57.90</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>57.90</start>
+    <stop>59.88</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>59.88</start>
+    <stop>67.88</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>67.90</start>
+    <stop>71.94</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>71.94</start>
+    <stop>76.27</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[Put on your jumper]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>76.25</start>
+    <stop>77.90</stop>
+    </sound>
+    <sound>
+    <id>19Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>77.90</start>
+    <stop>79.94</stop>
+    </sound>
+    <sound>
+    <id>20Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>79.94</start>
+    <stop>91.43</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game time="180" type="image-clue">
+  <title>Find and click.</title>
+  <screens>
+    <screen align="center,center,center" rows="4,4,4" size="">
+      <images>
+        <image>
+          <source>demo/LA/U2/L7-18/images/DRAMAIWB112.png</source>
+          <sound>a</sound>
+          <title>Dirty hands</title>
+        </image>
+        <image>
+          <source>demo/LA/U2/L7-18/images/DRAMAIWB113.png</source>
+          <sound>b</sound>
+          <title>Clean hands</title>
+        </image>
+        <image>
+          <source>demo/LA/U2/L7-18/images/DRAMAIWB114.png</source>
+          <sound>c</sound>
+          <title>A dirty face</title>
+        </image>
+        <image>
+          <source>demo/LA/U2/L7-18/images/DRAMAIWB115.png</source>
+          <sound>d</sound>
+          <title>A clean face</title>
+        </image>
+      </images>
+    </screen>
+  </screens>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.09</start>
+      <stop>1.60</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>3.66</start>
+      <stop>4.16</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.11</start>
+      <stop>14.20</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>17.52</start>
+      <stop>22.23</stop>
+    </sound>
+    <sound>
+      <id>a</id>
+      <start>24.27</start>
+      <stop>25.84</stop>
+    </sound>
+    <sound>
+      <id>b</id>
+      <start>28.62</start>
+      <stop>30.17</stop>
+    </sound>
+    <sound>
+      <id>c</id>
+      <start>32.95</start>
+      <stop>34.65</stop>
+    </sound>
+    <sound>
+      <id>d</id>
+      <start>37.44</start>
+      <stop>39.11</stop>
+    </sound>
+    <sound>
+      <id>timeup</id>
+      <start>43.368</start>
+      <stop>45.975</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U2/L7-18/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+    <timeup>
+      <text>Time's up!</text>
+      <image>demo/LA/U2/L7-18/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <sound>timeup</sound>
+      <button>Try again</button>
+    </timeup>
+  </popups>
+  <audio>demo/LA/U2/L7-18/audio/combined.mp3,demo/LA/U2/L7-18/audio/combined.ogg</audio>
+</game>

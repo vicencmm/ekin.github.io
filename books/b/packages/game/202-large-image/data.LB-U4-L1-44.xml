@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U4/L1-44/audio/audio.mp3,demo/LB/U4/L1-44/audio/audio.ogg</audio>
+  <background>demo/LB/U4/L1-44/images/DRAMBIWB249b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249c.png</source>
+      <sound>house</sound>
+      <title>house</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249d.png</source>
+      <sound>roof</sound>
+      <title>roof</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249e.png</source>
+      <sound>floor</sound>
+      <title>floor</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249h.png</source>
+      <sound>walls</sound>
+      <title>walls</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249f.png</source>
+      <sound>window</sound>
+      <title>window</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249g.png</source>
+      <sound>door</sound>
+      <title>door</title>
+      <effect>shake</effect>
+    </image>
+    
+  </images>
+  <sounds>
+    <sound>
+    <id>house</id>
+    <start>0.51</start>
+    <stop>1.43</stop>
+    </sound>
+    <sound>
+    <id>roof</id>
+    <start>3.10</start>
+    <stop>3.92</stop>
+    </sound>
+    <sound>
+    <id>floor</id>
+    <start>5.96</start>
+    <stop>6.82</stop>
+    </sound>
+    <sound>
+    <id>window</id>
+    <start>8.58</start>
+    <stop>9.57</stop>
+    </sound>
+    <sound>
+    <id>door</id>
+    <start>11.56</start>
+    <stop>12.32</stop>
+    </sound>
+    <sound>
+    <id>walls</id>
+    <start>14.79</start>
+    <stop>15.74</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>20.16</start>
+    <stop>28.25</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,2 @@
+img/symbol1.png
+img/symbol2.png

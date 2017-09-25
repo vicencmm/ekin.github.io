@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U3/L568-37/audio/audio.mp3,demo/LB/U3/L568-37/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[This is a plane, it travels by air,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB215.png</image>
+    <start>9.7</start>
+    <stop>15.16</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[In the sky it goes.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB215.png</image>
+    <start>15.16</start>
+    <stop>19.36</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[This is a car, it travels by land,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB216.png</image>
+    <start>19.36</start>
+    <stop>24.73</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[On the road it goes.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB216.png</image>
+    <start>24.73</start>
+    <stop>28.95</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[This is a boat, it travels by sea,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>28.95</start>
+    <stop>33.79</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[Far away from me.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>33.79</start>
+    <stop>38.46</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[Travelling, travelling far away,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>38.46</start>
+    <stop>42.76</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[By air and land and sea.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>42.76</start>
+    <stop>58.94</stop>
+    </sound>
+  </sounds>
+</game>

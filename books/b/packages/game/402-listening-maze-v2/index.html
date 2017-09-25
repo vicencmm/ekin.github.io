@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <link rel="stylesheet" href="game.listening-maze.css" media="all">
+        <link rel="stylesheet" href="../_assets/css/game.css"/>
+        <script src="../_assets/js/jquery-ui-1.10.3/jquery-1.10.2.min.js"></script>
+        <script src="../_assets/js/jquery-ui-1.10.3/ui/jquery-ui.min.js"></script>
+        <script src="../_assets/js/jquery.fx.transform.js"></script>
+        <script src="../_assets/js/jquery.transit.js"></script>
+        <script src="../_assets/js/game.v5.js"></script>
+        <script src="../_assets/js/jquery.flashembed.min.js"></script>
+        <script src="game.listening-maze.js"></script>
+        <script type="text/javascript" src="http://use.typekit.net/itk2pgx.js"></script>
+        <script type="text/javascript">
+            try {
+                window.Typekit.load();
+            } catch (e) {
+            }
+        </script>
+    </head>
+    <body>
+        <div id="game">
+            <!--<div id="timer"><div id="progressbar"></div></div>-->
+            <div id="game-content">
+               
+            </div>
+            <div id="buttons">   
+                <div class="content">
+                    <div class="button" id="solve"><b>Show answers</b></div>
+                    <div class="button" id="reset"><b>Reset</b></div>
+                </div>
+            </div>
+
+            <div id="popup"style="display:none">
+                <div class="close"></div>
+                <!--<img src='../_assets/img/well-done.gif' class='welldone' />-->
+                <img src='../_assets/img/time-up.png' class='timeup' />
+                <div id="replay" class='button'><b>Play Again</b></div>
+            </div>
+        </div>
+    </body>
+</html>

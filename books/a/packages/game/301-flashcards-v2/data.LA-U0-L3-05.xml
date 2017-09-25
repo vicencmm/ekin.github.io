@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U1/L3-05/audio/combined.mp3,demo/LA/U1/L3-05/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U1/L3-05/images/thumbs/DRAMAIWB619a.png</thumb>
+      <source>demo/LA/U1/L3-05/images/DRAMAIWB619.png</source>
+      <sound>red</sound>
+      <word>red</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L3-05/images/thumbs/DRAMAIWB620a.png</thumb>
+      <source>demo/LA/U1/L3-05/images/DRAMAIWB620.png</source>
+      <sound>yellow</sound>
+      <word>yellow</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L3-05/images/thumbs/DRAMAIWB621a.png</thumb>
+      <source>demo/LA/U1/L3-05/images/DRAMAIWB621.png</source>
+      <sound>green</sound>
+      <word>green</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L3-05/images/thumbs/DRAMAIWB622a.png</thumb>
+      <source>demo/LA/U1/L3-05/images/DRAMAIWB622.png</source>
+      <sound>blue</sound>
+      <word>blue</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>red</id>
+<start>0.64</start>
+<stop>1.51</stop>
+</sound>
+<sound>
+<id>yellow</id>
+<start>2.69</start>
+<stop>3.72</stop>
+</sound>
+<sound>
+<id>green</id>
+<start>4.85</start>
+<stop>5.90</stop>
+</sound>
+<sound>
+<id>blue</id>
+<start>7.26</start>
+<stop>8.20</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U7/L5-72/audio/combined.mp3,demo/LA/U7/L5-72/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U7/L5-72/images/thumbs/DRAMAIWB410a.png</thumb>
+      <source>demo/LA/U7/L5-72/images/DRAMAIWB410.png</source>
+      <sound>day</sound>
+      <word>daytime</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U7/L5-72/images/thumbs/DRAMAIWB411a.png</thumb>
+      <source>demo/LA/U7/L5-72/images/DRAMAIWB411.png</source>
+      <sound>night</sound>
+      <word>night-time</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>day</id>
+<start>1.15</start>
+<stop>9.85</stop>
+</sound>
+<sound>
+<id>night</id>
+<start>11.81</start>
+<stop>24.20</stop>
+</sound>
+</sounds>
+</game>

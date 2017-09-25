@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U8/L568-92/audio/audio.mp3,demo/LB/U8/L568-92/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>11.08</start>
+    <stop>13.58</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[On the leaf,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>13.58</start>
+    <stop>16.04</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>16.04</start>
+    <stop>18.45</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[Lays an egg.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>18.45</start>
+    <stop>23.43</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>23.43</start>
+    <stop>25.92</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[Comes out of the egg,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>25.92</start>
+    <stop>28.34</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>28.34</start>
+    <stop>30.87</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Eats and eats.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>30.87</start>
+    <stop>35.82</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>35.82</start>
+    <stop>38.32</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[Makes a cocoon,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>38.32</start>
+    <stop>40.72</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>40.74</start>
+    <stop>43.23</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[Comes out soon.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>43.23</start>
+    <stop>49.57</stop>
+    </sound>
+  </sounds>
+</game>

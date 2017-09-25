@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/L2/U1/L4-01/audio/combined.mp3,demo/L2/U1/L4-01/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB050a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB050.png</source>
+      <sound>Let's wave</sound>
+      <word>Let's wave.</word>
+    </image>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB046a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB046.png</source>
+      <sound>Let's clap</sound>
+      <word>Let's clap.</word>
+    </image>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB047a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB047.png</source>
+      <sound>Let's point</sound>
+      <word>Let's point.</word>
+    </image>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB048a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB048.png</source>
+      <sound>Let's sit down</sound>
+      <word>Let's sit down.</word>
+    </image>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB049a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB049.png</source>
+      <sound>Let's stand up</sound>
+      <word>Let's stand up.</word>
+    </image>
+    <image>
+      <thumb>demo/L2/U1/L4-01/images/thumbs/DRAMAIWB045a.png</thumb>
+      <source>demo/L2/U1/L4-01/images/DRAMAIWB045.png</source>
+      <sound>Let's dance</sound>
+      <word>Let's dance.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>Let's wave</id>
+      <start>0.201</start>
+      <stop>1.500</stop>
+    </sound>
+    <sound>
+      <id>Let's clap</id>
+      <start>2.156</start>
+      <stop>3.409</stop>
+    </sound>
+    <sound>
+      <id>Let's point</id>
+      <start>4.120</start>
+      <stop>5.440</stop>
+    </sound>
+    <sound>
+      <id>Let's sit down</id>
+      <start>6.251</start>
+      <stop>7.882</stop>
+    </sound>
+    <sound>
+      <id>Let's stand up</id>
+      <start>8.557</start>
+      <stop>10.053</stop>
+    </sound>
+    <sound>
+      <id>Let's dance</id>
+      <start>10.775</start>
+      <stop>12.117</stop>
+    </sound>
+  </sounds>
+</game>

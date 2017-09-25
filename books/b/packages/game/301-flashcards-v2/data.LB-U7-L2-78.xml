@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U7/L2-78/audio/audio.mp3,demo/LB/U7/L2-78/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB449a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB449.png</source>
+      <sound>bread</sound>
+      <word>Give me some...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB451a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB451.png</source>
+      <sound>butter</sound>
+      <word>Give me some...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB452a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB452.png</source>
+      <sound>ham</sound>
+      <word>Give me some...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB450a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB450.png</source>
+      <sound>cheese</sound>
+      <word>Give me some...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB454a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB454.png</source>
+      <sound>salad</sound>
+      <word>Give me some...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U7/L2-78/images/thumbs/DRAMBIWB453a.png</thumb>
+      <source>demo/LB/U7/L2-78/images/DRAMBIWB453.png</source>
+      <sound>egg</sound>
+      <word>Give me some...</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>bread</id>
+    <start>0.43</start>
+    <stop>4.56</stop>
+    </sound>
+    <sound>
+    <id>butter</id>
+    <start>6.42</start>
+    <stop>10.51</stop>
+    </sound>
+    <sound>
+    <id>ham</id>
+    <start>12.36</start>
+    <stop>16.66</stop>
+    </sound>
+    <sound>
+    <id>cheese</id>
+    <start>18.54</start>
+    <stop>23.44</stop>
+    </sound>
+    <sound>
+    <id>salad</id>
+    <start>25.28</start>
+    <stop>30.02</stop>
+    </sound>
+    <sound>
+    <id>egg</id>
+    <start>31.90</start>
+    <stop>36.05</stop>
+    </sound>
+  </sounds>
+</game>

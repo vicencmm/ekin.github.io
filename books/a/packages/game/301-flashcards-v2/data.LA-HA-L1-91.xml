@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/HA/L1-88/audio/combined.mp3,demo/LA/HA/L1-88/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/HA/L1-88/images/thumbs/DRAMAIWB492a.png</thumb>
+      <source>demo/LA/HA/L1-88/images/DRAMAIWB492.png</source>
+      <sound>bat</sound>
+      <word>bat</word>
+    </image>
+    <image>
+      <thumb>demo/LA/HA/L1-88/images/thumbs/DRAMAIWB493a.png</thumb>
+      <source>demo/LA/HA/L1-88/images/DRAMAIWB493.png</source>
+      <sound>cat</sound>
+      <word>cat</word>
+    </image>
+    <image>
+      <thumb>demo/LA/HA/L1-88/images/thumbs/DRAMAIWB494a.png</thumb>
+      <source>demo/LA/HA/L1-88/images/DRAMAIWB494.png</source>
+      <sound>spider</sound>
+      <word>spider</word>
+    </image>
+    <image>
+      <thumb>demo/LA/HA/L1-88/images/thumbs/DRAMAIWB495a.png</thumb>
+      <source>demo/LA/HA/L1-88/images/DRAMAIWB495.png</source>
+      <sound>pumpkin</sound>
+      <word>pumpkin</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>bat</id>
+<start>0.45</start>
+<stop>3.37</stop>
+</sound>
+<sound>
+<id>cat</id>
+<start>5.30</start>
+<stop>8.42</stop>
+</sound>
+<sound>
+<id>spider</id>
+<start>10.28</start>
+<stop>14.08</stop>
+</sound>
+<sound>
+<id>pumpkin</id>
+<start>15.89</start>
+<stop>19.32</stop>
+</sound>
+</sounds>
+</game>

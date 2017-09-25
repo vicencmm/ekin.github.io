@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U6/L5-61/audio/combined.mp3,demo/LA/U6/L5-61/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U6/L5-61/images/thumbs/DRAMAIWB346a.png</thumb>
+      <source>demo/LA/U6/L5-61/images/DRAMAIWB346.png</source>
+      <sound>trees</sound>
+      <word>trees</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U6/L5-61/images/thumbs/DRAMAIWB347a.png</thumb>
+      <source>demo/LA/U6/L5-61/images/DRAMAIWB347.png</source>
+      <sound>grass</sound>
+      <word>grass</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L5-61/images/thumbs/DRAMAIWB348a.png</thumb>
+      <source>demo/LA/U6/L5-61/images/DRAMAIWB348.png</source>
+      <sound>river</sound>
+      <word>river</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L5-61/images/thumbs/DRAMAIWB349a.png</thumb>
+      <source>demo/LA/U6/L5-61/images/DRAMAIWB349.png</source>
+      <sound>rocks</sound>
+      <word>rocks</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>trees</id>
+<start>0.40</start>
+<stop>6.60</stop>
+</sound>
+<sound>
+<id>grass</id>
+<start>8.26</start>
+<stop>14.67</stop>
+</sound>
+<sound>
+<id>river</id>
+<start>16.07</start>
+<stop>22.91</stop>
+</sound>
+<sound>
+<id>rocks</id>
+<start>24.54</start>
+<stop>31.26</stop>
+</sound>
+</sounds>
+</game>

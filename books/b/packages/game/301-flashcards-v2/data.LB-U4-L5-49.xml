@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U4/L5-49/audio/audio.mp3,demo/LB/U4/L5-49/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U4/L5-49/images/thumbs/DRAMBIWB267a.png</thumb>
+      <source>demo/LB/U4/L5-49/images/DRAMBIWB267.png</source>
+      <sound>bathroom</sound>
+      <word>bathroom</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L5-49/images/thumbs/DRAMBIWB268a.png</thumb>
+      <source>demo/LB/U4/L5-49/images/DRAMBIWB268.png</source>
+      <sound>kitchen</sound>
+      <word>kitchen</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L5-49/images/thumbs/DRAMBIWB269a.png</thumb>
+      <source>demo/LB/U4/L5-49/images/DRAMBIWB269.png</source>
+      <sound>livingroom</sound>
+      <word>living room</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L5-49/images/thumbs/DRAMBIWB270a.png</thumb>
+      <source>demo/LB/U4/L5-49/images/DRAMBIWB270.png</source>
+      <sound>bedroom</sound>
+      <word>bedroom</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>bathroom</id>
+    <start>0.71</start>
+    <stop>6.04</stop>
+    </sound>
+    <sound>
+    <id>kitchen</id>
+    <start>7.95</start>
+    <stop>12.86</stop>
+    </sound>
+    <sound>
+    <id>livingroom</id>
+    <start>14.81</start>
+    <stop>20.24</stop>
+    </sound>
+    <sound>
+    <id>bedroom</id>
+    <start>21.93</start>
+    <stop>26.79</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2" fullcard="1"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U4/L4-47/audio/audio.mp3,demo/LB/U4/L4-47/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U4/L4-47/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U4/L4-47/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>yes</id>
+        <start>0.14</start>
+        <stop>1.13</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>3.72</start>
+        <stop>4.21</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>6.16</start>
+        <stop>14.25</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>17.25</start>
+        <stop>21.97</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>27.71</start>
+        <stop>28.43</stop>
+        </sound>
+        <sound>
+        <id>house</id>
+        <start>33.63</start>
+        <stop>34.55</stop>
+        </sound>
+        <sound>
+        <id>roof</id>
+        <start>36.22</start>
+        <stop>37.04</stop>
+        </sound>
+        <sound>
+        <id>floor</id>
+        <start>39.08</start>
+        <stop>39.94</stop>
+        </sound>
+        <sound>
+        <id>window</id>
+        <start>41.70</start>
+        <stop>42.69</stop>
+        </sound>
+        <sound>
+        <id>door</id>
+        <start>44.68</start>
+        <stop>45.44</stop>
+        </sound>
+        <sound>
+        <id>walls</id>
+        <start>47.91</start>
+        <stop>48.86</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB257.png</source>
+            <title>house</title>
+            <sound>house</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB258.png</source>
+            <title>roof</title>
+            <sound>roof</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB259.png</source>
+            <title>floor</title>
+            <sound>floor</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB260.png</source>
+            <title>window</title>
+            <sound>window</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB261.png</source>
+            <title>door</title>
+            <sound>door</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB262.png</source>
+            <title>walls</title>
+            <sound>walls</sound>        
+        </image>
+    </images>
+</game>

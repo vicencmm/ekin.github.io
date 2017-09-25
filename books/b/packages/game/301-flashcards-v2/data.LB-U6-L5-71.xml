@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U6/L5-71/audio/audio.mp3,demo/LB/U6/L5-71/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U6/L5-71/images/thumbs/DRAMBIWB385a.png</thumb>
+      <source>demo/LB/U6/L5-71/images/DRAMBIWB385.png</source>
+      <sound>map</sound>
+      <word>map</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L5-71/images/thumbs/DRAMBIWB386a.png</thumb>
+      <source>demo/LB/U6/L5-71/images/DRAMBIWB386.png</source>
+      <sound>island</sound>
+      <word>island</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L5-71/images/thumbs/DRAMBIWB387a.png</thumb>
+      <source>demo/LB/U6/L5-71/images/DRAMBIWB387.png</source>
+      <sound>mountain</sound>
+      <word>mountain</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L5-71/images/thumbs/DRAMBIWB388a.png</thumb>
+      <source>demo/LB/U6/L5-71/images/DRAMBIWB388.png</source>
+      <sound>beach</sound>
+      <word>beach</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>map</id>
+    <start>0.66</start>
+    <stop>4.23</stop>
+    </sound>
+    <sound>
+    <id>island</id>
+    <start>6.19</start>
+    <stop>10.11</stop>
+    </sound>
+    <sound>
+    <id>mountain</id>
+    <start>12.03</start>
+    <stop>16.08</stop>
+    </sound>
+    <sound>
+    <id>beach</id>
+    <start>17.76</start>
+    <stop>21.44</stop>
+    </sound>
+  </sounds>
+</game>

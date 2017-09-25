@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U7/L5-71/audio/combined.mp3,demo/LA/U7/L5-71/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[ It’s daytime, ]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>10.441</start>
+      <stop>11.530</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It’s daytime, ]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>11.530</start>
+      <stop>12.727</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Can you see the sun?]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>12.727</start>
+      <stop>14.648</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It’s daytime, ]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>14.648</start>
+      <stop>16.316</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It’s daytime,]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>16.316</start>
+      <stop>17.549</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Can you see the sun?]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB408.png</image>
+      <start>17.549</start>
+      <stop>24.801</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It’s night-time,]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>24.801</start>
+      <stop>26.106</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It’s night-time,]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>26.106</start>
+      <stop>27.302</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Goodnight everyone.]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>27.302</start>
+      <stop>29.260</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[It's night-time, ]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>29.260</start>
+      <stop>30.819</stop>
+    </sound>
+	 <sound>
+      <text><![CDATA[It's night-time, ]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>30.819</start>
+      <stop>32.161</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Goodnight everyone. Sssh!]]></text>
+      <image>demo/LA/U7/L5-71/images/DRAMAIWB409.png</image>
+      <start>32.161</start>
+      <stop>38.289</stop>
+    </sound>
+  </sounds>
+</game>

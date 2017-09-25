@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U1/L568-15/audio/audio.mp3,demo/LB/U1/L568-15/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>1</id>
+    <text><![CDATA[You can draw a picture]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>12.51</start>
+    <stop>15.08</stop>
+    </sound>
+    <sound>
+    <id>2</id>
+    <text><![CDATA[Of anything you see.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>15.08</start>
+    <stop>18.23</stop>
+    </sound>
+    <sound>
+    <id>3</id>
+    <text><![CDATA[Look at these pictures,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>18.23</start>
+    <stop>21.21</stop>
+    </sound>
+    <sound>
+    <id>4</id>
+    <text><![CDATA[1, 2, 3!]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>21.21</start>
+    <stop>23.83</stop>
+    </sound>
+    <sound>
+    <id>5</id>
+    <text><![CDATA[A bed and a table,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>23.83</start>
+    <stop>26.70</stop>
+    </sound>
+    <sound>
+    <id>6</id>
+    <text><![CDATA[Five pictures, two chairs.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>26.70</start>
+    <stop>30.58</stop>
+    </sound>
+    <sound>
+    <id>7</id>
+    <text><![CDATA[Lots of books]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB118.png</image>
+    <start>30.59</start>
+    <stop>33.58</stop>
+    </sound>
+    <sound>
+    <id>8</id>
+    <text><![CDATA[And a chair.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB119.png</image>
+    <start>33.58</start>
+    <stop>41.43</stop>
+    </sound>
+    <sound>
+    <id>9</id>
+    <text><![CDATA[You can draw a picture]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>41.42</start>
+    <stop>44.04</stop>
+    </sound>
+    <sound>
+    <id>10</id>
+    <text><![CDATA[Of anything you see.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>44.04</start>
+    <stop>46.94</stop>
+    </sound>
+    <sound>
+    <id>11</id>
+    <text><![CDATA[Look at these pictures,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>46.94</start>
+    <stop>49.86</stop>
+    </sound>
+    <sound>
+    <id>12</id>
+    <text><![CDATA[1, 2, 3!]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>49.86</start>
+    <stop>52.73</stop>
+    </sound>
+    <sound>
+    <id>13</id>
+    <text><![CDATA[A bed and a table,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>52.73</start>
+    <stop>55.58</stop>
+    </sound>
+    <sound>
+    <id>14</id>
+    <text><![CDATA[Five pictures, two chairs.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>55.58</start>
+    <stop>59.25</stop>
+    </sound>
+    <sound>
+    <id>15</id>
+    <text><![CDATA[Lots of books]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB118.png</image>
+    <start>59.25</start>
+    <stop>62.48</stop>
+    </sound>
+    <sound>
+    <id>16</id>
+    <text><![CDATA[And a chair.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB119.png</image>
+    <start>62.48</start>
+    <stop>72.92</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U2/L568-26/audio/audio.mp3,demo/LB/U2/L568-26/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>8.09</start>
+    <stop>10.89</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>10.89</start>
+    <stop>14.46</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>14.46</start>
+    <stop>17.24</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>17.24</start>
+    <stop>20.43</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[I can hear with my ears,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB159.png</image>
+    <start>20.43</start>
+    <stop>23.69</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[I can hear.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB159.png</image>
+    <start>23.69</start>
+    <stop>26.87</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[I can see with my eyes,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB160.png</image>
+    <start>26.87</start>
+    <stop>30.04</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[I can see.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB160.png</image>
+    <start>30.04</start>
+    <stop>33.25</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[I can smell with my nose,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB161.png</image>
+    <start>33.25</start>
+    <stop>36.47</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[I can smell.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB161.png</image>
+    <start>36.47</start>
+    <stop>39.69</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[I can taste with my mouth,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB162.png</image>
+    <start>39.69</start>
+    <stop>42.86</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[I can taste.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB162.png</image>
+    <start>42.86</start>
+    <stop>46.06</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[I can touch with my hands,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB163.png</image>
+    <start>46.05</start>
+    <stop>49.28</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[I can touch.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB163.png</image>
+    <start>49.27</start>
+    <stop>52.85</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>52.85</start>
+    <stop>55.66</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>55.66</start>
+    <stop>59.27</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>59.27</start>
+    <stop>62.04</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>62.04</start>
+    <stop>65.33</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U3/L568-37/audio/audio.mp3,demo/LB/U3/L568-37/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[This is a plane, it travels by air,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB215.png</image>
+    <start>9.7</start>
+    <stop>15.16</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[In the sky it goes.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB215.png</image>
+    <start>15.16</start>
+    <stop>19.36</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[This is a car, it travels by land,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB216.png</image>
+    <start>19.36</start>
+    <stop>24.73</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[On the road it goes.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB216.png</image>
+    <start>24.73</start>
+    <stop>28.95</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[This is a boat, it travels by sea,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>28.95</start>
+    <stop>33.79</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[Far away from me.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>33.79</start>
+    <stop>38.46</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[Travelling, travelling far away,]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>38.46</start>
+    <stop>42.76</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[By air and land and sea.]]></text>
+    <image>demo/LB/U3/L568-37/images/DRAMBIWB217.png</image>
+    <start>42.76</start>
+    <stop>58.94</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U4/L568-48/audio/audio.mp3,demo/LB/U4/L568-48/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[I wash in the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>10.00</start>
+    <stop>12.17</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[The bathroom, the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>12.17</start>
+    <stop>14.52</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[I wash in the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>14.52</start>
+    <stop>16.75</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[Splash, splash, splash!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>16.75</start>
+    <stop>21.64</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[I eat in the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>21.65</start>
+    <stop>23.72</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[The kitchen, the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>23.72</start>
+    <stop>26.05</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[I eat in the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>26.05</start>
+    <stop>28.40</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[Munch, munch, munch!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>28.39</start>
+    <stop>33.14</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[I play in the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>33.13</start>
+    <stop>35.26</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[The living room, the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>35.26</start>
+    <stop>37.61</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[I play in the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>37.61</start>
+    <stop>39.90</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Fun, fun, fun!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>39.90</start>
+    <stop>44.66</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[I sleep in the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>44.66</start>
+    <stop>46.81</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[The bedroom, the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>46.81</start>
+    <stop>49.14</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[I sleep in the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>49.14</start>
+    <stop>51.43</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[Snore, snore, snore!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>51.42</start>
+    <stop>58.90</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U5/L568-59/audio/audio.mp3,demo/LB/U5/L568-59/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>7.94</start>
+    <stop>11.87</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>11.87</start>
+    <stop>16.22</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[Put on your gloves]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>16.22</start>
+    <stop>17.92</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>17.92</start>
+    <stop>19.96</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[It’s winter, it’s winter, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB330.png</image>
+    <start>19.96</start>
+    <stop>27.89</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>27.89</start>
+    <stop>31.90</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>31.90</start>
+    <stop>36.22</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Put on your boots]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>36.22</start>
+    <stop>37.94</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>37.94</start>
+    <stop>39.93</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[It’s spring, it’s spring, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB331.png</image>
+    <start>39.95</start>
+    <stop>47.94</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>47.94</start>
+    <stop>51.94</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>51.94</start>
+    <stop>56.24</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Put on your hat]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>56.24</start>
+    <stop>57.90</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>57.90</start>
+    <stop>59.88</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[It’s summer, it’s summer, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB332.png</image>
+    <start>59.88</start>
+    <stop>67.88</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>67.90</start>
+    <stop>71.94</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>71.94</start>
+    <stop>76.27</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[Put on your jumper]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>76.25</start>
+    <stop>77.90</stop>
+    </sound>
+    <sound>
+    <id>19Label</id>
+    <text><![CDATA[And come out to play,]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>77.90</start>
+    <stop>79.94</stop>
+    </sound>
+    <sound>
+    <id>20Label</id>
+    <text><![CDATA[It’s autumn, it’s autumn, hurray!]]></text>
+    <image>demo/LB/U5/L568-59/images/DRAMBIWB333.png</image>
+    <start>79.94</start>
+    <stop>91.43</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U6/L568-70/audio/audio.mp3,demo/LB/U6/L568-70/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>9.16</start>
+    <stop>11.47</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>11.47</start>
+    <stop>13.67</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[There’s an island]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>13.67</start>
+    <stop>16.13</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[In the sea.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>16.13</start>
+    <stop>18.44</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[There’s an island]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>18.44</start>
+    <stop>20.72</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[In the sea.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>20.72</start>
+    <stop>22.85</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>22.84</start>
+    <stop>25.25</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>25.25</start>
+    <stop>27.57</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[There’s a mountain]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>27.57</start>
+    <stop>29.83</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[And some trees.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>29.83</start>
+    <stop>32.12</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[There’s a mountain]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>32.12</start>
+    <stop>34.41</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[And some trees.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>34.41</start>
+    <stop>36.58</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>36.58</start>
+    <stop>38.82</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>38.82</start>
+    <stop>41.30</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[There’s a river]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>41.30</start>
+    <stop>43.41</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[And a beach.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>43.42</start>
+    <stop>45.75</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[There’s a river]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>45.74</start>
+    <stop>48.15</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[And a beach.]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>48.15</start>
+    <stop>50.28</stop>
+    </sound>
+    <sound>
+    <id>19Label</id>
+    <text><![CDATA[Look, look at the map,]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>50.28</start>
+    <stop>52.69</stop>
+    </sound>
+    <sound>
+    <id>20Label</id>
+    <text><![CDATA[Look and see!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>52.69</start>
+    <stop>54.99</stop>
+    </sound>
+    <sound>
+    <id>21Label</id>
+    <text><![CDATA[There’s a house]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>54.99</start>
+    <stop>57.04</stop>
+    </sound>
+    <sound>
+    <id>22Label</id>
+    <text><![CDATA[For you and me!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>57.04</start>
+    <stop>59.63</stop>
+    </sound>
+    <sound>
+    <id>23Label</id>
+    <text><![CDATA[There’s a house]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>59.63</start>
+    <stop>61.65</stop>
+    </sound>
+    <sound>
+    <id>24Label</id>
+    <text><![CDATA[For you and me!]]></text>
+    <image>demo/LB/U6/L568-70/images/DRAMBIWB384.png</image>
+    <start>61.65</start>
+    <stop>66.44</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U7/L568-81/audio/audio.mp3,demo/LB/U7/L568-81/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[Eggs come from chickens,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB462.png</image>
+    <start>9.2</start>
+    <stop>11.41</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[Honey comes from bees,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB463.png</image>
+    <start>11.41</start>
+    <stop>13.69</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[Milk comes from cows]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>13.69</start>
+    <stop>15.61</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[And so does cheese!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>15.59</start>
+    <stop>18.14</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[Lots of food,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>18.14</start>
+    <stop>20.30</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[Munch, munch, munch!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>20.30</start>
+    <stop>22.67</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[Food from animals]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>22.67</start>
+    <stop>24.95</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[For our lunch!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>24.93</start>
+    <stop>31.72</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[Eggs come from chickens,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB462.png</image>
+    <start>31.72</start>
+    <stop>33.95</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[Honey comes from bees,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB463.png</image>
+    <start>33.95</start>
+    <stop>36.14</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[Milk comes from cows]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>36.14</start>
+    <stop>38.10</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[And so does cheese!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>38.10</start>
+    <stop>40.63</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Lots of food,]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>40.65</start>
+    <stop>42.86</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[Munch, munch, munch!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>42.86</start>
+    <stop>45.20</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[Food from animals]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>45.20</start>
+    <stop>47.46</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[For our lunch!]]></text>
+    <image>demo/LB/U7/L568-81/images/DRAMBIWB464.png</image>
+    <start>47.46</start>
+    <stop>59.80</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U8/L568-92/audio/audio.mp3,demo/LB/U8/L568-92/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>11.08</start>
+    <stop>13.58</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[On the leaf,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>13.58</start>
+    <stop>16.04</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB515.png</image>
+    <start>16.04</start>
+    <stop>18.45</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[Lays an egg.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>18.45</start>
+    <stop>23.43</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>23.43</start>
+    <stop>25.92</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[Comes out of the egg,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB512.png</image>
+    <start>25.92</start>
+    <stop>28.34</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>28.34</start>
+    <stop>30.87</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[Eats and eats.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>30.87</start>
+    <stop>35.82</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[Caterpillar, caterpillar]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB513.png</image>
+    <start>35.82</start>
+    <stop>38.32</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[Makes a cocoon,]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>38.32</start>
+    <stop>40.72</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[Butterfly, butterfly]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>40.74</start>
+    <stop>43.23</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[Comes out soon.]]></text>
+    <image>demo/LB/U8/L568-92/images/DRAMBIWB514.png</image>
+    <start>43.23</start>
+    <stop>49.57</stop>
+    </sound>
+  </sounds>
+</game>

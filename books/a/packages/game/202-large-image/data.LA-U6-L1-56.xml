@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game config="0" type="large-image">
+  <title>Click and listen.</title>
+  <audio>demo/LA/U6/L1-56/audio/combined.mp3,demo/LA/U6/L1-56/audio/combined.ogg</audio>
+  <background>demo/LA/U6/L1-56/images/DRAMAIWB319b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319c.png</source>
+      <sound>snake</sound>
+      <title>snake</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319d.png</source>
+      <sound>crocodile</sound>
+      <title>crocodile</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319e.png</source>
+      <sound>monkey</sound>
+      <title>monkey</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319f.png</source>
+      <sound>parrot</sound>
+      <title>parrot</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319g.png</source>
+      <sound>lion</sound>
+      <title>lion</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U6/L1-56/images/DRAMAIWB319h.png</source>
+      <sound>elephant</sound>
+      <title>elephant</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>intro</id>
+      <start>0.16</start>
+      <stop>8.25</stop>
+    </sound>
+    <sound>
+      <id>snake</id>
+      <start>12.48</start>
+      <stop>13.46</stop>
+    </sound>
+    <sound>
+      <id>crocodile</id>
+      <start>16.53</start>
+      <stop>17.72</stop>
+    </sound>
+    <sound>
+      <id>monkey</id>
+      <start>20.64</start>
+      <stop>21.59</stop>
+    </sound>
+    <sound>
+      <id>parrot</id>
+      <start>24.98</start>
+      <stop>25.84</stop>
+    </sound>
+    <sound>
+      <id>lion</id>
+      <start>29.05</start>
+      <stop>30.00</stop>
+    </sound>
+    <sound>
+      <id>elephant</id>
+      <start>33.63</start>
+      <stop>34.68</stop>
+    </sound>
+  </sounds>
+</game>

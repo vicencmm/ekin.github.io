@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U1/L568-15/audio/audio.mp3,demo/LB/U1/L568-15/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>1</id>
+    <text><![CDATA[You can draw a picture]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>12.51</start>
+    <stop>15.08</stop>
+    </sound>
+    <sound>
+    <id>2</id>
+    <text><![CDATA[Of anything you see.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>15.08</start>
+    <stop>18.23</stop>
+    </sound>
+    <sound>
+    <id>3</id>
+    <text><![CDATA[Look at these pictures,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>18.23</start>
+    <stop>21.21</stop>
+    </sound>
+    <sound>
+    <id>4</id>
+    <text><![CDATA[1, 2, 3!]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>21.21</start>
+    <stop>23.83</stop>
+    </sound>
+    <sound>
+    <id>5</id>
+    <text><![CDATA[A bed and a table,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>23.83</start>
+    <stop>26.70</stop>
+    </sound>
+    <sound>
+    <id>6</id>
+    <text><![CDATA[Five pictures, two chairs.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>26.70</start>
+    <stop>30.58</stop>
+    </sound>
+    <sound>
+    <id>7</id>
+    <text><![CDATA[Lots of books]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB118.png</image>
+    <start>30.59</start>
+    <stop>33.58</stop>
+    </sound>
+    <sound>
+    <id>8</id>
+    <text><![CDATA[And a chair.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB119.png</image>
+    <start>33.58</start>
+    <stop>41.43</stop>
+    </sound>
+    <sound>
+    <id>9</id>
+    <text><![CDATA[You can draw a picture]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>41.42</start>
+    <stop>44.04</stop>
+    </sound>
+    <sound>
+    <id>10</id>
+    <text><![CDATA[Of anything you see.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>44.04</start>
+    <stop>46.94</stop>
+    </sound>
+    <sound>
+    <id>11</id>
+    <text><![CDATA[Look at these pictures,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>46.94</start>
+    <stop>49.86</stop>
+    </sound>
+    <sound>
+    <id>12</id>
+    <text><![CDATA[1, 2, 3!]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>49.86</start>
+    <stop>52.73</stop>
+    </sound>
+    <sound>
+    <id>13</id>
+    <text><![CDATA[A bed and a table,]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>52.73</start>
+    <stop>55.58</stop>
+    </sound>
+    <sound>
+    <id>14</id>
+    <text><![CDATA[Five pictures, two chairs.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB116.png</image>
+    <start>55.58</start>
+    <stop>59.25</stop>
+    </sound>
+    <sound>
+    <id>15</id>
+    <text><![CDATA[Lots of books]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB118.png</image>
+    <start>59.25</start>
+    <stop>62.48</stop>
+    </sound>
+    <sound>
+    <id>16</id>
+    <text><![CDATA[And a chair.]]></text>
+    <image>demo/LB/U1/L568-15/images/DRAMBIWB119.png</image>
+    <start>62.48</start>
+    <stop>72.92</stop>
+    </sound>
+  </sounds>
+</game>

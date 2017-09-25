@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U6/L4-69/audio/audio.mp3,demo/LB/U6/L4-69/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U6/L4-69/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U6/L4-69/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>yes</id>
+        <start>0.14</start>
+        <stop>1.13</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>3.72</start>
+        <stop>4.21</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>6.16</start>
+        <stop>14.25</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>17.25</start>
+        <stop>21.97</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>27.71</start>
+        <stop>28.43</stop>
+        </sound>
+        <sound>
+        <id>turtle</id>
+        <start>32.89</start>
+        <stop>34.48</stop>
+        </sound>
+        <sound>
+        <id>fish</id>
+        <start>35.99</start>
+        <stop>37.47</stop>
+        </sound>
+        <sound>
+        <id>crab</id>
+        <start>39.58</start>
+        <stop>41.03</stop>
+        </sound>
+        <sound>
+        <id>octopus</id>
+        <start>43.03</start>
+        <stop>44.73</stop>
+        </sound>
+        <sound>
+        <id>seahorse</id>
+        <start>47.12</start>
+        <stop>48.88</stop>
+        </sound>
+        <sound>
+        <id>shark</id>
+        <start>51.22</start>
+        <stop>52.64</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB378.png</source>
+            <title>turtle</title>
+            <sound>turtle</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB379.png</source>
+            <title>fish</title>
+            <sound>fish</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB380.png</source>
+            <title>crab</title>
+            <sound>crab</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB381.png</source>
+            <title>octopus</title>
+            <sound>octopus</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB382.png</source>
+            <title>seahorse</title>
+            <sound>seahorse</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB383.png</source>
+            <title>shark</title>
+            <sound>shark</sound>        
+        </image>
+    </images>
+</game>

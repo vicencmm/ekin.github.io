@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U3/L2-34/audio/audio.mp3,demo/LB/U3/L2-34/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB202a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB202.png</source>
+      <sound>plane</sound>
+      <word>Let’s go by plane.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB203a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB203.png</source>
+      <sound>car</sound>
+      <word>Let’s go by car.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB204a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB204.png</source>
+      <sound>boat</sound>
+      <word>Let’s go by boat.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB205a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB205.png</source>
+      <sound>train</sound>
+      <word>Let’s go by train.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB206a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB206.png</source>
+      <sound>bus</sound>
+      <word>Let’s go by bus.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U3/L2-34/images/thumbs/DRAMBIWB207a.png</thumb>
+      <source>demo/LB/U3/L2-34/images/DRAMBIWB207.png</source>
+      <sound>taxi</sound>
+      <word>Let’s go by taxi.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>plane</id>
+    <start>0.60</start>
+    <stop>4.86</stop>
+    </sound>
+    <sound>
+    <id>car</id>
+    <start>6.70</start>
+    <stop>10.93</stop>
+    </sound>
+    <sound>
+    <id>boat</id>
+    <start>12.80</start>
+    <stop>17.00</stop>
+    </sound>
+    <sound>
+    <id>train</id>
+    <start>18.88</start>
+    <stop>23.27</stop>
+    </sound>
+    <sound>
+    <id>bus</id>
+    <start>25.12</start>
+    <stop>29.26</stop>
+    </sound>
+    <sound>
+    <id>taxi</id>
+    <start>31.16</start>
+    <stop>35.43</stop>
+    </sound>
+  </sounds>
+</game>

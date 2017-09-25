@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="listening-maze" time="4" audio="demo/LA/PH/U7-124/audio/combined.mp3,demo/LA/PH/U7-124/audio/combined.ogg">
+  <title>Listen and click the letters.</title>
+  <character>
+    <listen>demo/LA/PH/U7-124/images/listen.png</listen>
+    <jump>demo/LA/PH/U7-124/images/jump.png</jump>
+    <land>demo/LA/PH/U7-124/images/wait.png</land>
+    <finish pos="690">demo/LA/PH/U7-124/images/finish.png</finish>
+  </character>
+  <finish>
+    <sound>win</sound>
+    <image>demo/LA/PH/U7-124/images/trophy.png</image>
+  </finish>
+  <fontSize>45px</fontSize>
+  <sounds>
+    <sound>
+      <id>qu</id>
+      <start>0</start>
+      <stop>0.6358125</stop>
+    </sound>
+    <sound>
+      <id>ch</id>
+      <start>0.8358125</start>
+      <stop>1.49775</stop>
+    </sound>
+    <sound>
+      <id>sh</id>
+      <start>1.69775</start>
+      <stop>2.3596875</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>2.5596875</start>
+      <stop>4.8935</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>5.0935</start>
+      <stop>6.0689375</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.2689375</start>
+      <stop>15.2900625</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>15.4900625</start>
+      <stop>17.510375</stop>
+    </sound>
+  </sounds>
+  <col>
+    <sound>qu</sound>
+    <letters solution="qu">qu.ch.sh</letters>
+  </col>
+  <col>
+    <sound>ch</sound>
+    <letters solution="ch">ch.sh.qu</letters>
+  </col>
+  <col>
+    <sound>sh</sound>
+    <letters solution="sh">sh.qu.ch</letters>
+  </col>
+</game>

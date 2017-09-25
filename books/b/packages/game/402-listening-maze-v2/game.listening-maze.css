@@ -1,0 +1,117 @@
+#game.listening-maze #game-content {
+  position: relative; }
+#game.listening-maze #game-content > img.finish {
+  position: absolute;
+  left: 0px;
+  top: 50%; }
+#game.listening-maze .twinkle {
+  position: absolute; }
+#game.listening-maze div.cols {
+  margin: 0px auto;
+  position: absolute; }
+  #game.listening-maze div.cols ul.col {
+    float: left;
+    width: 100px;
+    height: auto; }
+    #game.listening-maze div.cols ul.col li {
+      display: table;
+      position: relative;
+      width: 100px;
+      height: 100px;
+      cursor: default; }
+      #game.listening-maze div.cols ul.col li > .stones {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        border: none;
+        z-index: 25;
+        background-color: transparent; }
+      #game.listening-maze div.cols ul.col li > img {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        border: none;
+        z-index: 25; }
+        #game.listening-maze div.cols ul.col li > img.glow {
+          display: none;
+          z-index: 24; }
+        #game.listening-maze div.cols ul.col li > img.solved {
+          display: none; }
+      #game.listening-maze div.cols ul.col li span {
+        display: table-cell;
+        position: relative;
+        z-index: 30;
+        text-align: center;
+        vertical-align: middle;
+        padding-bottom: 5px;
+        font-weight: bold;
+        font-size: 50px; }
+        #game.listening-maze div.cols ul.col li span.letter {
+          padding: 0px 5px 5px 0px;
+          color: #000;
+          text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff; }
+        #game.listening-maze div.cols ul.col li span img {
+          position: relative;
+          width: inherit;
+          max-width: 60%;
+          height: auto; }
+    #game.listening-maze div.cols ul.col.mark li {
+      cursor: pointer; }
+      #game.listening-maze div.cols ul.col.mark li.clicked {
+        cursor: default;
+        width: 100%;
+        height: 100%; }
+    #game.listening-maze div.cols ul.col.solved li {
+      width: 100%;
+      height: 100%; }
+      #game.listening-maze div.cols ul.col.solved li.solution {
+        width: 100%;
+        height: 100%; }
+      #game.listening-maze div.cols ul.col.solved li.solved {
+        /* IE 8 */
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+        /* IE 5-7 */
+        filter: alpha(opacity=30);
+        /* Netscape */
+        -moz-opacity: 0.3;
+        /* Safari 1.x */
+        -khtml-opacity: 0.3;
+        /* Good browsers */
+        opacity: 0.3; }
+#game.listening-maze .character {
+  position: absolute;
+  max-height: 140px;
+  left: 0px;
+  top: 80%;
+  z-index: 30; }
+#game.listening-maze #timer {
+  position: absolute;
+  top: 14px;
+  right: 23px;
+  overflow: hidden;
+  width: 241px; }
+  #game.listening-maze #timer #progressbar {
+    height: 27px;
+    background: #d9e5c1;
+    border: 1px solid #2f912f !important;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; }
+    #game.listening-maze #timer #progressbar.alert {
+      background: #ffdb92;
+      border-color: #ff9837 !important; }
+      #game.listening-maze #timer #progressbar.alert.danger {
+        background: #ffcabf;
+        border-color: #fe0000 !important; }
+  #game.listening-maze #timer .ui-progressbar-value {
+    background: url(img/timer_bar.png) 0 0 repeat-x;
+    border: none;
+    margin: 2px;
+    height: 23px;
+    border-radius: 3px; }
+#game.listening-maze #progressbar.alert .ui-progressbar-value {
+  background-position: 0 -23px; }
+#game.listening-maze #progressbar.alert.danger .ui-progressbar-value {
+  background-position: 0 -46px; }

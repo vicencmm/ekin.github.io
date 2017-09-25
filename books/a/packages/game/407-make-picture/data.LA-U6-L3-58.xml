@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+By defining a config variable in the root of the xml you can make
+the elements draggable. This enables you to determine the position
+of each element through the output in the console.
+
+ <game type="make-picture" config="1">
+
+-->
+<game type="make-picture" config="0" audio="demo/LA/U6/L3-58/audio/audio.mp3,demo/LA/U6/L3-58/audio/audio.ogg">
+    <title>Dress Robin in his explorer costume.</title>
+
+    <screens random="true">
+        <screen>
+            <groupSolution>2</groupSolution>
+            <perRow>3</perRow>
+            <character width="350" height="350">
+                <image>demo/LA/U6/L3-58/images/DRAMAIWB335.png</image>
+                <targets>
+                    <target x="-1" y="0" id="left"></target>
+                    <target x="-1" y="0" id="right"></target>
+                    <target x="-1" y="0" id="head"></target>
+                    <target x="-1" y="0" id="body"></target>                    
+                </targets>
+                <!-- <animation x="0" y="0" z="0" >
+                    <source>img/stars.gif</source>
+                </animation> -->
+            </character>
+            <elements>
+                <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB100a.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB100g.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound> 
+                </element>
+                <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB335a.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB335d.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>
+                <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB459a.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB459e.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element> 
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB459bcNEW.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB459fgNEW.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB211b.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB211h.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB335b.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB335e.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>
+                <element target="left" x="0" y="0" z="1">
+                    <type>left</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB335c.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB335f.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>
+                <element target="left" x="0" y="0" z="1">
+                    <type>left</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMAIWB459d.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMAIWB459h.png</thumb>
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>  
+                <element target="left" x="0" y="-20" z="1">
+                    <type>left</type>
+                    <image>demo/LA/U6/L3-58/images/DRAMBIWB208h.png</image>
+                    <thumb>demo/LA/U6/L3-58/images/DRAMBIWB208ha.png</thumb>                 
+                    <sound>DRAM_GIGGLE_ROBIN</sound>
+                </element>          
+                         
+            </elements>
+        </screen>
+    </screens>
+    <sounds>
+        <sound>
+            <id>intro</id>
+            <start>0.53</start>
+            <stop>8.83</stop>
+        </sound>
+        <sound>
+            <id>animation</id>
+            <start>20.71</start>
+            <stop>28.22</stop>
+        </sound>
+        <sound>
+            <id>yes</id>
+            <start>10.0</start>
+            <stop>11.84</stop>
+        </sound>
+        <sound>
+            <id>no</id>
+            <start>12.69</start>
+            <stop>13.67</stop>
+        </sound>
+        <sound>
+            <id>s_win</id>
+            <start>14.89</start>
+            <stop>17.0</stop>
+        </sound>
+        <sound>
+            <id>DRAM_GIGGLE_ROBIN</id>
+            <start>18.25</start>
+            <stop>19.28</stop>
+        </sound>
+    </sounds>
+</game>

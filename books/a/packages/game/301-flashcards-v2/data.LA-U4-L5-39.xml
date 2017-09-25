@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U4/L5-39/audio/combined.mp3,demo/LA/U4/L5-39/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U4/L5-39/images/thumbs/DRAMAIWB219a.png</thumb>
+      <source>demo/LA/U4/L5-39/images/DRAMAIWB219.png</source>
+      <sound>bird</sound>
+      <word>bird</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U4/L5-39/images/thumbs/DRAMAIWB220a.png</thumb>
+      <source>demo/LA/U4/L5-39/images/DRAMAIWB220.png</source>
+      <sound>nest</sound>
+      <word>nest</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L5-39/images/thumbs/DRAMAIWB221a.png</thumb>
+      <source>demo/LA/U4/L5-39/images/DRAMAIWB221.png</source>
+      <sound>eggs</sound>
+      <word>eggs</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U4/L5-39/images/thumbs/DRAMAIWB222a.png</thumb>
+      <source>demo/LA/U4/L5-39/images/DRAMAIWB222.png</source>
+      <sound>baby</sound>
+      <word>baby birds</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>bird</id>
+<start>0.49</start>
+<stop>4.46</stop>
+</sound>
+<sound>
+<id>nest</id>
+<start>6.37</start>
+<stop>10.64</stop>
+</sound>
+<sound>
+<id>eggs</id>
+<start>12.42</start>
+<stop>16.35</stop>
+</sound>
+<sound>
+<id>baby</id>
+<start>18.52</start>
+<stop>23.98</stop>
+</sound>
+</sounds>
+</game>

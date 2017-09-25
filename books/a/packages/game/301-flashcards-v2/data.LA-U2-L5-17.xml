@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U2/L5-17/audio/combined.mp3,demo/LA/U2/L5-17/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U2/L5-17/images/thumbs/DRAMAIWB108a.png</thumb>
+      <source>demo/LA/U2/L5-17/images/DRAMAIWB108.png</source>
+      <sound>dirtyh</sound>
+      <word>dirty hands</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U2/L5-17/images/thumbs/DRAMAIWB109a.png</thumb>
+      <source>demo/LA/U2/L5-17/images/DRAMAIWB109.png</source>
+      <sound>cleanh</sound>
+      <word>clean hands</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U2/L5-17/images/thumbs/DRAMAIWB110a.png</thumb>
+      <source>demo/LA/U2/L5-17/images/DRAMAIWB110.png</source>
+      <sound>dirtyf</sound>
+      <word>a dirty face</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U2/L5-17/images/thumbs/DRAMAIWB111a.png</thumb>
+      <source>demo/LA/U2/L5-17/images/DRAMAIWB111.png</source>
+      <sound>cleanf</sound>
+      <word>a clean face</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>dirtyh</id>
+<start>0.55</start>
+<stop>2.12</stop>
+</sound>
+<sound>
+<id>cleanh</id>
+<start>3.98</start>
+<stop>5.51</stop>
+</sound>
+<sound>
+<id>dirtyf</id>
+<start>7.37</start>
+<stop>9.08</stop>
+</sound>
+<sound>
+<id>cleanf</id>
+<start>10.93</start>
+<stop>13.16</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/U4/L8-41/audio/combined.mp3,demo/LA/U4/L8-41/audio/combined.ogg" type="three-in-a-row">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <selectPlayer>
+    <background>demo/LA/U2/L8-19/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">Mummy</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB227.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB231.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB229.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Daddy</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB229.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB230.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB232.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Sister</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB229.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB230.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB231.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB227.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Brother</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB230.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB227.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB232.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Granny</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB231.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB232.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB230.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Grandad</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB232.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB227.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB230.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Bird</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB233.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB235.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB232.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB229.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Nest</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB234.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB233.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB227.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB228.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">Eggs</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB235.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB236.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB234.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB233.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">BabyBirds</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U4/L8-41/images/DRAMAIWB236.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB234.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB235.png</answer>
+          <answer>demo/LA/U4/L8-41/images/DRAMAIWB233.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+      <id>Mummy</id>
+      <start>0.29</start>
+      <stop>1.11</stop>
+    </sound>
+    <sound>
+      <id>Daddy</id>
+      <start>2.81</start>
+      <stop>3.62</stop>
+    </sound>
+    <sound>
+      <id>Sister</id>
+      <start>5.33</start>
+      <stop>6.29</stop>
+    </sound>
+    <sound>
+      <id>Brother</id>
+      <start>7.98</start>
+      <stop>8.81</stop>
+    </sound>
+    <sound>
+      <id>Granny</id>
+      <start>10.51</start>
+      <stop>11.43</stop>
+    </sound>
+    <sound>
+      <id>Grandad</id>
+      <start>13.13</start>
+      <stop>14.25</stop>
+    </sound>
+    <sound>
+      <id>Bird</id>
+      <start>15.97</start>
+      <stop>16.80</stop>
+    </sound>
+    <sound>
+      <id>Nest</id>
+      <start>18.49</start>
+      <stop>19.39</stop>
+    </sound>
+    <sound>
+      <id>Eggs</id>
+      <start>21.08</start>
+      <stop>22.00</stop>
+    </sound>
+    <sound>
+      <id>BabyBirds</id>
+      <start>23.71</start>
+      <stop>25.23</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>27.23</start>
+      <stop>31.94</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>34.86</start>
+      <stop>36.53</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>39.19</start>
+      <stop>39.79</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>42.27</start>
+      <stop>50.43</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U4/L8-41/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </win>
+    <trophy>
+      <image>demo/LA/U4/L8-41/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+  </popups>
+</game>

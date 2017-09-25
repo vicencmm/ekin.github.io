@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U6/L2-67/audio/audio.mp3,demo/LB/U6/L2-67/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB372a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB372.png</source>
+      <sound>turtle</sound>
+      <word>There’s a turtle. </word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB373a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB373.png</source>
+      <sound>fish</sound>
+      <word>There’s a fish. </word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB374a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB374.png</source>
+      <sound>crab</sound>
+      <word>There’s a crab. </word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB375a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB375.png</source>
+      <sound>octopus</sound>
+      <word>There’s an octopus. </word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB376a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB376.png</source>
+      <sound>seahorse</sound>
+      <word>There's a seahorse.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U6/L2-67/images/thumbs/DRAMBIWB377a.png</thumb>
+      <source>demo/LB/U6/L2-67/images/DRAMBIWB377.png</source>
+      <sound>shark</sound>
+      <word>There’s a shark. </word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>turtle</id>
+    <start>0.69</start>
+    <stop>4.73</stop>
+    </sound>
+    <sound>
+    <id>fish</id>
+    <start>6.59</start>
+    <stop>10.45</stop>
+    </sound>
+    <sound>
+    <id>crab</id>
+    <start>12.30</start>
+    <stop>16.10</stop>
+    </sound>
+    <sound>
+    <id>octopus</id>
+    <start>17.94</start>
+    <stop>22.31</stop>
+    </sound>
+    <sound>
+    <id>seahorse</id>
+    <start>24.15</start>
+    <stop>28.64</stop>
+    </sound>
+    <sound>
+    <id>shark</id>
+    <start>30.48</start>
+    <stop>34.39</stop>
+    </sound>
+  </sounds>
+</game>

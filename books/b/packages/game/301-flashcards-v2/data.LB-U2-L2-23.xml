@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U2/L2-23/audio/audio.mp3,demo/LB/U2/L2-23/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB146a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB146.png</source>
+      <sound>feet</sound>
+      <word>Look at the feet.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB147a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB147.png</source>
+      <sound>legs</sound>
+      <word>Look at the legs.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB148a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB148.png</source>
+      <sound>head</sound>
+      <word>Look at the head.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB149a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB149.png</source>
+      <sound>body</sound>
+      <word>Look at the body.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB150a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB150.png</source>
+      <sound>arms</sound>
+      <word>Look at the arms.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U2/L2-23/images/thumbs/DRAMBIWB151a.png</thumb>
+      <source>demo/LB/U2/L2-23/images/DRAMBIWB151.png</source>
+      <sound>hands</sound>
+      <word>Look at the hands.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>feet</id>
+    <start>0.82</start>
+    <stop>5.35</stop>
+    </sound>
+    <sound>
+    <id>legs</id>
+    <start>7.19</start>
+    <stop>11.84</stop>
+    </sound>
+    <sound>
+    <id>head</id>
+    <start>13.69</start>
+    <stop>17.98</stop>
+    </sound>
+    <sound>
+    <id>body</id>
+    <start>19.83</start>
+    <stop>26.15</stop>
+    </sound>
+    <sound>
+    <id>arms</id>
+    <start>27.99</start>
+    <stop>32.82</stop>
+    </sound>
+    <sound>
+    <id>hands</id>
+    <start>34.68</start>
+    <stop>39.38</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game config="0" type="large-image">
+  <title>Click and listen.</title>
+  <audio>demo/LA/U7/L1-67/audio/combined.mp3,demo/LA/U7/L1-67/audio/combined.ogg</audio>
+  <background>demo/LA/U7/L1-67/images/DRAMAIWB383b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383f.png</source>
+      <sound>sky</sound>
+      <title>sky</title>
+      <effect>zoom</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383e.png</source>
+      <sound>earth</sound>
+      <title>earth</title>
+      <effect>zoom</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383g.png</source>
+      <sound>stars</sound>
+      <title>stars</title>
+      <effect>zoom</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383h.png</source>
+      <sound>moon</sound>
+      <title>moon</title>
+      <effect>zoom</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383d.png</source>
+      <sound>rocket</sound>
+      <title>rocket</title>
+      <effect>zoom</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U7/L1-67/images/DRAMAIWB383c.png</source>
+      <sound>astronaut</sound>
+      <title>astronaut</title>
+      <effect>zoom</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>intro</id>
+      <start>0.16</start>
+      <stop>8.25</stop>
+    </sound>
+    <sound>
+      <id>astronaut</id>
+      <start>13.57</start>
+      <stop>14.79</stop>
+    </sound>
+    <sound>
+      <id>rocket</id>
+      <start>18.03</start>
+      <stop>19.02</stop>
+    </sound>
+    <sound>
+      <id>earth</id>
+      <start>20.88</start>
+      <stop>21.58</stop>
+    </sound>
+    <sound>
+      <id>sky</id>
+      <start>24.92</start>
+      <stop>25.97</stop>
+    </sound>
+    <sound>
+      <id>stars</id>
+      <start>29.03</start>
+      <stop>30.18</stop>
+    </sound>
+    <sound>
+      <id>moon</id>
+      <start>33.42</start>
+      <stop>34.34</stop>
+    </sound>
+  </sounds>
+</game>

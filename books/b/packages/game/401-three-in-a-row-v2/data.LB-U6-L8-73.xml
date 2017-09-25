@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U6/L8-73/audio/audio.mp3,demo/LB/U6/L8-73/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U6/L8-73/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">turtle</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">fish</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">seahorse</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">shark</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">octopus</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">crab</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">map</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">island</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">mountain</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">beach</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>turtle</id>
+    <start>25.71</start>
+    <stop>26.62</stop>
+    </sound>
+    <sound>
+    <id>fish</id>
+    <start>28.60</start>
+    <stop>29.49</stop>
+    </sound>
+    <sound>
+    <id>seahorse</id>
+    <start>31.37</start>
+    <stop>32.57</stop>
+    </sound>
+    <sound>
+    <id>shark</id>
+    <start>34.58</start>
+    <stop>35.52</stop>
+    </sound>
+    <sound>
+    <id>octopus</id>
+    <start>37.37</start>
+    <stop>38.48</stop>
+    </sound>
+    <sound>
+    <id>crab</id>
+    <start>40.41</start>
+    <stop>41.20</stop>
+    </sound>
+    <sound>
+    <id>map</id>
+    <start>42.85</start>
+    <stop>43.67</stop>
+    </sound>
+    <sound>
+    <id>island</id>
+    <start>45.51</start>
+    <stop>46.47</stop>
+    </sound>
+    <sound>
+    <id>mountain</id>
+    <start>48.56</start>
+    <stop>49.60</stop>
+    </sound>
+    <sound>
+    <id>beach</id>
+    <start>51.87</start>
+    <stop>52.72</stop>
+    </sound>
+  </sounds>
+</game>

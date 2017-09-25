@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U3/L5-28/audio/combined.mp3,demo/LA/U3/L5-28/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U3/L5-28/images/thumbs/DRAMAIWB165a.png</thumb>
+      <source>demo/LA/U3/L5-28/images/DRAMAIWB165.png</source>
+      <sound>1</sound>
+      <word>It’s a book. It’s big.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L5-28/images/thumbs/DRAMAIWB166a.png</thumb>
+      <source>demo/LA/U3/L5-28/images/DRAMAIWB166.png</source>
+      <sound>2</sound>
+      <word>It’s a book. It’s small.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L5-28/images/thumbs/DRAMAIWB167a.png</thumb>
+      <source>demo/LA/U3/L5-28/images/DRAMAIWB167.png</source>
+      <sound>3</sound>
+      <word>It’s a pencil. It’s big.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L5-28/images/thumbs/DRAMAIWB168a.png</thumb>
+      <source>demo/LA/U3/L5-28/images/DRAMAIWB168.png</source>
+      <sound>4</sound>
+      <word>It’s a pencil. It’s small.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>1</id>
+      <start>0.99</start>
+      <stop>5.59</stop>
+    </sound>
+    <sound>
+      <id>2</id>
+      <start>7.43</start>
+      <stop>11.91</stop>
+    </sound>
+    <sound>
+      <id>3</id>
+      <start>13.78</start>
+      <stop>18.43</stop>
+    </sound>
+    <sound>
+      <id>4</id>
+      <start>20.30</start>
+      <stop>25.10</stop>
+    </sound>
+  </sounds>
+</game>

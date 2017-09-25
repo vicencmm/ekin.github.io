@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U1/L8-18/audio/audio.mp3,demo/LB/U1/L8-18/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U1/L8-18/images/DRAM-Well-done-Time's-Up-Robin.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">pencil</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB125.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB126.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB127.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB134.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">book</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB126.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB128.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB130.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB131.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">rubber</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB127.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB129.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB132.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB133.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">scissors</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB128.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB125.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB126.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB130.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">glue</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB129.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB126.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB133.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB134.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">crayons</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB130.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB125.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB127.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB129.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bed</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB131.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB132.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB133.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB134.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">table</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB132.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB134.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB128.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB129.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">picture</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB133.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB125.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB127.png</answer> 
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB131.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">chair</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U1/L8-18/images/DRAMBIWB134.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB126.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB129.png</answer>
+          <answer>demo/LB/U1/L8-18/images/DRAMBIWB130.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>pencil</id>
+    <start>25.90</start>
+    <stop>26.94</stop>
+    </sound>
+    <sound>
+    <id>book</id>
+    <start>28.33</start>
+    <stop>29.06</stop>
+    </sound>
+    <sound>
+    <id>rubber</id>
+    <start>30.46</start>
+    <stop>31.26</stop>
+    </sound>
+    <sound>
+    <id>scissors</id>
+    <start>32.69</start>
+    <stop>33.66</stop>
+    </sound>
+    <sound>
+    <id>glue</id>
+    <start>35.24</start>
+    <stop>36.00</stop>
+    </sound>
+    <sound>
+    <id>crayons</id>
+    <start>37.82</start>
+    <stop>38.92</stop>
+    </sound>
+    <sound>
+    <id>bed</id>
+    <start>40.81</start>
+    <stop>41.43</stop>
+    </sound>
+    <sound>
+    <id>table</id>
+    <start>42.97</start>
+    <stop>43.91</stop>
+    </sound>
+    <sound>
+    <id>picture</id>
+    <start>45.46</start>
+    <stop>46.30</stop>
+    </sound>
+    <sound>
+    <id>chair</id>
+    <start>47.97</start>
+    <stop>48.76</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U2/L8-29/audio/audio.mp3,demo/LB/U2/L8-29/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U2/L8-29/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">arms</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">head</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">body</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">legs</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">feet</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hands</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hear</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">see</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">smell</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">taste</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">touch</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>arms</id>
+    <start>0.80</start>
+    <stop>1.78</stop>
+    </sound>
+    <sound>
+    <id>head</id>
+    <start>3.65</start>
+    <stop>4.41</stop>
+    </sound>
+    <sound>
+    <id>body</id>
+    <start>6.24</start>
+    <stop>7.06</stop>
+    </sound>
+    <sound>
+    <id>legs</id>
+    <start>9.08</start>
+    <stop>10.02</stop>
+    </sound>
+    <sound>
+    <id>feet</id>
+    <start>11.44</start>
+    <stop>12.18</stop>
+    </sound>
+    <sound>
+    <id>hands</id>
+    <start>13.74</start>
+    <stop>14.70</stop>
+    </sound>
+    <sound>
+    <id>hear</id>
+    <start>16.54</start>
+    <stop>17.23</stop>
+    </sound>
+    <sound>
+    <id>see</id>
+    <start>18.63</start>
+    <stop>19.51</stop>
+    </sound>
+    <sound>
+    <id>smell</id>
+    <start>21.39</start>
+    <stop>22.32</stop>
+    </sound>
+    <sound>
+    <id>taste</id>
+    <start>23.78</start>
+    <stop>24.63</stop>
+    </sound>
+    <sound>
+    <id>touch</id>
+    <start>26.19</start>
+    <stop>27.06</stop>
+    </sound>
+    <sound>
+    <id>yes</id>
+    <start>30.53</start>
+    <stop>31.52</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>34.11</start>
+    <stop>34.60</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>36.55</start>
+    <stop>44.64</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>47.64</start>
+    <stop>52.36</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U3/L8-40/audio/audio.mp3,demo/LB/U3/L8-40/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U3/L8-40/images/DRAM-Well-done-Time's-Up-Robin.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">bus</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB230.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB231.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB232.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB233.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">taxi</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB231.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB232.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB233.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB234.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">car</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB232.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB233.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB234.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB235.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">plane</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB233.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB234.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB235.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB236.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">train</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB234.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB235.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB236.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB237.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">boat</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB235.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB234.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB233.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB232.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">air</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB236.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB237.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB238.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB231.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">land</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB237.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB236.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB238.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB230.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">sea</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U3/L8-40/images/DRAMBIWB238.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB237.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB236.png</answer>
+          <answer>demo/LB/U3/L8-40/images/DRAMBIWB231.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>bus</id>
+    <start>26.10</start>
+    <stop>26.84</stop>
+    </sound>
+    <sound>
+    <id>taxi</id>
+    <start>28.81</start>
+    <stop>29.72</stop>
+    </sound>
+    <sound>
+    <id>car</id>
+    <start>31.58</start>
+    <stop>32.34</stop>
+    </sound>
+    <sound>
+    <id>plane</id>
+    <start>34.41</start>
+    <stop>35.29</stop>
+    </sound>
+    <sound>
+    <id>train</id>
+    <start>37.20</start>
+    <stop>38.13</stop>
+    </sound>
+    <sound>
+    <id>boat</id>
+    <start>40.06</start>
+    <stop>40.85</stop>
+    </sound>
+    <sound>
+    <id>air</id>
+    <start>43.01</start>
+    <stop>43.78</stop>
+    </sound>
+    <sound>
+    <id>land</id>
+    <start>45.63</start>
+    <stop>46.44</stop>
+    </sound>
+    <sound>
+    <id>sea</id>
+    <start>48.66</start>
+    <stop>49.54</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U4/L8-51/audio/audio.mp3,demo/LB/U4/L8-51/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U4/L8-51/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">house</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB283.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB289.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB290.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">roof</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB284.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB283.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB285.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB286.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">floor</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB285.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB286.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB287.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB283.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">window</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB286.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB287.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB285.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB288.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">door</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB287.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB286.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB284.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">walls</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB288.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB289.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB287.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB286.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bathroom</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB289.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB290.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB292.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">kitchen</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB290.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB292.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB289.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">living</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB290.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB292.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB283.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bedroom</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U4/L8-51/images/DRAMBIWB292.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB291.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB290.png</answer>
+          <answer>demo/LB/U4/L8-51/images/DRAMBIWB288.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>house</id>
+    <start>25.80</start>
+    <stop>26.73</stop>
+    </sound>
+    <sound>
+    <id>roof</id>
+    <start>28.07</start>
+    <stop>28.85</stop>
+    </sound>
+    <sound>
+    <id>floor</id>
+    <start>29.97</start>
+    <stop>30.84</stop>
+    </sound>
+    <sound>
+    <id>window</id>
+    <start>32.14</start>
+    <stop>33.11</stop>
+    </sound>
+    <sound>
+    <id>door</id>
+    <start>34.64</start>
+    <stop>35.41</stop>
+    </sound>
+    <sound>
+    <id>walls</id>
+    <start>36.75</start>
+    <stop>37.70</stop>
+    </sound>
+    <sound>
+    <id>bathroom</id>
+    <start>39.28</start>
+    <stop>40.33</stop>
+    </sound>
+    <sound>
+    <id>kitchen</id>
+    <start>42.09</start>
+    <stop>43.08</stop>
+    </sound>
+    <sound>
+    <id>living</id>
+    <start>44.71</start>
+    <stop>45.93</stop>
+    </sound>
+    <sound>
+    <id>bedroom</id>
+    <start>47.64</start>
+    <stop>48.59</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U5/L8-62/audio/audio.mp3,demo/LB/U5/L8-62/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U5/L8-62/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">jumper</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">trousers</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hat</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">boots</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">socks</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">gloves</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">winter</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">spring</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">summer</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">autumn</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>jumper</id>
+    <start>26.24</start>
+    <stop>27.08</stop>
+    </sound>
+    <sound>
+    <id>trousers</id>
+    <start>28.86</start>
+    <stop>29.81</stop>
+    </sound>
+    <sound>
+    <id>hat</id>
+    <start>31.67</start>
+    <stop>32.34</stop>
+    </sound>
+    <sound>
+    <id>boots</id>
+    <start>34.26</start>
+    <stop>35.05</stop>
+    </sound>
+    <sound>
+    <id>socks</id>
+    <start>36.89</start>
+    <stop>37.75</stop>
+    </sound>
+    <sound>
+    <id>gloves</id>
+    <start>39.72</start>
+    <stop>40.52</stop>
+    </sound>
+    <sound>
+    <id>winter</id>
+    <start>42.42</start>
+    <stop>43.34</stop>
+    </sound>
+    <sound>
+    <id>spring</id>
+    <start>44.77</start>
+    <stop>45.75</stop>
+    </sound>
+    <sound>
+    <id>summer</id>
+    <start>47.29</start>
+    <stop>48.11</stop>
+    </sound>
+    <sound>
+    <id>autumn</id>
+    <start>49.60</start>
+    <stop>50.46</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U6/L8-73/audio/audio.mp3,demo/LB/U6/L8-73/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U6/L8-73/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">turtle</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">fish</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">seahorse</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">shark</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB393.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">octopus</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB394.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">crab</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB398.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB397.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB396.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB395.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">map</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">island</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">mountain</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">beach</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U6/L8-73/images/DRAMBIWB402.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB401.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB400.png</answer>
+          <answer>demo/LB/U6/L8-73/images/DRAMBIWB399.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>turtle</id>
+    <start>25.71</start>
+    <stop>26.62</stop>
+    </sound>
+    <sound>
+    <id>fish</id>
+    <start>28.60</start>
+    <stop>29.49</stop>
+    </sound>
+    <sound>
+    <id>seahorse</id>
+    <start>31.37</start>
+    <stop>32.57</stop>
+    </sound>
+    <sound>
+    <id>shark</id>
+    <start>34.58</start>
+    <stop>35.52</stop>
+    </sound>
+    <sound>
+    <id>octopus</id>
+    <start>37.37</start>
+    <stop>38.48</stop>
+    </sound>
+    <sound>
+    <id>crab</id>
+    <start>40.41</start>
+    <stop>41.20</stop>
+    </sound>
+    <sound>
+    <id>map</id>
+    <start>42.85</start>
+    <stop>43.67</stop>
+    </sound>
+    <sound>
+    <id>island</id>
+    <start>45.51</start>
+    <stop>46.47</stop>
+    </sound>
+    <sound>
+    <id>mountain</id>
+    <start>48.56</start>
+    <stop>49.60</stop>
+    </sound>
+    <sound>
+    <id>beach</id>
+    <start>51.87</start>
+    <stop>52.72</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LB/U7/L8-84/audio/audio.mp3,demo/LB/U7/L8-84/audio/audio.ogg" type="three-in-a-row">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+      <image>demo/LB/U7/L8-84/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">bread</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB475.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB479.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">cheese</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB475.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB481.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB480.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">butter</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB475.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB482.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">ham</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB478.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB475.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">egg</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB479.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB478.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">salad</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB480.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB479.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB478.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">chickens</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB483.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB484.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB485.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB478.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bees</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB484.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB481.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB485.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB483.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">cows</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB485.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB483.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB484.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB480.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">milkchese</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB482.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB480.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB476.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB481.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">honey</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U7/L8-84/images/DRAMBIWB481.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB479.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB478.png</answer>
+          <answer>demo/LB/U7/L8-84/images/DRAMBIWB477.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.14</start>
+      <stop>1.13</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>3.72</start>
+      <stop>4.21</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.16</start>
+      <stop>14.25</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>17.25</start>
+      <stop>21.97</stop>
+    </sound>
+    <sound>
+      <id>bread</id>
+      <start>25.97</start>
+      <stop>26.73</stop>
+    </sound>
+    <sound>
+      <id>cheese</id>
+      <start>28.35</start>
+      <stop>29.30</stop>
+    </sound>
+    <sound>
+      <id>butter</id>
+      <start>30.61</start>
+      <stop>31.32</stop>
+    </sound>
+    <sound>
+      <id>ham</id>
+      <start>32.75</start>
+      <stop>33.48</stop>
+    </sound>
+    <sound>
+      <id>egg</id>
+      <start>34.65</start>
+      <stop>35.29</stop>
+    </sound>
+    <sound>
+      <id>salad</id>
+      <start>36.77</start>
+      <stop>37.62</stop>
+    </sound>
+    <sound>
+      <id>chickens</id>
+      <start>38.72</start>
+      <stop>39.81</stop>
+    </sound>
+    <sound>
+      <id>bees</id>
+      <start>41.42</start>
+      <stop>42.31</stop>
+    </sound>
+    <sound>
+      <id>cows</id>
+      <start>43.93</start>
+      <stop>45.01</stop>
+    </sound>
+    <sound>
+      <id>milkchese</id>
+      <start>46.79</start>
+      <stop>48.83</stop>
+    </sound>
+    <sound>
+      <id>honey</id>
+      <start>50.31</start>
+      <stop>51.08</stop>
+    </sound>
+  </sounds>
+</game><?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U8/L8-95/audio/audio.mp3,demo/LB/U8/L8-95/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U8/L8-95/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">pond</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">grass</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">path</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">leaves</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">flowers</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bench</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">egg</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">caterpillar</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">cocoon</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">butterfly</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>pond</id>
+    <start>26.52</start>
+    <stop>27.39</stop>
+    </sound>
+    <sound>
+    <id>grass</id>
+    <start>28.89</start>
+    <stop>29.93</stop>
+    </sound>
+    <sound>
+    <id>path</id>
+    <start>31.78</start>
+    <stop>32.60</stop>
+    </sound>
+    <sound>
+    <id>leaves</id>
+    <start>34.66</start>
+    <stop>35.65</stop>
+    </sound>
+    <sound>
+    <id>flowers</id>
+    <start>37.46</start>
+    <stop>38.45</stop>
+    </sound>
+    <sound>
+    <id>bench</id>
+    <start>40.11</start>
+    <stop>40.91</stop>
+    </sound>
+    <sound>
+    <id>egg</id>
+    <start>42.95</start>
+    <stop>43.59</stop>
+    </sound>
+    <sound>
+    <id>caterpillar</id>
+    <start>45.70</start>
+    <stop>46.77</stop>
+    </sound>
+    <sound>
+    <id>cocoon</id>
+    <start>48.79</start>
+    <stop>49.84</stop>
+    </sound>
+    <sound>
+    <id>butterfly</id>
+    <start>51.97</start>
+    <stop>53.14</stop>
+    </sound>
+  </sounds>
+</game>

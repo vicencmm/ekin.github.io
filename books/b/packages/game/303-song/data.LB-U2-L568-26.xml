@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U2/L568-26/audio/audio.mp3,demo/LB/U2/L568-26/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>8.09</start>
+    <stop>10.89</stop>
+    </sound>
+    <sound>
+    <id>02Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>10.89</start>
+    <stop>14.46</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>14.46</start>
+    <stop>17.24</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>17.24</start>
+    <stop>20.43</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[I can hear with my ears,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB159.png</image>
+    <start>20.43</start>
+    <stop>23.69</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[I can hear.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB159.png</image>
+    <start>23.69</start>
+    <stop>26.87</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[I can see with my eyes,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB160.png</image>
+    <start>26.87</start>
+    <stop>30.04</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[I can see.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB160.png</image>
+    <start>30.04</start>
+    <stop>33.25</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[I can smell with my nose,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB161.png</image>
+    <start>33.25</start>
+    <stop>36.47</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[I can smell.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB161.png</image>
+    <start>36.47</start>
+    <stop>39.69</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[I can taste with my mouth,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB162.png</image>
+    <start>39.69</start>
+    <stop>42.86</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[I can taste.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB162.png</image>
+    <start>42.86</start>
+    <stop>46.06</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[I can touch with my hands,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB163.png</image>
+    <start>46.05</start>
+    <stop>49.28</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[I can touch.]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB163.png</image>
+    <start>49.27</start>
+    <stop>52.85</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>52.85</start>
+    <stop>55.66</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>55.66</start>
+    <stop>59.27</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[I’ve got five senses,]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>59.27</start>
+    <stop>62.04</stop>
+    </sound>
+    <sound>
+    <id>18Label</id>
+    <text><![CDATA[1 2 3 4 5!]]></text>
+    <image>demo/LB/U2/L568-26/images/DRAMBIWB164.png</image>
+    <start>62.04</start>
+    <stop>65.33</stop>
+    </sound>
+  </sounds>
+</game>

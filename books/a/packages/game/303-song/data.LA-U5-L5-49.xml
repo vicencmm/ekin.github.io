@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U5/L5-49/audio/combined.mp3,demo/LA/U5/L5-49/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[Let's play the drum,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB281.png</image>
+      <start>10.412</start>
+      <stop>12.529</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the drum, ]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB281.png</image>
+      <start>12.529</start>
+      <stop>14.650</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Let's play the drum,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB281.png</image>
+      <start>14.650</start>
+      <stop>16.838</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Bang, bang, bang! ]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB281.png</image>
+      <start>16.838</start>
+      <stop>24.594</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the piano,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB282.png</image>
+      <start>24.594</start>
+      <stop>27.046</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the piano,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB282.png</image>
+      <start>27.046</start>
+      <stop>29.831</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the piano,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB282.png</image>
+      <start>29.785</start>
+      <stop>32.217</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Plink, plink, plink!]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB282.png</image>
+      <start>32.217</start>
+      <stop>39.178</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the guitar,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB283.png</image>
+      <start>39.178</start>
+      <stop>40.967</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the guitar,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB283.png</image>
+      <start>40.967</start>
+      <stop>43.685</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the guitar,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB283.png</image>
+      <start>43.685</start>
+      <stop>45.939</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Strum, strum, strum!]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB283.png</image>
+      <start>45.939</start>
+      <stop>53.364</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the trumpet,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB284.png</image>
+      <start>53.364</start>
+      <stop>55.816</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the trumpet,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB284.png</image>
+      <start>55.816</start>
+      <stop>58.203</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Let's play the trumpet,]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB284.png</image>
+      <start>58.203</start>
+      <stop>60.656</stop>
+    </sound>
+  <sound>
+      <text><![CDATA[Toot, toot, toot!]]></text>
+      <image>demo/LA/U5/L5-49/images/DRAMAIWB284.png</image>
+      <start>60.656</start>
+      <stop>71.726</stop>
+    </sound>
+  </sounds>
+</game>

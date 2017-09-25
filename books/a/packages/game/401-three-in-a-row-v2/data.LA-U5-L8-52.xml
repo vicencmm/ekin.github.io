@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/U5/L8-52/audio/combined.mp3,demo/LA/U5/L8-52/audio/combined.ogg" type="three-in-a-row">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <selectPlayer>
+    <background>demo/LA/U2/L8-19/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">1</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB298.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB301.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB307.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB306.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">2</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB299.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB302.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB304.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB306.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">3</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB300.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB307.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB301.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB303.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">4</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB301.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB298.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB300.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB299.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">5</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB302.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB305.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB298.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB306.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">6</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB303.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB300.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB307.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB305.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">7</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB304.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB299.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB301.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB305.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">8</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB305.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB306.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB307.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB304.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">9</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB306.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB304.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB299.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB302.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">10</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U5/L8-52/images/DRAMAIWB307.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB303.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB304.png</answer>
+          <answer>demo/LA/U5/L8-52/images/DRAMAIWB301.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+      <id>1</id>
+      <start>0.29</start>
+      <stop>1.46</stop>
+    </sound>
+    <sound>
+      <id>2</id>
+      <start>3.25</start>
+      <stop>4.27</stop>
+    </sound>
+    <sound>
+      <id>3</id>
+      <start>6.10</start>
+      <stop>7.61</stop>
+    </sound>
+    <sound>
+      <id>4</id>
+      <start>9.41</start>
+      <stop>10.19</stop>
+    </sound>
+    <sound>
+      <id>5</id>
+      <start>12.00</start>
+      <stop>13.04</stop>
+    </sound>
+    <sound>
+      <id>6</id>
+      <start>14.85</start>
+      <stop>16.08</stop>
+    </sound>
+    <sound>
+      <id>7</id>
+      <start>17.87</start>
+      <stop>18.70</stop>
+    </sound>
+    <sound>
+      <id>8</id>
+      <start>20.52</start>
+      <stop>21.49</stop>
+    </sound>
+    <sound>
+      <id>9</id>
+      <start>23.29</start>
+      <stop>24.19</stop>
+    </sound>
+    <sound>
+      <id>10</id>
+      <start>25.99</start>
+      <stop>27.04</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>28.54</start>
+      <stop>33.25</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>36.28</start>
+      <stop>38.03</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>40.73</start>
+      <stop>41.33</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>43.93</start>
+      <stop>52.11</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U5/L8-52/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </win>
+    <trophy>
+      <image>demo/LA/U5/L8-52/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+  </popups>
+</game>

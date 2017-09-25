@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U0/L1-02/audio/combined.mp3,demo/LA/U0/L1-02/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U0/L1-02/images/thumbs/DRAMAIWB606a.png</thumb>
+      <source>demo/LA/U0/L1-02/images/DRAMAIWB606.png</source>
+      <sound>daisy</sound>
+      <word>Daisy</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U0/L1-02/images/thumbs/DRAMAIWB607a.png</thumb>
+      <source>demo/LA/U0/L1-02/images/DRAMAIWB607.png</source>
+      <sound>robin</sound>
+      <word>Robin</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U0/L1-02/images/thumbs/DRAMAIWB608a.png</thumb>
+      <source>demo/LA/U0/L1-02/images/DRAMAIWB608.png</source>
+      <sound>mouse</sound>
+      <word>Mouse</word>
+    </image>
+  </images>
+ <sounds>
+  <sound>
+    <id>daisy</id>
+    <start>0.264</start>
+    <stop>5.229</stop>
+  </sound>
+  <sound>
+    <id>robin</id>
+    <start>6.629</start>
+    <stop>11.365</stop>
+  </sound>
+  <sound>
+    <id>mouse</id>
+    <start>12.429</start>
+    <stop>16</stop>
+  </sound>
+</sounds>
+</game>

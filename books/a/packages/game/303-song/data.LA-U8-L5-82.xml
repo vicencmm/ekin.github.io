@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U8/L5-82/audio/combined.mp3,demo/LA/U8/L5-82/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[I’m hungry, I’m hungry.]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB466.png</image>
+      <start>15.267</start>
+      <stop>18.545</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I’m hungry, too. ]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB466.png</image>
+      <start>18.545</start>
+      <stop>22.315</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I’m hungry, I’m hungry,]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB466.png</image>
+      <start>22.315</start>
+      <stop>25.833</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here’s some food for me and you.]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB466.png</image>
+      <start>25.833</start>
+      <stop>33.020</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I’m thirsty, I’m thirsty.]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB467.png</image>
+      <start>33.020</start>
+      <stop>36.638</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I’m thirsty, too.]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB467.png</image>
+      <start>36.638</start>
+      <stop>40.307</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[I’m thirsty, I’m thirsty,]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB467.png</image>
+      <start>40.307</start>
+      <stop>43.825</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here’s a drink for me and you.]]></text>
+      <image>demo/LA/U8/L5-82/images/DRAMAIWB467.png</image>
+      <start>43.825</start>
+      <stop>53.525</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U0/L2-03/audio/combined.mp3,demo/LA/U0/L2-03/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[Sunny, sunny, sunny,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB611.png</image>
+      <start>06.85</start>
+      <stop>10.11</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Windy, windy, windy,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB612.png</image>
+      <start>10.11</start>
+      <stop>13.37</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Rainy, rainy, rainy,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB613.png</image>
+      <start>13.37</start>
+      <stop>16.65</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cloudy, cloudy, cloudy.]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB614.png</image>
+      <start>16.65</start>s
+      <stop>19.78</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Look outside,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB613.png</image>
+      <start>20.69</start>
+      <stop>23.26</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[What’s the weather like?]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB612.png</image>
+      <start>23.26</start>
+      <stop>26.39</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Today it’s sunny,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB611.png</image>
+      <start>26.39</start>
+      <stop>28.09</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Today it’s sunny,]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB611.png</image>
+      <start>28.09</start>
+      <stop>29.72</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Today it’s sunny.]]></text>
+      <image>demo/LA/U0/L2-03/images/DRAMAIWB611.png</image>
+      <start>29.72</start>
+      <stop>31.45</stop>
+    </sound>
+  </sounds>
+</game>

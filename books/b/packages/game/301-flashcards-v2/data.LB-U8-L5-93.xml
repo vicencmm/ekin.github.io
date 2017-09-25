@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U8/L5-93/audio/audio.mp3,demo/LB/U8/L5-93/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U8/L5-93/images/thumbs/DRAMBIWB516a.png</thumb>
+      <source>demo/LB/U8/L5-93/images/DRAMBIWB516.png</source>
+      <sound>1</sound>
+      <word>butterfly</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U8/L5-93/images/thumbs/DRAMBIWB517a.png</thumb>
+      <source>demo/LB/U8/L5-93/images/DRAMBIWB517.png</source>
+      <sound>2</sound>
+      <word>egg</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U8/L5-93/images/thumbs/DRAMBIWB518a.png</thumb>
+      <source>demo/LB/U8/L5-93/images/DRAMBIWB518.png</source>
+      <sound>3</sound>
+      <word>caterpillar</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U8/L5-93/images/thumbs/DRAMBIWB519a.png</thumb>
+      <source>demo/LB/U8/L5-93/images/DRAMBIWB519.png</source>
+      <sound>4</sound>
+      <word>cocoon</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>1</id>
+    <start>0.58</start>
+    <stop>8.29</stop>
+    </sound>
+    <sound>
+    <id>4</id>
+    <start>24.34</start>
+    <stop>32.48</stop>
+    </sound>
+    <sound>
+    <id>2</id>
+    <start>9.66</start>
+    <stop>12.56</stop>
+    </sound>
+    <sound>
+    <id>3</id>
+    <start>13.92</start>
+    <stop>22.54</stop>
+    </sound>
+  </sounds>
+</game>

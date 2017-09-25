@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/L1/U1/L2-01/audio/combined.mp3,demo/L1/U1/L2-01/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB045a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB045.png</source>
+      <sound>dance</sound>
+      <word>dance</word>
+    </image>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB046a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB046.png</source>
+      <sound>clap</sound>
+      <word>clap</word>
+    </image>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB047a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB047.png</source>
+      <sound>point</sound>
+      <word>point</word>
+    </image>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB048a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB048.png</source>
+      <sound>sit down</sound>
+      <word>sit down</word>
+    </image>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB049a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB049.png</source>
+      <sound>stand up</sound>
+      <word>stand up</word>
+    </image>
+    <image>
+      <thumb>demo/L1/U1/L2-01/images/thumbs/DRAMAIWB050a.png</thumb>
+      <source>demo/L1/U1/L2-01/images/DRAMAIWB050.png</source>
+      <sound>wave</sound>
+      <word>wave</word>
+    </image>
+  </images>
+ <sounds>
+<sound>
+<id>dance</id>
+<start>0.550</start>
+<stop>1.550</stop>
+</sound>
+<sound>
+<id>clap</id>
+<start>4.110</start>
+<stop>4.710</stop>
+</sound>
+<sound>
+<id>point</id>
+<start>7.540</start>
+<stop>8.350</stop>
+</sound>
+<sound>
+<id>sit down</id>
+<start>11.06</start>
+<stop>12.380</stop>
+</sound>
+<sound>
+<id>stand up</id>
+<start>14.88</start>
+<stop>16.100</stop>
+</sound>
+<sound>
+<id>wave</id>
+<start>18.96</start>
+<stop>20</stop>
+</sound>
+</sounds>
+</game>

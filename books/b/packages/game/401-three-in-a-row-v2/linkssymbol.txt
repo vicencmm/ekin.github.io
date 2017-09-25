@@ -1,0 +1,16 @@
+img/symbol1.png
+img/symbol2.png
+img/symbol1.png
+img/symbol2.png
+img/symbol1.png
+img/symbol2.png
+img/symbol1.png
+img/symbol2.png
+img/symbol1.png
+img/symbol2.png
+img/symbol1.png
+img/symbol2.png
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+img/symbol1.png
+img/symbol2.png

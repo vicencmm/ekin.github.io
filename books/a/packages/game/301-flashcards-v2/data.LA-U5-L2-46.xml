@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U5/L2-46/audio/combined.mp3,demo/LA/U5/L2-46/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB259a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB259.png</source>
+      <sound>scooter</sound>
+      <word>Is it a scooter?</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB260a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB260.png</source>
+      <sound>bike</sound>
+      <word>Is it a bike?</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB261a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB261.png</source>
+      <sound>swing</sound>
+      <word>Is it a swing?</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB262a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB262.png</source>
+      <sound>trampoline</sound>
+      <word>Is it a trampoline?</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB263a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB263.png</source>
+      <sound>climbing</sound>
+      <word>Is it a climbing frame?</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U5/L2-46/images/thumbs/DRAMAIWB264a.png</thumb>
+      <source>demo/LA/U5/L2-46/images/DRAMAIWB264.png</source>
+      <sound>slide</sound>
+      <word>Is it a slide?</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>scooter</id>
+<start>0.43</start>
+<stop>7.55</stop>
+</sound>
+<sound>
+<id>bike</id>
+<start>9.34</start>
+<stop>17.04</stop>
+</sound>
+<sound>
+<id>swing</id>
+<start>18.61</start>
+<stop>26.20</stop>
+</sound>
+<sound>
+<id>trampoline</id>
+<start>28.09</start>
+<stop>36.31</stop>
+</sound>
+<sound>
+<id>climbing</id>
+<start>38.26</start>
+<stop>46.64</stop>
+</sound>
+<sound>
+<id>slide</id>
+<start>48.94</start>
+<stop>56.48</stop>
+</sound>
+</sounds>
+</game>

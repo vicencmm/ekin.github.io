@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U4/L2-45/audio/audio.mp3,demo/LB/U4/L2-45/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB250a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB250.png</source>
+      <sound>house</sound>
+      <word>Let’s build a house!</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB251a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB251.png</source>
+      <sound>walls</sound>
+      <word>Don’t forget the walls.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB252a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB252.png</source>
+      <sound>door</sound>
+      <word>Don’t forget the door.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB253a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB253.png</source>
+      <sound>windows</sound>
+      <word>Don't forget the ...</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB254a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB254.png</source>
+      <sound>floor</sound>
+      <word>Don’t forget the floor.</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U4/L2-45/images/thumbs/DRAMBIWB255a.png</thumb>
+      <source>demo/LB/U4/L2-45/images/DRAMBIWB255.png</source>
+      <sound>roof</sound>
+      <word>Don’t forget the roof.</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>house</id>
+    <start>0.46</start>
+    <stop>4.67</stop>
+    </sound>
+    <sound>
+    <id>walls</id>
+    <start>6.59</start>
+    <stop>10.75</stop>
+    </sound>
+    <sound>
+    <id>door</id>
+    <start>12.60</start>
+    <stop>16.65</stop>
+    </sound>
+    <sound>
+    <id>windows</id>
+    <start>18.50</start>
+    <stop>23.11</stop>
+    </sound>
+    <sound>
+    <id>floor</id>
+    <start>24.97</start>
+    <stop>28.92</stop>
+    </sound>
+    <sound>
+    <id>roof</id>
+    <start>30.76</start>
+    <stop>35.64</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game time="135" type="image-clue">
+  <title>Find and click.</title>
+  <screens>
+    <screen align="" rows="3,3,3" size="">
+      <images>
+        <image>
+          <source>demo/LA/U4/L7-40/images/DRAMAIWB223.png</source>
+          <sound>a</sound>
+          <title>bird</title>
+        </image>
+        <image>
+          <source>demo/LA/U4/L7-40/images/DRAMAIWB224.png</source>
+          <sound>b</sound>
+          <title>nest</title>
+        </image>
+        <image>
+          <source>demo/LA/U4/L7-40/images/DRAMAIWB225.png</source>
+          <sound>c</sound>
+          <title>eggs</title>
+        </image>
+        <image>
+          <source>demo/LA/U4/L7-40/images/DRAMAIWB226.png</source>
+          <sound>d</sound>
+          <title>baby birds</title>
+        </image>
+      </images>
+    </screen>
+  </screens>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.22</start>
+      <stop>1.68</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>3.79</start>
+      <stop>4.41</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.23</start>
+      <stop>14.32</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>17.33</start>
+      <stop>22.04</stop>
+    </sound>
+    <sound>
+      <id>a</id>
+      <start>24.89</start>
+      <stop>25.73</stop>
+    </sound>
+    <sound>
+      <id>b</id>
+      <start>28.86</start>
+      <stop>29.76</stop>
+    </sound>
+    <sound>
+      <id>c</id>
+      <start>32.68</start>
+      <stop>33.59</stop>
+    </sound>
+    <sound>
+      <id>d</id>
+      <start>36.85</start>
+      <stop>38.38</stop>
+    </sound>
+    <sound>
+      <id>timeup</id>
+      <start>43.20</start>
+      <stop>45.72</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U4/L7-40/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+    <timeup>
+      <text>Time's up!</text>
+      <image>demo/LA/U4/L7-40/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <sound>timeup</sound>
+      <button>Try again</button>
+    </timeup>
+  </popups>
+  <audio>demo/LA/U4/L7-40/audio/combined.mp3,demo/LA/U4/L7-40/audio/combined.ogg</audio>
+</game>

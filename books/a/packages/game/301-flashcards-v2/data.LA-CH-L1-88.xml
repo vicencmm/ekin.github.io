@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/CH/L1-91/audio/combined.mp3,demo/LA/CH/L1-91/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/CH/L1-91/images/thumbs/DRAMAIWB501a.png</thumb>
+      <source>demo/LA/CH/L1-91/images/DRAMAIWB501.png</source>
+      <sound>tree</sound>
+      <word>Christmas tree</word>
+    </image>
+    <image>
+      <thumb>demo/LA/CH/L1-91/images/thumbs/DRAMAIWB502a.png</thumb>
+      <source>demo/LA/CH/L1-91/images/DRAMAIWB502.png</source>
+      <sound>present</sound>
+      <word>present</word>
+    </image>
+    <image>
+      <thumb>demo/LA/CH/L1-91/images/thumbs/DRAMAIWB503a.png</thumb>
+      <source>demo/LA/CH/L1-91/images/DRAMAIWB503.png</source>
+      <sound>card</sound>
+      <word>card</word>
+    </image>
+    <image>
+      <thumb>demo/LA/CH/L1-91/images/thumbs/DRAMAIWB504a.png</thumb>
+      <source>demo/LA/CH/L1-91/images/DRAMAIWB504.png</source>
+      <sound>stocking</sound>
+      <word>stocking</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>tree</id>
+<start>0.69</start>
+<stop>5.02</stop>
+</sound>
+<sound>
+<id>present</id>
+<start>7.02</start>
+<stop>10.33</stop>
+</sound>
+<sound>
+<id>card</id>
+<start>12.21</start>
+<stop>15.44</stop>
+</sound>
+<sound>
+<id>stocking</id>
+<start>17.42</start>
+<stop>21.15</stop>
+</sound>
+</sounds>
+</game>

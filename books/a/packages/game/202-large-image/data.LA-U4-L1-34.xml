@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game config="0" type="large-image">
+  <title>Click and listen.</title>
+  <audio>demo/LA/U4/L1-34/audio/combined.mp3,demo/LA/U4/L1-34/audio/combined.ogg</audio>
+  <background>demo/LA/U4/L1-34/images/DRAMAIWB195b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195c.png</source>
+      <sound>mummy</sound>
+      <title>mummy</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195d.png</source>
+      <sound>daddy</sound>
+      <title>daddy</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195e.png</source>
+      <sound>sister</sound>
+      <title>sister</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195g.png</source>
+      <sound>granny</sound>
+      <title>granny</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0" z="1">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195f.png</source>
+      <sound>brother</sound>
+      <title>brother</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LA/U4/L1-34/images/DRAMAIWB195h.png</source>
+      <sound>grandad</sound>
+      <title>grandad</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>intro</id>
+      <start>0.11</start>
+      <stop>8.20</stop>
+    </sound>
+    <sound>
+      <id>mummy</id>
+      <start>10.85</start>
+      <stop>11.67</stop>
+    </sound>
+    <sound>
+      <id>daddy</id>
+      <start>14.68</start>
+      <stop>15.50</stop>
+    </sound>
+    <sound>
+      <id>sister</id>
+      <start>18.71</start>
+      <stop>19.68</stop>
+    </sound>
+    <sound>
+      <id>brother</id>
+      <start>22.47</start>
+      <stop>23.32</stop>
+    </sound>
+    <sound>
+      <id>granny</id>
+      <start>26.13</start>
+      <stop>27.06</stop>
+    </sound>
+    <sound>
+      <id>grandad</id>
+      <start>29.64</start>
+      <stop>30.79</stop>
+    </sound>
+  </sounds>
+</game>

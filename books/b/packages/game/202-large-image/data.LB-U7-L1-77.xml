@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U7/L1-77/audio/audio.mp3,demo/LB/U7/L1-77/audio/audio.ogg</audio>
+  <background>demo/LB/U7/L1-77/images/DRAMBIWB448b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448c.png</source>
+      <sound>bread</sound>
+      <title>bread</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448d.png</source>
+      <sound>cheese</sound>
+      <title>cheese</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448e.png</source>
+      <sound>butter</sound>
+      <title>butter</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448f.png</source>
+      <sound>ham</sound>
+      <title>ham</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448g.png</source>
+      <sound>egg</sound>
+      <title>egg</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448h.png</source>
+      <sound>salad</sound>
+      <title>salad</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>intro</id>
+    <start>1.07</start>
+    <stop>9.16</stop>
+    </sound>
+    <sound>
+    <id>bread</id>
+    <start>12.16</start>
+    <stop>12.92</stop>
+    </sound>
+    <sound>
+    <id>cheese</id>
+    <start>14.24</start>
+    <stop>15.19</stop>
+    </sound>
+    <sound>
+    <id>butter</id>
+    <start>17.03</start>
+    <stop>17.74</stop>
+    </sound>
+    <sound>
+    <id>ham</id>
+    <start>19.65</start>
+    <stop>20.40</stop>
+    </sound>
+    <sound>
+    <id>egg</id>
+    <start>22.24</start>
+    <stop>22.88</stop>
+    </sound>
+    <sound>
+    <id>salad</id>
+    <start>24.73</start>
+    <stop>25.60</stop>
+    </sound>
+  </sounds>
+</game>

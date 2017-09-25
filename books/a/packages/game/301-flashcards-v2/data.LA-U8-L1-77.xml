@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U8/L1-77/audio/combined.mp3,demo/LA/U8/L1-77/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB432a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB432.png</source>
+      <sound>apples</sound>
+      <word>apples</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB433a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB433.png</source>
+      <sound>pears</sound>
+      <word>pears</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB434a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB434.png</source>
+      <sound>oranges</sound>
+      <word>oranges</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB435a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB435.png</source>
+      <sound>bananas</sound>
+      <word>bananas</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB436a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB436.png</source>
+      <sound>cherries</sound>
+      <word>cherries</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L1-77/images/thumbs/DRAMAIWB437a.png</thumb>
+      <source>demo/LA/U8/L1-77/images/DRAMAIWB437.png</source>
+      <sound>strawberries</sound>
+      <word>strawberries</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>apples</id>
+<start>0.62</start>
+<stop>1.63</stop>
+</sound>
+<sound>
+<id>pears</id>
+<start>4.04</start>
+<stop>4.99</stop>
+</sound>
+<sound>
+<id>oranges</id>
+<start>7.36</start>
+<stop>8.39</stop>
+</sound>
+<sound>
+<id>bananas</id>
+<start>10.49</start>
+<stop>11.61</stop>
+</sound>
+<sound>
+<id>cherries</id>
+<start>14.27</start>
+<stop>15.27</stop>
+</sound>
+<sound>
+<id>strawberries</id>
+<start>17.49</start>
+<stop>18.83</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism" fullcard="1">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+    <textBackground>How many players?</textBackground>
+    <background>demo/L4/U1/L7-01/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/L4/U1/L7-01/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/L4/U1/L7-01/audio/combined.mp3,demo/L4/U1/L7-01/audio/combined.ogg</audio>
+  <popups>
+    <trophy>
+      <image>demo/L4/U1/L7-01/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/L4/U1/L7-01/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <sounds>
+    <sound>
+      <id>win</id>
+      <start>33.576</start>
+      <stop>38.370</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>13.943</start>
+      <stop>15.618</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>16.247</start>
+      <stop>16.758</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>24.235</start>
+      <stop>32.329</stop>
+    </sound>
+    <sound>
+      <id>Letswave</id>
+      <start>0</start>
+      <stop>1.600</stop>
+    </sound>
+    <sound>
+      <id>Letsclap</id>
+      <start>2.470</start>
+      <stop>3.700</stop>
+    </sound>
+    <sound>
+      <id>Letspoint</id>
+      <start>4.531</start>
+      <stop>5.843</stop>
+    </sound>
+    <sound>
+      <id>Letssitdown</id>
+      <start>6.740</start>
+      <stop>8.290</stop>
+    </sound>
+    <sound>
+      <id>Letsstandup</id>
+      <start>9.169</start>
+      <stop>10.642</stop>
+    </sound>
+    <sound>
+      <id>Letsdance</id>
+      <start>11.420</start>
+      <stop>12.821</stop>
+    </sound>
+  </sounds>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB020.png</source>
+      <sound>Letsdance</sound>
+      <title>Let's dance</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB021.png</source>
+      <sound>Letsclap</sound>
+      <title>Let's clap</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB022.png</source>
+      <sound>Letspoint</sound>
+      <title>Let's point</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB023.png</source>
+      <sound>Letssitdown</sound>
+      <title>Let's sit down</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB024.png</source>
+      <sound>Letsstandup</sound>
+      <title>Let's stand up</title>
+    </image>
+    <image>
+      <source>demo/L4/U1/L7-01/images/DRAMAIWB025.png</source>
+      <sound>Letswave</sound>
+      <title>Let's wave</title>
+    </image>
+  </images>
+</game>

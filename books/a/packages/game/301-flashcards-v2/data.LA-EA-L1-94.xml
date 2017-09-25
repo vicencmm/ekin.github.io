@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/EA/L1-94/audio/combined.mp3,demo/LA/EA/L1-94/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/EA/L1-94/images/thumbs/DRAMAIWB510a.png</thumb>
+      <source>demo/LA/EA/L1-94/images/DRAMAIWB510.png</source>
+      <sound>flower</sound>
+      <word>flower</word>
+    </image>
+    <image>
+      <thumb>demo/LA/EA/L1-94/images/thumbs/DRAMAIWB511a.png</thumb>
+      <source>demo/LA/EA/L1-94/images/DRAMAIWB511.png</source>
+      <sound>basket</sound>
+      <word>basket</word>
+    </image>
+    <image>
+      <thumb>demo/LA/EA/L1-94/images/thumbs/DRAMAIWB512a.png</thumb>
+      <source>demo/LA/EA/L1-94/images/DRAMAIWB512.png</source>
+      <sound>chick</sound>
+      <word>chick</word>
+    </image>
+    <image>
+      <thumb>demo/LA/EA/L1-94/images/thumbs/DRAMAIWB513a.png</thumb>
+      <source>demo/LA/EA/L1-94/images/DRAMAIWB513.png</source>
+      <sound>rabbit</sound>
+      <word>rabbit</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>flower</id>
+<start>1.09</start>
+<stop>4.22</stop>
+</sound>
+<sound>
+<id>basket</id>
+<start>6.18</start>
+<stop>9.65</stop>
+</sound>
+<sound>
+<id>chick</id>
+<start>11.43</start>
+<stop>14.51</stop>
+</sound>
+<sound>
+<id>rabbit</id>
+<start>16.41</start>
+<stop>19.68</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game time="135" type="image-clue">
+  <title>Find and click.</title>
+  <screens>
+    <screen align="center,center,center" rows="3,3,3" size="">
+      <images>
+        <image>
+          <source>demo/LA/U3/L7-29/images/DRAMAIWB169.png</source>
+          <sound>a</sound>
+          <title>book</title>
+        </image>
+        <image>
+          <source>demo/LA/U3/L7-29/images/DRAMAIWB170.png</source>
+          <sound>b</sound>
+          <title>pencil</title>
+        </image>
+      </images>
+    </screen>
+    <screen align="center,center,center" rows="3,3,3" size="">
+      <images>
+        <image>
+          <source>demo/LA/U3/L7-29/images/DRAMAIWB171.png</source>
+          <sound>c</sound>
+          <title>big</title>
+        </image>
+        <image>
+          <source>demo/LA/U3/L7-29/images/DRAMAIWB172.png</source>
+          <sound>d</sound>
+          <title>small</title>
+        </image>
+      </images>
+    </screen>
+  </screens>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.09</start>
+      <stop>1.90</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>3.66</start>
+      <stop>4.16</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.11</start>
+      <stop>14.20</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>17.52</start>
+      <stop>22.23</stop>
+    </sound>
+    <sound>
+      <id>a</id>
+      <start>24.46</start>
+      <stop>25.21</stop>
+    </sound>
+    <sound>
+      <id>b</id>
+      <start>26.80</start>
+      <stop>27.74</stop>
+    </sound>
+    <sound>
+      <id>c</id>
+      <start>29.35</start>
+      <stop>30.10</stop>
+    </sound>
+    <sound>
+      <id>d</id>
+      <start>31.69</start>
+      <stop>32.69</stop>
+    </sound>
+    <sound>
+      <id>timeup</id>
+      <start>35.294</start>
+      <stop>37.823</stop>
+    </sound>
+  </sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U3/L7-29/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+    <timeup>
+      <text>Time's up!</text>
+      <image>demo/LA/U3/L7-29/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <sound>timeup</sound>
+      <button>Try again</button>
+    </timeup>
+  </popups>
+  <audio>demo/LA/U3/L7-29/audio/combined.mp3,demo/LA/U3/L7-29/audio/combined.ogg</audio>
+</game>

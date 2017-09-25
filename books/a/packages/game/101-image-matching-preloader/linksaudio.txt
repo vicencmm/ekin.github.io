@@ -1,0 +1,6 @@
+demo/LA/U2/L1-12/audio/combined.mp3
+demo/LA/U2/L1-12/audio/combined.ogg
+demo/LA/U5/L1-45/audio/combined.mp3
+demo/LA/U5/L1-45/audio/combined.ogg
+demo/LA/U8/L1-78/audio/combined.mp3
+demo/LA/U8/L1-78/audio/combined.ogg

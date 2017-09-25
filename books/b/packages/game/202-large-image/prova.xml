@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U2/L1-22/audio/audio.mp3,demo/LB/U2/L1-22/audio/audio.ogg</audio>
+  <background>demo/LB/U2/L1-22/images/DRAMBIWB145b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145c.png</source>
+      <sound>arms</sound>
+      <title>arms</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145d.png</source>
+      <sound>head</sound>
+      <title>head</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145e.png</source>
+      <sound>body</sound>
+      <title>body</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145f.png</source>
+      <sound>legs</sound>
+      <title>legs</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145g.png</source>
+      <sound>feet</sound>
+      <title>feet</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145h.png</source>
+      <sound>hands</sound>
+      <title>hands</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>arms</id>
+    <start>0.56</start>
+    <stop>1.54</stop>
+    </sound>
+    <sound>
+    <id>head</id>
+    <start>2.93</start>
+    <stop>3.67</stop>
+    </sound>
+    <sound>
+    <id>body</id>
+    <start>5.44</start>
+    <stop>6.26</stop>
+    </sound>
+    <sound>
+    <id>legs</id>
+    <start>7.78</start>
+    <stop>8.72</stop>
+    </sound>
+    <sound>
+    <id>feet</id>
+    <start>10.26</start>
+    <stop>11.13</stop>
+    </sound>
+    <sound>
+    <id>hands</id>
+    <start>12.75</start>
+    <stop>13.73</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>17.64</start>
+    <stop>25.73</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U4/L1-44/audio/audio.mp3,demo/LB/U4/L1-44/audio/audio.ogg</audio>
+  <background>demo/LB/U4/L1-44/images/DRAMBIWB249b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249c.png</source>
+      <sound>house</sound>
+      <title>house</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249d.png</source>
+      <sound>roof</sound>
+      <title>roof</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249e.png</source>
+      <sound>floor</sound>
+      <title>floor</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249h.png</source>
+      <sound>walls</sound>
+      <title>walls</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249f.png</source>
+      <sound>window</sound>
+      <title>window</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U4/L1-44/images/DRAMBIWB249g.png</source>
+      <sound>door</sound>
+      <title>door</title>
+      <effect>shake</effect>
+    </image>
+    
+  </images>
+  <sounds>
+    <sound>
+    <id>house</id>
+    <start>0.51</start>
+    <stop>1.43</stop>
+    </sound>
+    <sound>
+    <id>roof</id>
+    <start>3.10</start>
+    <stop>3.92</stop>
+    </sound>
+    <sound>
+    <id>floor</id>
+    <start>5.96</start>
+    <stop>6.82</stop>
+    </sound>
+    <sound>
+    <id>window</id>
+    <start>8.58</start>
+    <stop>9.57</stop>
+    </sound>
+    <sound>
+    <id>door</id>
+    <start>11.56</start>
+    <stop>12.32</stop>
+    </sound>
+    <sound>
+    <id>walls</id>
+    <start>14.79</start>
+    <stop>15.74</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>20.16</start>
+    <stop>28.25</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U6/L1-66/audio/audio.mp3,demo/LB/U6/L1-66/audio/audio.ogg</audio>
+  <background>demo/LB/U6/L1-66/images/DRAMBIWB371b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371c.png</source>
+      <sound>turtle</sound>
+      <title>turtle</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371d.png</source>
+      <sound>fish</sound>
+      <title>fish</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371e.png</source>
+      <sound>seahorse</sound>
+      <title>seahorse</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371f.png</source>
+      <sound>shark</sound>
+      <title>shark</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371g.png</source>
+      <sound>octopus</sound>
+      <title>octopus</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371h.png</source>
+      <sound>crab</sound>
+      <title>crab</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>turtle</id>
+    <start>0.48</start>
+    <stop>1.39</stop>
+    </sound>
+    <sound>
+    <id>fish</id>
+    <start>3.37</start>
+    <stop>4.26</stop>
+    </sound>
+    <sound>
+    <id>seahorse</id>
+    <start>6.14</start>
+    <stop>7.34</stop>
+    </sound>
+    <sound>
+    <id>shark</id>
+    <start>9.35</start>
+    <stop>10.29</stop>
+    </sound>
+    <sound>
+    <id>octopus</id>
+    <start>12.14</start>
+    <stop>13.25</stop>
+    </sound>
+    <sound>
+    <id>crab</id>
+    <start>15.49</start>
+    <stop>16.28</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>22.25</start>
+    <stop>30.34</stop>
+    </sound>
+  </sounds>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U7/L1-77/audio/audio.mp3,demo/LB/U7/L1-77/audio/audio.ogg</audio>
+  <background>demo/LB/U7/L1-77/images/DRAMBIWB448b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448c.png</source>
+      <sound>bread</sound>
+      <title>bread</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448d.png</source>
+      <sound>cheese</sound>
+      <title>cheese</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448e.png</source>
+      <sound>butter</sound>
+      <title>butter</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448f.png</source>
+      <sound>ham</sound>
+      <title>ham</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448g.png</source>
+      <sound>egg</sound>
+      <title>egg</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U7/L1-77/images/DRAMBIWB448h.png</source>
+      <sound>salad</sound>
+      <title>salad</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>intro</id>
+    <start>1.07</start>
+    <stop>9.16</stop>
+    </sound>
+    <sound>
+    <id>bread</id>
+    <start>12.16</start>
+    <stop>12.92</stop>
+    </sound>
+    <sound>
+    <id>cheese</id>
+    <start>14.24</start>
+    <stop>15.19</stop>
+    </sound>
+    <sound>
+    <id>butter</id>
+    <start>17.03</start>
+    <stop>17.74</stop>
+    </sound>
+    <sound>
+    <id>ham</id>
+    <start>19.65</start>
+    <stop>20.40</stop>
+    </sound>
+    <sound>
+    <id>egg</id>
+    <start>22.24</start>
+    <stop>22.88</stop>
+    </sound>
+    <sound>
+    <id>salad</id>
+    <start>24.73</start>
+    <stop>25.60</stop>
+    </sound>
+  </sounds>
+</game>

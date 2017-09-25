@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LB/U4/L568-48/audio/audio.mp3,demo/LB/U4/L568-48/audio/audio.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+    <id>01Label</id>
+    <text><![CDATA[I wash in the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>10.00</start>
+    <stop>12.17</stop>
+    </sound>
+    <sound>
+    <id>03Label</id>
+    <text><![CDATA[The bathroom, the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>12.17</start>
+    <stop>14.52</stop>
+    </sound>
+    <sound>
+    <id>04Label</id>
+    <text><![CDATA[I wash in the bathroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>14.52</start>
+    <stop>16.75</stop>
+    </sound>
+    <sound>
+    <id>05Label</id>
+    <text><![CDATA[Splash, splash, splash!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB263.png</image>
+    <start>16.75</start>
+    <stop>21.64</stop>
+    </sound>
+    <sound>
+    <id>06Label</id>
+    <text><![CDATA[I eat in the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>21.65</start>
+    <stop>23.72</stop>
+    </sound>
+    <sound>
+    <id>07Label</id>
+    <text><![CDATA[The kitchen, the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>23.72</start>
+    <stop>26.05</stop>
+    </sound>
+    <sound>
+    <id>08Label</id>
+    <text><![CDATA[I eat in the kitchen,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>26.05</start>
+    <stop>28.40</stop>
+    </sound>
+    <sound>
+    <id>09Label</id>
+    <text><![CDATA[Munch, munch, munch!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB264.png</image>
+    <start>28.39</start>
+    <stop>33.14</stop>
+    </sound>
+    <sound>
+    <id>10Label</id>
+    <text><![CDATA[I play in the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>33.13</start>
+    <stop>35.26</stop>
+    </sound>
+    <sound>
+    <id>11Label</id>
+    <text><![CDATA[The living room, the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>35.26</start>
+    <stop>37.61</stop>
+    </sound>
+    <sound>
+    <id>12Label</id>
+    <text><![CDATA[I play in the living room,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>37.61</start>
+    <stop>39.90</stop>
+    </sound>
+    <sound>
+    <id>13Label</id>
+    <text><![CDATA[Fun, fun, fun!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB265.png</image>
+    <start>39.90</start>
+    <stop>44.66</stop>
+    </sound>
+    <sound>
+    <id>14Label</id>
+    <text><![CDATA[I sleep in the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>44.66</start>
+    <stop>46.81</stop>
+    </sound>
+    <sound>
+    <id>15Label</id>
+    <text><![CDATA[The bedroom, the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>46.81</start>
+    <stop>49.14</stop>
+    </sound>
+    <sound>
+    <id>16Label</id>
+    <text><![CDATA[I sleep in the bedroom,]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>49.14</start>
+    <stop>51.43</stop>
+    </sound>
+    <sound>
+    <id>17Label</id>
+    <text><![CDATA[Snore, snore, snore!]]></text>
+    <image>demo/LB/U4/L568-48/images/DRAMBIWB266.png</image>
+    <start>51.42</start>
+    <stop>58.90</stop>
+    </sound>
+  </sounds>
+</game>

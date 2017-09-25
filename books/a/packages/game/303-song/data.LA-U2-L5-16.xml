@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U2/L5-16/audio/combined.mp3,demo/LA/U2/L5-16/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[ Wash your hands]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>11.279</start>
+      <stop>12.378</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When they’re dirty,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>12.378</start>
+      <stop>13.435</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands.]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>13.435</start>
+      <stop>15.56</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>15.56</start>
+      <stop>16.819</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When they’re dirty,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>16.819</start>
+      <stop>17.882</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands.]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>17.882</start>
+      <stop>19.99</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>19.99</start>
+      <stop>21.221</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When they’re dirty,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB104.png</image>
+      <start>21.221</start>
+      <stop>22.56</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ To make them nice and clean,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>22.56</start>
+      <stop>24.52</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Wash your hands, ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>24.52</start>
+      <stop>25.52</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands, ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>25.52</start>
+      <stop>26.66</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your hands. ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB105.png</image>
+      <start>26.66</start>
+      <stop>37.83</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your face]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>37.83</start>
+      <stop>38.993</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When it’s dirty,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>38.993</start>
+      <stop>40.08</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your face. ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>40.08</start>
+      <stop>42.26</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your face]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>42.26</start>
+      <stop>43.441</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When it’s dirty,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>43.441</start>
+      <stop>44.40</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Wash your face. ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>44.40</start>
+      <stop>46.72</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Wash your face]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>46.72</start>
+      <stop>47.888</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[When it’s dirty ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB106.png</image>
+      <start>47.888</start>
+      <stop>49.18</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[To make it nice and clean, ]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>49.18</start>
+      <stop>51.08</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Wash your face,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>51.08</start>
+      <stop>52.15</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Wash your face,]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>52.15</start>
+      <stop>53.32</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Wash your face.]]></text>
+      <image>demo/LA/U2/L5-16/images/DRAMAIWB107.png</image>
+      <start>53.32</start>
+      <stop>61.18</stop>
+    </sound>
+  </sounds>
+</game>

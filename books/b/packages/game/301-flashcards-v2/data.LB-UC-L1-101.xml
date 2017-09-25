@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/UC/L1-101/audio/audio.mp3,demo/LB/UC/L1-101/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/UC/L1-101/images/thumbs/DRAMBIWB415a.png</thumb>
+      <source>demo/LB/UC/L1-101/images/DRAMBIWB415.png</source>
+      <sound>star</sound>
+      <word>star</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UC/L1-101/images/thumbs/DRAMBIWB416a.png</thumb>
+      <source>demo/LB/UC/L1-101/images/DRAMBIWB416.png</source>
+      <sound>father</sound>
+      <word>Father Christmas</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UC/L1-101/images/thumbs/DRAMBIWB417a.png</thumb>
+      <source>demo/LB/UC/L1-101/images/DRAMBIWB417.png</source>
+      <sound>bell</sound>
+      <word>bell</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UC/L1-101/images/thumbs/DRAMBIWB418a.png</thumb>
+      <source>demo/LB/UC/L1-101/images/DRAMBIWB418.png</source>
+      <sound>reindeer</sound>
+      <word>reindeer</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>star</id>
+    <start>0.51</start>
+    <stop>1.49</stop>
+    </sound>
+    <sound>
+    <id>father</id>
+    <start>3.64</start>
+    <stop>5.14</stop>
+    </sound>
+    <sound>
+    <id>bell</id>
+    <start>7.02</start>
+    <stop>7.80</stop>
+    </sound>
+    <sound>
+    <id>reindeer</id>
+    <start>9.85</start>
+    <stop>10.97</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="phonics-presentation" time="1500">
+  <title>​</title>
+  <audio>demo/LA/PH/U1-113/audio/combined.mp3,demo/LA/PH/U1-113/audio/combined.ogg</audio>
+  <sounds>
+    <sound>
+      <id>sit</id>
+      <start>0</start>
+      <stop>1.4195</stop>
+    </sound>
+    <sound>
+      <id>s</id>
+      <start>1.6195</start>
+      <stop>3.30025</stop>
+    </sound>
+    <sound>
+      <id>i</id>
+      <start>3.50025</start>
+      <stop>4.632375</stop>
+    </sound>
+    <sound>
+      <id>t</id>
+      <start>4.832375</start>
+      <stop>6.01675</stop>
+    </sound>
+  </sounds>
+  <words>
+    <word>
+      <image>demo/LA/PH/U1-113/images/DRAMAIWB572.png</image>
+      <sound>sit</sound>
+      <phonem>
+        <text>s</text>
+        <sound>s</sound>
+      </phonem>
+      <phonem>
+        <text>i</text>
+        <sound>i</sound>
+      </phonem>
+      <phonem>
+        <text>t</text>
+        <sound>t</sound>
+      </phonem>
+    </word>
+  </words>
+</game>

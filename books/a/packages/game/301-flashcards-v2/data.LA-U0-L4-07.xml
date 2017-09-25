@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U1/L4-07/audio/combined.mp3,demo/LA/U1/L4-07/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB627a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB627.png</source>
+      <sound>one</sound>
+      <word>one</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB628a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB628.png</source>
+      <sound>two</sound>
+      <word>two</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB629a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB629.png</source>
+      <sound>three</sound>
+      <word>three</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB630a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB630.png</source>
+      <sound>four</sound>
+      <word>four</word>
+    </image>
+  <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB631a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB631.png</source>
+      <sound>five</sound>
+      <word>five</word>
+    </image>
+  <image>
+      <thumb>demo/LA/U1/L4-07/images/thumbs/DRAMAIWB632a.png</thumb>
+      <source>demo/LA/U1/L4-07/images/DRAMAIWB632.png</source>
+      <sound>six</sound>
+      <word>six</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>one</id>
+<start>0.61</start>
+<stop>1.68</stop>
+</sound>
+<sound>
+<id>two</id>
+<start>3.09</start>
+<stop>4.09</stop>
+</sound>
+<sound>
+<id>three</id>
+<start>5.64</start>
+<stop>6.77</stop>
+</sound>
+<sound>
+<id>four</id>
+<start>8.17</start>
+<stop>9.27</stop>
+</sound>
+<sound>
+<id>five</id>
+<start>10.67</start>
+<stop>12.01</stop>
+</sound>
+<sound>
+<id>six</id>
+<start>13.42</start>
+<stop>14.55</stop>
+</sound>
+</sounds>
+</game>

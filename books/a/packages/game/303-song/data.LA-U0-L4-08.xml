@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U0/L4-08/audio/combined.mp3,demo/LA/U0/L4-08/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[Happy, Happy Birthday,]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>05.46</start>
+      <stop>07.44</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[How old are you?]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>07.44</start>
+      <stop>9.74</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Happy, Happy Birthday]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>09.74</start>
+      <stop>11.84</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[How old are you?]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>11.84</start>
+      <stop>13.62</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[So Happy Birthday, Robin!]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>13.62</start>
+      <stop>18.26</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Tell me; how old are you?]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>18.26</start>s
+      <stop>22.55</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Happy, Happy Birthday,]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>22.55</start>
+      <stop>24.74</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Happy, Happy Birthday,]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>24.74</start>
+      <stop>26.90</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Happy, Happy Birthday to you!]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>26.90</start>
+      <stop>31.22</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Happy, Happy Birthday,]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>31.22</start>
+      <stop>33.29</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Happy, Happy Birthday,]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>33.29</start>
+      <stop>35.50</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Happy, Happy Birthday to you!]]></text>
+      <image>demo/LA/U0/L4-08/images/DRAMAIWB633.png</image>
+      <start>35.50</start>
+      <stop>49.33</stop>
+    </sound>
+  </sounds>
+</game>

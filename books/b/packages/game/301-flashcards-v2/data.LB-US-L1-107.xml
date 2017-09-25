@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/US/L1-107/audio/audio.mp3,demo/LB/US/L1-107/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/US/L1-107/images/thumbs/DRAMBIWB433a.png</thumb>
+      <source>demo/LB/US/L1-107/images/DRAMBIWB433.png</source>
+      <sound>cakes</sound>
+      <word>cakes</word>
+    </image>
+    <image>
+      <thumb>demo/LB/US/L1-107/images/thumbs/DRAMBIWB434a.png</thumb>
+      <source>demo/LB/US/L1-107/images/DRAMBIWB434.png</source>
+      <sound>flags</sound>
+      <word>flags</word>
+    </image>
+    <image>
+      <thumb>demo/LB/US/L1-107/images/thumbs/DRAMBIWB435a.png</thumb>
+      <source>demo/LB/US/L1-107/images/DRAMBIWB435.png</source>
+      <sound>parade</sound>
+      <word>parade</word>
+    </image>
+    <image>
+      <thumb>demo/LB/US/L1-107/images/thumbs/DRAMBIWB436a.png</thumb>
+      <source>demo/LB/US/L1-107/images/DRAMBIWB436.png</source>
+      <sound>queen</sound>
+      <word>queen</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>cakes</id>
+    <start>0.40</start>
+    <stop>1.34</stop>
+    </sound>
+    <sound>
+    <id>flags</id>
+    <start>3.08</start>
+    <stop>4.14</stop>
+    </sound>
+    <sound>
+    <id>parade</id>
+    <start>6.02</start>
+    <stop>6.97</stop>
+    </sound>
+    <sound>
+    <id>queen</id>
+    <start>8.81</start>
+    <stop>9.73</stop>
+    </sound>
+  </sounds>
+</game>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/UH/L1-98/audio/audio.mp3,demo/LB/UH/L1-98/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/UH/L1-98/images/thumbs/DRAMBIWB407a.png</thumb>
+      <source>demo/LB/UH/L1-98/images/DRAMBIWB407.png</source>
+      <sound>ghost</sound>
+      <word>ghost</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UH/L1-98/images/thumbs/DRAMBIWB408a.png</thumb>
+      <source>demo/LB/UH/L1-98/images/DRAMBIWB408.png</source>
+      <sound>witch</sound>
+      <word>witch</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UH/L1-98/images/thumbs/DRAMBIWB409a.png</thumb>
+      <source>demo/LB/UH/L1-98/images/DRAMBIWB409.png</source>
+      <sound>pumpkin</sound>
+      <word>pumpkin</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UH/L1-98/images/thumbs/DRAMBIWB410a.png</thumb>
+      <source>demo/LB/UH/L1-98/images/DRAMBIWB410.png</source>
+      <sound>monster</sound>
+      <word>monster</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>ghost</id>
+    <start>0.51</start>
+    <stop>1.38</stop>
+    </sound>
+    <sound>
+    <id>witch</id>
+    <start>3.35</start>
+    <stop>4.26</stop>
+    </sound>
+    <sound>
+    <id>pumpkin</id>
+    <start>6.09</start>
+    <stop>7.04</stop>
+    </sound>
+    <sound>
+    <id>monster</id>
+    <start>8.64</start>
+    <stop>9.67</stop>
+    </sound>
+  </sounds>
+</game>

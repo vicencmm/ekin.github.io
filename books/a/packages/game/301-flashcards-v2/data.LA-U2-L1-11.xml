@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U2/L1-11/audio/combined.mp3,demo/LA/U2/L1-11/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB075a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB075.png</source>
+      <sound>ears</sound>
+      <word>ears</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB076a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB076.png</source>
+      <sound>nose</sound>
+      <word>nose</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB077a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB077.png</source>
+      <sound>eyes</sound>
+      <word>eyes</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB078a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB078.png</source>
+      <sound>mouth</sound>
+      <word>mouth</word>
+    </image>
+  <image>
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB079a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB079.png</source>
+      <sound>sad</sound>
+      <word>sad</word>
+    </image>
+  <image>
+      <thumb>demo/LA/U2/L1-11/images/thumbs/DRAMAIWB080a.png</thumb>
+      <source>demo/LA/U2/L1-11/images/DRAMAIWB080.png</source>
+      <sound>happy</sound>
+      <word>happy</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>ears</id>
+<start>0.22</start>
+<stop>1.26</stop>
+</sound>
+<sound>
+<id>nose</id>
+<start>4.28</start>
+<stop>5.35</stop>
+</sound>
+<sound>
+<id>eyes</id>
+<start>8.36</start>
+<stop>9.35</stop>
+</sound>
+<sound>
+<id>mouth</id>
+<start>12.50</start>
+<stop>13.44</stop>
+</sound>
+<sound>
+<id>sad</id>
+<start>16.44</start>
+<stop>17.51</stop>
+</sound>
+<sound>
+<id>happy</id>
+<start>20.68</start>
+<stop>21.92</stop>
+</sound>
+</sounds>
+</game>

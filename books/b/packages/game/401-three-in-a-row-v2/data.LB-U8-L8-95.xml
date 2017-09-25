@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U8/L8-95/audio/audio.mp3,demo/LB/U8/L8-95/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U8/L8-95/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">pond</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">grass</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">path</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">leaves</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB527.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">flowers</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB528.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">bench</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB529.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">egg</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB530.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">caterpillar</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB531.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">cocoon</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB532.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">butterfly</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U8/L8-95/images/DRAMBIWB533.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB524.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB525.png</answer>
+          <answer>demo/LB/U8/L8-95/images/DRAMBIWB526.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>pond</id>
+    <start>26.52</start>
+    <stop>27.39</stop>
+    </sound>
+    <sound>
+    <id>grass</id>
+    <start>28.89</start>
+    <stop>29.93</stop>
+    </sound>
+    <sound>
+    <id>path</id>
+    <start>31.78</start>
+    <stop>32.60</stop>
+    </sound>
+    <sound>
+    <id>leaves</id>
+    <start>34.66</start>
+    <stop>35.65</stop>
+    </sound>
+    <sound>
+    <id>flowers</id>
+    <start>37.46</start>
+    <stop>38.45</stop>
+    </sound>
+    <sound>
+    <id>bench</id>
+    <start>40.11</start>
+    <stop>40.91</stop>
+    </sound>
+    <sound>
+    <id>egg</id>
+    <start>42.95</start>
+    <stop>43.59</stop>
+    </sound>
+    <sound>
+    <id>caterpillar</id>
+    <start>45.70</start>
+    <stop>46.77</stop>
+    </sound>
+    <sound>
+    <id>cocoon</id>
+    <start>48.79</start>
+    <stop>49.84</stop>
+    </sound>
+    <sound>
+    <id>butterfly</id>
+    <start>51.97</start>
+    <stop>53.14</stop>
+    </sound>
+  </sounds>
+</game>

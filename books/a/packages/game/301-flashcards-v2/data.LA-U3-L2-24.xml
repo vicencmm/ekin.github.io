@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U3/L2-24/audio/combined.mp3,demo/LA/U3/L2-24/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB141a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB141.png</source>
+      <sound>black</sound>
+      <word>It's black.</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB142a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB142.png</source>
+      <sound>white</sound>
+      <word>It's white.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB143a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB143.png</source>
+      <sound>pink</sound>
+      <word>It's pink.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB144a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB144.png</source>
+      <sound>orange</sound>
+      <word>It's orange.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB145a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB145.png</source>
+      <sound>grey</sound>
+      <word>It's grey.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U3/L2-24/images/thumbs/DRAMAIWB146a.png</thumb>
+      <source>demo/LA/U3/L2-24/images/DRAMAIWB146.png</source>
+      <sound>brown</sound>
+      <word>It's brown.</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>black</id>
+<start>0.46</start>
+<stop>4.85</stop>
+</sound>
+<sound>
+<id>white</id>
+<start>7.48</start>
+<stop>12.17</stop>
+</sound>
+<sound>
+<id>pink</id>
+<start>14.91</start>
+<stop>19.57</stop>
+</sound>
+<sound>
+<id>orange</id>
+<start>22.52</start>
+<stop>27.34</stop>
+</sound>
+<sound>
+<id>grey</id>
+<start>30.17</start>
+<stop>35.07</stop>
+</sound>
+<sound>
+<id>brown</id>
+<start>37.81</start>
+<stop>42.40</stop>
+</sound>
+</sounds>
+</game>

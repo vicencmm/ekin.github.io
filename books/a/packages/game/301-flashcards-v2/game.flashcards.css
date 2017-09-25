@@ -1,0 +1,256 @@
+html {
+  height: 100%; }
+
+#game.flashcards #audio span {
+  width: 70px;
+  text-align: center;
+  white-space: nowrap; }
+#game.flashcards #words span {
+  width: 89px;
+  text-align: center;
+  white-space: nowrap; }
+#game.flashcards h1 {
+  margin-top: -8px;
+  height: 53px; }
+  #game.flashcards h1 div {
+    vertical-align: middle;
+    margin-right: 10px; }
+  #game.flashcards h1 .sound-button {
+    vertical-align: top; }
+    #game.flashcards h1 .sound-button .inner {
+      vertical-align: top; }
+  #game.flashcards h1 span {
+    line-height: 53px;
+    min-height: 53px; }
+#game.flashcards #game-content.landscape.plain-text .thumb div {
+  font-size: 55px;
+  vertical-align: bottom;
+  line-height: 60px; }
+  #game.flashcards #game-content.landscape.plain-text .thumb div span {
+    display: inline-block;
+    vertical-align: bottom;
+    height: 60px; }
+#game.flashcards #game-content.portrait #wrapper {
+  min-height: 85px;
+  margin-top: -10px; }
+  #game.flashcards #game-content.portrait #wrapper #image {
+    width: 278px;
+    height: 311px;
+    cursor: pointer; }
+    #game.flashcards #game-content.portrait #wrapper #image .wrapper {
+      overflow: visible;
+      position: relative;
+      margin: 5px auto 0;
+      width: 275px;
+      height: 262px;
+      line-height: 262px; }
+      #game.flashcards #game-content.portrait #wrapper #image .wrapper img {
+        border-radius: 10px 10px 0 0;
+        background: #FFF6F1;
+        vertical-align: middle;
+        max-width: 275px;
+        max-height: 262px; }
+    #game.flashcards #game-content.portrait #wrapper #image #text {
+      display: inline-block;
+      height: 45px;
+      line-height: 42px;
+      width: 275px; }
+#game.flashcards #game-content #thumbnails .thumb div img {
+  border-radius: 2px; }
+#game.flashcards #wrapper {
+  width: 100%; }
+  #game.flashcards #wrapper #image {
+    cursor: pointer;
+    margin: 0 auto;
+    width: 430px;
+    height: 305px;
+    border: 2px solid #951b81;
+    border-radius: 15px;
+    background: #FFF6F1;
+    text-align: center; }
+    #game.flashcards #wrapper #image span.text {
+      display: inline-block;
+      font-size: 285px;
+      line-height: 253px;
+      height: 305px; }
+    #game.flashcards #wrapper #image .wrapper {
+      overflow: visible;
+      position: relative;
+      margin: 5px auto 0;
+      width: 420px;
+      height: 250px;
+      line-height: 250px; }
+      #game.flashcards #wrapper #image .wrapper img {
+        border-radius: 10px 10px 0 0;
+        background: #FFF6F1;
+        vertical-align: middle;
+        max-height: 250px;
+        max-width: 420px; }
+    #game.flashcards #wrapper #image #text {
+      display: inline-block;
+      height: 45px;
+      line-height: 45px;
+      overflow: visible;
+      width: 415px;
+      font-size: 40px;
+      position: relative; }
+#game.flashcards #game-content.portrait #thumbnails {
+  min-height: 85px;
+  margin-top: 8px; }
+  #game.flashcards #game-content.portrait #thumbnails .thumb {
+    overflow: hidden;
+    width: 50px;
+    height: 65px; }
+    #game.flashcards #game-content.portrait #thumbnails .thumb div {
+      line-height: 65px; }
+      #game.flashcards #game-content.portrait #thumbnails .thumb div img {
+        border-radius: 2px;
+        vertical-align: middle;
+        max-width: 50px;
+        max-height: 65px; }
+#game.flashcards #thumbnails {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  margin: 8px auto;
+  min-height: 75px; }
+  #game.flashcards #thumbnails #slider {
+    width: 100%;
+    height: 100%;
+    margin: 0px auto; }
+    #game.flashcards #thumbnails #slider #slider-wrapper {
+      display: inline-block;
+      position: relative;
+      height: 100%;
+      min-width: 51%; }
+      #game.flashcards #thumbnails #slider #slider-wrapper .slider-btn {
+        float: left;
+        position: relative;
+        height: 70px;
+        line-height: 70px;
+        width: 70px; }
+        #game.flashcards #thumbnails #slider #slider-wrapper .slider-btn.left {
+          margin: 0;
+          background-color: black; }
+        #game.flashcards #thumbnails #slider #slider-wrapper .slider-btn.right {
+          margin: 0 0px 0 5px;
+          background-color: black; }
+      #game.flashcards #thumbnails #slider #slider-wrapper #slider-viewport {
+        padding: 0 0 6px 0;
+        float: left;
+        width: 625px;
+        height: 100%;
+        overflow: hidden;
+        z-index: 1;
+        position: relative; }
+        #game.flashcards #thumbnails #slider #slider-wrapper #slider-viewport #slider-panel {
+          position: relative;
+          width: 100%;
+          height: 100%;
+          left: 0; }
+  #game.flashcards #thumbnails .thumb {
+    margin: 0 4px;
+    font-size: 1px;
+    display: inline-block;
+    border: 2px solid #951b81;
+    border-radius: 4px;
+    box-shadow: 3px 3px 4px 0px #666;
+    -webkit-box-shadow: 3px 3px 4px 0px #666;
+    padding: 1px;
+    width: 90px;
+    height: 60px;
+    line-height: 60px;
+    cursor: pointer;
+    text-align: center;
+    background: #ffffff; }
+    #game.flashcards #thumbnails .thumb:first-child {
+      margin-left: 0px !important; }
+      #game.flashcards #thumbnails .thumb:first-child.active {
+        margin-left: 1px !important; }
+    #game.flashcards #thumbnails .thumb:last-child {
+      margin-right: 0px !important; }
+      #game.flashcards #thumbnails .thumb:last-child.active {
+        margin-right: 1px !important; }
+    #game.flashcards #thumbnails .thumb div {
+      overflow: hidden;
+      line-height: 60px;
+      width: 100%;
+      height: 100%; }
+      #game.flashcards #thumbnails .thumb div img {
+        vertical-align: middle;
+        max-width: 100%;
+        max-height: 100%; }
+    #game.flashcards #thumbnails .thumb.active {
+      box-shadow: none;
+      margin: 0 5px;
+      border: 1px solid #951b81;
+      background: #fff; }
+      #game.flashcards #thumbnails .thumb.active img {
+        opacity: 0.7; }
+
+.arrow {
+  cursor: pointer;
+  margin: 5px 15px;
+  float: left;
+  -webkit-user-select: none;
+  /* webkit (safari, chrome) browsers */
+  -moz-user-select: none;
+  /* mozilla browsers */
+  -khtml-user-select: none;
+  /* webkit (konqueror) browsers */
+  -ms-user-select: none;
+  width: 47px;
+  height: 47px;
+  background-color: #951b81;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-box-shadow: 2px 2px 5px 1px #666;
+  -moz-box-shadow: 2px 2px 5px 1px #666;
+  box-shadow: 2px 2px 5px 1px #666;
+  text-align: center;
+  border: 3px solid #fff; }
+  .arrow.slide-end {
+    opacity: 0.5;
+    cursor: default; }
+  .arrow.active {
+    background-color: #fff;
+    border-color: #951b81; }
+    .arrow.active.left span {
+      background: url("../_assets/img/arrow_sprites.png") -77px 7px no-repeat; }
+    .arrow.active.right span {
+      background: url("../_assets/img/arrow_sprites.png") -117px 7px no-repeat; }
+    .arrow.active span {
+      border-color: #951b81;
+      -webkit-box-shadow: inset 0 0 0 #333;
+      -moz-box-shadow: inset 0 0 0 #333;
+      box-shadow: inset 0 0 0 #333; }
+  .arrow span {
+    margin: -1px 0 0 -1px;
+    -webkit-box-shadow: inset 0 0 6px #333;
+    -moz-box-shadow: inset 0 0 6px #333;
+    box-shadow: inset 0 0 6px #333;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    border: 1px solid #fff;
+    display: inline-block;
+    vertical-align: top;
+    width: 47px;
+    height: 47px; }
+  .arrow.left span {
+    background: url("../_assets/img/arrow_sprites.png") 4px 7px no-repeat; }
+  .arrow.right span {
+    background: url("../_assets/img/arrow_sprites.png") -33px 7px no-repeat; }
+
+/*7209*/
+.button:hover {
+    background: #4F0E44;
+}
+.touch .button:hover {
+    background: #C223A8;
+}
+.touch .button:active{
+    background: #4F0E44;
+}
+

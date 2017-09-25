@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game time="1500" type="phonics-presentation">
+  <title>​</title>
+  <audio>demo/LA/PH/U6-140/audio/combined.mp3,demo/LA/PH/U6-140/audio/combined.ogg</audio>
+  <sounds>
+    <sound>
+      <id>c</id>
+      <start>0.60</start>
+      <stop>0.94</stop>
+    </sound>
+    <sound>
+      <id>ow</id>
+      <start>2.29</start>
+      <stop>2.95</stop>
+    </sound>
+    <sound>
+      <id>cow</id>
+      <start>4.48</start>
+      <stop>5.20</stop>
+    </sound>
+  </sounds>
+  <words>
+    <word>
+      <image>demo/LA/PH/U6-140/images/DRAMAIWB603.png</image>
+      <sound>cow</sound>
+      <phonem>
+        <text>c</text>
+        <sound>c</sound>
+      </phonem>
+      <phonem>
+        <text>ow</text>
+        <sound>ow</sound>
+      </phonem>
+    </word>
+  </words>
+</game>

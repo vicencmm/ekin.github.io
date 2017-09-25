@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U6/L1-55/audio/combined.mp3,demo/LA/U6/L1-55/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB313a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB313.png</source>
+      <sound>snake</sound>
+      <word>snake</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB314a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB314.png</source>
+      <sound>crocodile</sound>
+      <word>crocodile</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB315a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB315.png</source>
+      <sound>monkey</sound>
+      <word>monkey</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB316a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB316.png</source>
+      <sound>parrot</sound>
+      <word>parrot</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB317a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB317.png</source>
+      <sound>lion</sound>
+      <word>lion</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U6/L1-55/images/thumbs/DRAMAIWB318a.png</thumb>
+      <source>demo/LA/U6/L1-55/images/DRAMAIWB318.png</source>
+      <sound>elephant</sound>
+      <word>elephant</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>snake</id>
+<start>0.65</start>
+<stop>1.63</stop>
+</sound>
+<sound>
+<id>crocodile</id>
+<start>3.59</start>
+<stop>4.77</stop>
+</sound>
+<sound>
+<id>monkey</id>
+<start>6.11</start>
+<stop>7.06</stop>
+</sound>
+<sound>
+<id>parrot</id>
+<start>9.40</start>
+<stop>10.26</stop>
+</sound>
+<sound>
+<id>lion</id>
+<start>12.96</start>
+<stop>13.91</stop>
+</sound>
+<sound>
+<id>elephant</id>
+<start>16.56</start>
+<stop>17.61</stop>
+</sound>
+</sounds>
+</game>

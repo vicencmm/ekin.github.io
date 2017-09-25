@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U7/L2-68/audio/combined.mp3,demo/LA/U7/L2-68/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U7/L2-68/images/thumbs/DRAMAIWB389a.png</thumb>
+      <source>demo/LA/U7/L2-68/images/DRAMAIWB389.png</source>
+      <sound>rocket</sound>
+      <word>Let’s go to the rocket.</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U7/L2-68/images/thumbs/DRAMAIWB390a.png</thumb>
+      <source>demo/LA/U7/L2-68/images/DRAMAIWB390.png</source>
+      <sound>moon</sound>
+      <word> Let’s go to the moon.</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U7/L2-68/images/thumbs/DRAMAIWB391a.png</thumb>
+      <source>demo/LA/U7/L2-68/images/DRAMAIWB391.png</source>
+      <sound>stars</sound>
+      <word> Let’s go to the stars.</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>rocket</id>
+<start>0.62</start>
+<stop>5.53</stop>
+</sound>
+<sound>
+<id>moon</id>
+<start>7.27</start>
+<stop>12.51</stop>
+</sound>
+<sound>
+<id>stars</id>
+<start>14.93</start>
+<stop>20.44</stop>
+</sound>
+</sounds>
+</game>

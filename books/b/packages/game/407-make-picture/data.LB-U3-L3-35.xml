@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+By defining a config variable in the root of the xml you can make
+the elements draggable. This enables you to determine the position
+of each element through the output in the console.
+
+ <game type="make-picture" config="1">
+
+-->
+<game type="make-picture" config="0" audio="demo/LB/U3/L3-35/audio/audio.mp3,demo/LB/U3/L3-35/audio/audio.ogg">
+    <title>Dress Robin in his pilot costume.</title>
+
+    <screens random="true">
+        <screen>
+            <character width="350" height="350">
+                <image>demo/LB/U3/L3-35/images/DRAMBIWB208.png</image>
+                <targets>
+                    <target x="-1" y="0" id="legs"></target>
+                    <target x="-1" y="0" id="head"></target>
+                    <target x="-1" y="0" id="body"></target>
+                    <target x="-1" y="0" id="wrist1"></target>
+                </targets>
+                <!-- <animation x="0" y="0" z="0" >
+                    <source>img/stars.gif</source>
+                </animation> -->
+            </character>
+            <elements>
+                <element target="head" x="0" y="0" z="1">
+                    <type>head</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208a.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208aa.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="head" x="1" y="1" z="1">
+                    <type>head</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208b.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ba.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="head" x="1" y="8" z="1">
+                    <type>head</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208c.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ca.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+
+                <element target="body" x="1" y="-2" z="1">
+                    <type>body</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208d.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208da.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="body" x="1" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208e.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ea.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="body" x="2" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208f.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208fa.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+
+                <element target="wrist1" x="0" y="0" z="1">
+                    <type>wrist1</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208g.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ga.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="wrist1" x="0" y="0" z="1">
+                    <type>wrist1</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208h.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ha.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="wrist1" x="1" y="3" z="1">
+                    <type>wrist1</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB109k.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB109ka.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+
+                <element target="legs" x="1" y="0" z="1">
+                    <type>legs</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208j.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ja.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="legs" x="0" y="0" z="1">
+                    <type>legs</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMBIWB208k.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMBIWB208ka.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+                <element target="legs" x="2" y="0" z="1">
+                    <type>legs</type>
+                    <image>demo/LB/U3/L3-35/images/DRAMAIWB211b.png</image>
+                    <thumb>demo/LB/U3/L3-35/images/DRAMAIWB211ba.png</thumb>
+                    <sound>giggle</sound> 
+                </element>
+            </elements>
+        </screen>
+    </screens>
+    <sounds>
+        <sound>
+        <id>intro</id>
+        <start>0.96</start>
+        <stop>9.04</stop>
+        </sound>
+        <sound>
+        <id>giggle</id>
+        <start>11.60</start>
+        <stop>12.65</stop>
+        </sound>
+        <sound>
+        <id>animation</id>
+        <start>15.25</start>
+        <stop>21.51</stop>
+        </sound>
+    </sounds>
+</game>

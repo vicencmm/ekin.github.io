@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U8/L5-83/audio/combined.mp3,demo/LA/U8/L5-83/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U8/L5-83/images/thumbs/DRAMAIWB468a.png</thumb>
+      <source>demo/LA/U8/L5-83/images/DRAMAIWB468.png</source>
+      <sound>hungry</sound>
+      <word>hungry</word>
+    </image>
+    <image> 
+      <thumb>demo/LA/U8/L5-83/images/thumbs/DRAMAIWB469a.png</thumb>
+      <source>demo/LA/U8/L5-83/images/DRAMAIWB469.png</source>
+      <sound>food</sound>
+      <word>food</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L5-83/images/thumbs/DRAMAIWB470a.png</thumb>
+      <source>demo/LA/U8/L5-83/images/DRAMAIWB470.png</source>
+      <sound>thirsty</sound>
+      <word>thirsty</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U8/L5-83/images/thumbs/DRAMAIWB471a.png</thumb>
+      <source>demo/LA/U8/L5-83/images/DRAMAIWB471.png</source>
+      <sound>drink</sound>
+      <word>drink</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>hungry</id>
+<start>0.64</start>
+<stop>4.82</stop>
+</sound>
+<sound>
+<id>food</id>
+<start>6.59</start>
+<stop>10.79</stop>
+</sound>
+<sound>
+<id>thirsty</id>
+<start>12.61</start>
+<stop>16.90</stop>
+</sound>
+<sound>
+<id>drink</id>
+<start>18.67</start>
+<stop>22.83</stop>
+</sound>
+</sounds>
+</game>

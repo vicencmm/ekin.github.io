@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U5/L8-62/audio/audio.mp3,demo/LB/U5/L8-62/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U5/L8-62/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">jumper</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">trousers</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hat</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">boots</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB350.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">socks</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB354.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">gloves</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB355.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB351.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB353.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB352.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">winter</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">spring</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">summer</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">autumn</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U5/L8-62/images/DRAMBIWB359.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB358.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB357.png</answer>
+          <answer>demo/LB/U5/L8-62/images/DRAMBIWB356.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>yes</id>
+    <start>0.14</start>
+    <stop>1.13</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>3.72</start>
+    <stop>4.21</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>6.16</start>
+    <stop>14.25</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>17.25</start>
+    <stop>21.97</stop>
+    </sound>
+    <sound>
+    <id>jumper</id>
+    <start>26.24</start>
+    <stop>27.08</stop>
+    </sound>
+    <sound>
+    <id>trousers</id>
+    <start>28.86</start>
+    <stop>29.81</stop>
+    </sound>
+    <sound>
+    <id>hat</id>
+    <start>31.67</start>
+    <stop>32.34</stop>
+    </sound>
+    <sound>
+    <id>boots</id>
+    <start>34.26</start>
+    <stop>35.05</stop>
+    </sound>
+    <sound>
+    <id>socks</id>
+    <start>36.89</start>
+    <stop>37.75</stop>
+    </sound>
+    <sound>
+    <id>gloves</id>
+    <start>39.72</start>
+    <stop>40.52</stop>
+    </sound>
+    <sound>
+    <id>winter</id>
+    <start>42.42</start>
+    <stop>43.34</stop>
+    </sound>
+    <sound>
+    <id>spring</id>
+    <start>44.77</start>
+    <stop>45.75</stop>
+    </sound>
+    <sound>
+    <id>summer</id>
+    <start>47.29</start>
+    <stop>48.11</stop>
+    </sound>
+    <sound>
+    <id>autumn</id>
+    <start>49.60</start>
+    <stop>50.46</stop>
+    </sound>
+  </sounds>
+</game>

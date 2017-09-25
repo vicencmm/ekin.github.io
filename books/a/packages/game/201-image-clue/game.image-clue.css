@@ -1,0 +1,177 @@
+#topbar{
+    overflow: hidden;
+    height: 59px;
+}
+
+#clue{
+    float: left;
+    max-width: 100%;
+    position: relative;
+    padding: 13px 0 0;
+    margin: 0;
+    display: none;   
+}
+
+#cluesound{
+    position: absolute;
+    top: 3px;
+    left: 20px;
+}
+
+#cluesound + h1{
+    text-indent: 54px;
+}
+
+#clue #clueitem{
+    float: left;
+    overflow: hidden;
+    width: auto;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    position: relative;
+    margin: -18px 0 0 0;
+    top: 0;
+}
+
+#clue #clueitem img{
+    width: auto;
+    height: 100%;
+}
+
+#cluebg{
+    height: 23px;
+    padding: 3px 10px;
+    background: #fff;
+    border: 1px solid #cbcbcb;
+    border-radius: 16px;
+    -moz-border-radius: 19px;
+    -webkit-border-radius: 19px;
+}
+
+#clue ul#cluestars{
+    list-style: none;
+    width: auto;
+    height: 22px;
+    float: left;
+}
+#clue ul#cluestars li{
+    float: left;
+    line-height: 22px;
+    width: 22px;
+    height: 22px;
+    margin: 0 2px;
+    background: url(img/star.png) 0 -22px no-repeat;
+}
+
+#clue ul#cluestars li.checked{
+    background-position: 0 0;
+}
+#clue #star_effect{
+    display: none;
+}
+
+/*timer*/
+#timer{
+    position: absolute;
+    top: 14px;
+    right: 23px;
+    overflow: hidden;
+    width: 241px;
+}
+
+#timer #progressbar{
+    height: 27px;
+    background: rgba(194, 35, 168, 0.31);
+    border: 1px solid #4f0E44 !important;
+            border-radius: 5px;
+       -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+
+}
+
+#timer .ui-progressbar-value{
+    background: url(img/timer_bar.png) 0 0 repeat-x;
+    border: none;
+    margin: 2px;
+    height: 23px;
+}
+
+#timer #progressbar.alert{
+    background: #ffdb92;
+    border-color: #ff9837!important;
+}
+
+#progressbar.alert .ui-progressbar-value{
+    background-position: 0 -23px;
+}
+
+#timer #progressbar.alert.danger{
+    background: #ffcabf;
+    border-color: #fe0000!important;
+}
+
+#progressbar.alert.danger .ui-progressbar-value{
+    background-position: 0 -46px;
+}
+
+
+#game .images{
+    display: block;
+    clear: both;
+    background: #fcf1db;
+    margin-top: -32px;
+    padding: 30px 10px 10px;
+    border-radius: 0 13px 13px 13px;
+    height: 328px;
+    overflow: hidden;
+}
+
+.images ul {
+    text-align:center;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.images ul li {
+    display:inline-block;
+    margin:10px 0;
+    cursor:pointer;
+    position:relative;
+    border: 1px solid #fcf1db;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.images ul li:first-child {
+    /*margin-left: 0 !important;*/
+}
+
+.images ul li.inactive, .images ul li.selected{
+    cursor: default;
+}
+
+.images ul li.selected img {
+    opacity: 0;
+    transition:opacity 1s linear;
+}
+
+.images ul li.clicked {
+    background-color: #FFF6F1;
+    border-color:#951b81;
+}
+
+.images ul li img {
+    position: absolute;
+    width:100%;
+    height:100%;
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+}

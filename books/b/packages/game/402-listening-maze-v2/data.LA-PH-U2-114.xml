@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="listening-maze" time="4" audio="demo/LA/PH/U2-114/audio/combined.mp3,demo/LA/PH/U2-114/audio/combined.ogg">
+  <title>Listen and click the letters.</title>
+  <character>
+    <listen>demo/LA/PH/U2-114/images/listen.png</listen>
+    <jump>demo/LA/PH/U2-114/images/jump.png</jump>
+    <land>demo/LA/PH/U2-114/images/wait.png</land>
+    <finish pos="690">demo/LA/PH/U2-114/images/finish.png</finish>
+  </character>
+  <finish>
+    <sound>win</sound>
+    <image>demo/LA/PH/U2-114/images/trophy.png</image>
+  </finish>
+  <fontSize>45px</fontSize>
+  <sounds>
+    <sound>
+      <id>n</id>
+      <start>0</start>
+      <stop>1.315</stop>
+    </sound>
+    <sound>
+      <id>m</id>
+      <start>1.515</start>
+      <stop>2.67325</stop>
+    </sound>
+    <sound>
+      <id>d</id>
+      <start>2.87325</start>
+      <stop>3.9793125</stop>
+    </sound>
+    <sound>
+      <id>g</id>
+      <start>4.1793125</start>
+      <stop>4.94575</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>5.14575</start>
+      <stop>7.4795625</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>7.6795625</start>
+      <stop>8.655</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>8.855</start>
+      <stop>17.876125</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>18.076125</start>
+      <stop>20.0964375</stop>
+    </sound>
+  </sounds>
+  <col>
+    <sound>n</sound>
+    <letters solution="n">m.n.d.g</letters>
+  </col>
+  <col>
+    <sound>m</sound>
+    <letters solution="m">d.g.m.n</letters>
+  </col>
+  <col>
+    <sound>d</sound>
+    <letters solution="d">m.n.g.d</letters>
+  </col>
+  <col>
+    <sound>g</sound>
+    <letters solution="g">n.g.d.m</letters>
+  </col>
+</game>

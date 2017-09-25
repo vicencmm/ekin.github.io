@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/U1/L8-11/audio/combined.mp3,demo/LA/U1/L8-11/audio/combined.ogg" type="three-in-a-row">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <win>
+      <image>demo/LA/U1/L8-11/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </win>
+    <trophy>
+      <image>demo/LA/U1/L8-11/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol h="150" w="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">dance</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB031.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB040.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">point</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB033.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB037.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">stand</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB035.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB033.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB036.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">run</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB037.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB035.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB038.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">stretch</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB039.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB036.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB035.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB040.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">clap</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB038.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB036.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB033.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">down</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB039.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB037.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">wave</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB036.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB039.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB034.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">jump</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB038.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB033.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB039.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">climb</question>
+        <answers type="image">
+          <answer solution="1">demo/LA/U1/L8-11/images/DRAMAIWB040.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB032.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB036.png</answer>
+          <answer>demo/LA/U1/L8-11/images/DRAMAIWB039.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+      <id>yes</id>
+      <start>0.61</start>
+      <stop>1.80</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>4.19</start>
+      <stop>4.65</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>6.58</start>
+      <stop>14.53</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>18.94</start>
+      <stop>23.62</stop>
+    </sound>
+    <sound>
+      <id>dance</id>
+      <start>25.89</start>
+      <stop>27.36</stop>
+    </sound>
+    <sound>
+      <id>point</id>
+      <start>31.00</start>
+      <stop>32.42</stop>
+    </sound>
+    <sound>
+      <id>stand</id>
+      <start>36.06</start>
+      <stop>37.57</stop>
+    </sound>
+    <sound>
+      <id>run</id>
+      <start>41.18</start>
+      <stop>42.67</stop>
+    </sound>
+    <sound>
+      <id>stretch</id>
+      <start>46.31</start>
+      <stop>47.98</stop>
+    </sound>
+    <sound>
+      <id>clap</id>
+      <start>51.61</start>
+      <stop>52.85</stop>
+    </sound>
+    <sound>
+      <id>down</id>
+      <start>56.53</start>
+      <stop>58.19</stop>
+    </sound>
+    <sound>
+      <id>wave</id>
+      <start>61.83</start>
+      <stop>63.21</stop>
+    </sound>
+    <sound>
+      <id>jump</id>
+      <start>66.85</start>
+      <stop>68.32</stop>
+    </sound>
+    <sound>
+      <id>climb</id>
+      <start>71.97</start>
+      <stop>73.52</stop>
+    </sound>
+  </sounds>
+</game>

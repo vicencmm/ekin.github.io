@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="three-in-a-row" audio="demo/LB/U2/L8-29/audio/audio.mp3,demo/LB/U2/L8-29/audio/audio.ogg">
+  <title>Select a square. Then listen and choose.</title>
+  <preload>
+    <image>img/bg_players.jpg</image>
+    <image>img/bg_player.png</image>
+  </preload>
+  <popups>
+    <trophy>
+        <image>demo/LB/U2/L8-29/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+        <text>It's a draw!</text>
+        <sound>win</sound>
+    </trophy>
+  </popups>
+  <screen>
+    <players>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol1.png</symbol>
+      </player>
+      <player>
+        <background-color>​</background-color>
+        <symbol w="150" h="150">img/symbol2.png</symbol>
+      </player>
+    </players>
+    <items>
+      <item>
+        <question type="sound">arms</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">head</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">body</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">legs</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">feet</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB179.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB176.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hands</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB180.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB178.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB177.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB175.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">hear</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">see</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">smell</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">taste</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB184.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+        </answers>
+      </item>
+      <item>
+        <question type="sound">touch</question>
+        <answers type="image">
+          <answer solution="1">demo/LB/U2/L8-29/images/DRAMBIWB185.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB181.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB182.png</answer>
+          <answer>demo/LB/U2/L8-29/images/DRAMBIWB183.png</answer>
+        </answers>
+      </item>
+    </items>
+  </screen>
+  <sounds>
+    <sound>
+    <id>arms</id>
+    <start>0.80</start>
+    <stop>1.78</stop>
+    </sound>
+    <sound>
+    <id>head</id>
+    <start>3.65</start>
+    <stop>4.41</stop>
+    </sound>
+    <sound>
+    <id>body</id>
+    <start>6.24</start>
+    <stop>7.06</stop>
+    </sound>
+    <sound>
+    <id>legs</id>
+    <start>9.08</start>
+    <stop>10.02</stop>
+    </sound>
+    <sound>
+    <id>feet</id>
+    <start>11.44</start>
+    <stop>12.18</stop>
+    </sound>
+    <sound>
+    <id>hands</id>
+    <start>13.74</start>
+    <stop>14.70</stop>
+    </sound>
+    <sound>
+    <id>hear</id>
+    <start>16.54</start>
+    <stop>17.23</stop>
+    </sound>
+    <sound>
+    <id>see</id>
+    <start>18.63</start>
+    <stop>19.51</stop>
+    </sound>
+    <sound>
+    <id>smell</id>
+    <start>21.39</start>
+    <stop>22.32</stop>
+    </sound>
+    <sound>
+    <id>taste</id>
+    <start>23.78</start>
+    <stop>24.63</stop>
+    </sound>
+    <sound>
+    <id>touch</id>
+    <start>26.19</start>
+    <stop>27.06</stop>
+    </sound>
+    <sound>
+    <id>yes</id>
+    <start>30.53</start>
+    <stop>31.52</stop>
+    </sound>
+    <sound>
+    <id>no</id>
+    <start>34.11</start>
+    <stop>34.60</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>36.55</start>
+    <stop>44.64</stop>
+    </sound>
+    <sound>
+    <id>win</id>
+    <start>47.64</start>
+    <stop>52.36</stop>
+    </sound>
+  </sounds>
+</game>

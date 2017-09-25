@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/L1/U1/L3-01/audio/combined.mp3,demo/L1/U1/L3-01/audio/combined.ogg</audio>
+  <background>demo/L1/U1/L3-01/images/DRAMAIWB019b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019c.png</source>
+      <sound>dance</sound>
+      <title>dance</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019d.png</source>
+      <sound>clap</sound>
+      <title>clap</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019e.png</source>
+      <sound>point</sound>
+      <title>point</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019f.png</source>
+      <sound>sit down</sound>
+      <title>sit down</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019g.png</source>
+      <sound>stand up</sound>
+      <title>stand up</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/L1/U1/L3-01/images/DRAMAIWB019h.png</source>
+      <sound>wave</sound>
+      <title>wave</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+      <id>dance</id>
+      <start>0.378</start>
+      <stop>1.247</stop>
+    </sound>
+    <sound>
+      <id>clap</id>
+      <start>2.314</start>
+      <stop>2.777</stop>
+    </sound>
+    <sound>
+      <id>point</id>
+      <start>3.845</start>
+      <stop>4.534</stop>
+    </sound>
+    <sound>
+      <id>sit down</id>
+      <start>5.602</start>
+      <stop>6.754</stop>
+    </sound>
+    <sound>
+      <id>stand up</id>
+      <start>7.822</start>
+      <stop>8.898</stop>
+    </sound>
+    <sound>
+      <id>wave</id>
+      <start>9.824</start>
+      <stop>10.599</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>11.666</start>
+      <stop>19.828</stop>
+    </sound>
+  </sounds>
+</game>

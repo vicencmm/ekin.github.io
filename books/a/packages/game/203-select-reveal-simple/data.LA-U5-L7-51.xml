@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="select-reveal" countdown="0" audio="demo/LA/U5/L7-51/audio/combined.mp3,demo/LA/U5/L7-51/audio/combined.ogg">
+  <title sound="true">Listen and click.</title>
+  <screens>
+    <screen size="60">
+      <image>
+        <show>demo/LA/U5/L7-51/images/DRAMAIWB289.png</show>
+        <reveal>demo/LA/U5/L7-51/images/DRAMAIWB290.png</reveal>
+      </image>
+      <sounds>
+        <answer>a</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image solution="1">
+          <sound>a</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB294a.png</source>
+        </image>
+        <image>
+          <sound>b</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB295a.png</source>
+        </image>
+        <image>
+          <sound>c</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB296a.png</source>
+        </image>
+        <image>
+          <sound>d</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB297a.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="60">
+      <image>
+        <show>demo/LA/U5/L7-51/images/DRAMAIWB291.png</show>
+        <reveal>demo/LA/U5/L7-51/images/DRAMAIWB290.png</reveal>
+      </image>
+      <sounds>
+        <answer>b</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>a</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB294a.png</source>
+        </image>
+        <image solution="1">
+          <sound>b</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB295a.png</source>
+        </image>
+        <image>
+          <sound>c</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB296a.png</source>
+        </image>
+        <image>
+          <sound>d</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB297a.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="60">
+      <image>
+        <show>demo/LA/U5/L7-51/images/DRAMAIWB292.png</show>
+        <reveal>demo/LA/U5/L7-51/images/DRAMAIWB290.png</reveal>
+      </image>
+      <sounds>
+        <answer>c</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>a</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB294a.png</source>
+        </image>
+        <image>
+          <sound>b</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB295a.png</source>
+        </image>
+        <image solution="1">
+          <sound>c</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB296a.png</source>
+        </image>
+        <image>
+          <sound>d</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB297a.png</source>
+        </image>
+      </images>
+    </screen>
+    <screen size="60">
+      <image>
+        <show>demo/LA/U5/L7-51/images/DRAMAIWB293.png</show>
+        <reveal>demo/LA/U5/L7-51/images/DRAMAIWB290.png</reveal>
+      </image>
+      <sounds>
+        <answer>d</answer>
+        <yes>yes</yes>
+        <no>no</no>
+      </sounds>
+      <images>
+        <image>
+          <sound>a</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB294a.png</source>
+        </image>
+        <image>
+          <sound>b</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB295a.png</source>
+        </image>
+        <image>
+          <sound>c</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB296a.png</source>
+        </image>
+        <image solution="1">
+          <sound>d</sound>
+          <source>demo/LA/U5/L7-51/images/DRAMAIWB297a.png</source>
+        </image>
+      </images>
+    </screen>
+  </screens>
+<sounds>
+<sound>
+<id>yes</id>
+<start>1.42</start>
+<stop>2.43</stop>
+</sound>
+<sound>
+<id>no</id>
+<start>4.99</start>
+<stop>5.50</stop>
+</sound>
+<sound>
+<id>intro</id>
+<start>7.49</start>
+<stop>15.58</stop>
+</sound>
+<sound>
+<id>win</id>
+<start>19.99</start>
+<stop>25.02</stop>
+</sound>
+<sound>
+<id>a</id>
+<start>30.64</start>
+<stop>36.79</stop>
+</sound>
+<sound>
+<id>b</id>
+<start>41.57</start>
+<stop>47.57</stop>
+</sound>
+<sound>
+<id>c</id>
+<start>52.26</start>
+<stop>59.72</stop>
+</sound>
+<sound>
+<id>d</id>
+<start>64.07</start>
+<stop>71.63</stop>
+</sound>
+</sounds>
+  <popups>
+    <win>
+      <image>demo/LA/U5/L7-51/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+</game>

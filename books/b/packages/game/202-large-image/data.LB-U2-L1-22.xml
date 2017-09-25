@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U2/L1-22/audio/audio.mp3,demo/LB/U2/L1-22/audio/audio.ogg</audio>
+  <background>demo/LB/U2/L1-22/images/DRAMBIWB145b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145c.png</source>
+      <sound>arms</sound>
+      <title>arms</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145d.png</source>
+      <sound>head</sound>
+      <title>head</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145e.png</source>
+      <sound>body</sound>
+      <title>body</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145f.png</source>
+      <sound>legs</sound>
+      <title>legs</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145g.png</source>
+      <sound>feet</sound>
+      <title>feet</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U2/L1-22/images/DRAMBIWB145h.png</source>
+      <sound>hands</sound>
+      <title>hands</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>arms</id>
+    <start>0.56</start>
+    <stop>1.54</stop>
+    </sound>
+    <sound>
+    <id>head</id>
+    <start>2.93</start>
+    <stop>3.67</stop>
+    </sound>
+    <sound>
+    <id>body</id>
+    <start>5.44</start>
+    <stop>6.26</stop>
+    </sound>
+    <sound>
+    <id>legs</id>
+    <start>7.78</start>
+    <stop>8.72</stop>
+    </sound>
+    <sound>
+    <id>feet</id>
+    <start>10.26</start>
+    <stop>11.13</stop>
+    </sound>
+    <sound>
+    <id>hands</id>
+    <start>12.75</start>
+    <stop>13.73</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>17.64</start>
+    <stop>25.73</stop>
+    </sound>
+  </sounds>
+</game>

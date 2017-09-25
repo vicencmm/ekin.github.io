@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U2/L4-25/audio/audio.mp3,demo/LB/U2/L4-25/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U2/L4-25/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U2/L4-25/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>feet</id>
+        <start>0.82</start>
+        <stop>5.35</stop>
+        </sound>
+        <sound>
+        <id>legs</id>
+        <start>7.19</start>
+        <stop>11.84</stop>
+        </sound>
+        <sound>
+        <id>head</id>
+        <start>13.69</start>
+        <stop>17.98</stop>
+        </sound>
+        <sound>
+        <id>body</id>
+        <start>19.83</start>
+        <stop>26.15</stop>
+        </sound>
+        <sound>
+        <id>arms</id>
+        <start>27.99</start>
+        <stop>32.82</stop>
+        </sound>
+        <sound>
+        <id>hands</id>
+        <start>34.68</start>
+        <stop>39.38</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>46.34</start>
+        <stop>47.06</stop>
+        </sound>
+        <sound>
+        <id>yes</id>
+        <start>52.05</start>
+        <stop>53.04</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>55.62</start>
+        <stop>56.12</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>58.06</start>
+        <stop>66.15</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>69.16</start>
+        <stop>73.87</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB153.png</source>
+            <title>feet</title>
+            <sound>feet</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB154.png</source>
+            <title>legs</title>
+            <sound>legs</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB155.png</source>
+            <title>head</title>
+            <sound>head</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB156.png</source>
+            <title>body</title>
+            <sound>body</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB157.png</source>
+            <title>arms</title>
+            <sound>arms</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB158.png</source>
+            <title>hands</title>
+            <sound>hands</sound>        
+        </image>
+    </images>
+</game>

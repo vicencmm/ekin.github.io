@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/LA/U4/L5-38/audio/combined.mp3,demo/LA/U4/L5-38/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[Here is mummy bird, ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>18.167</start>
+      <stop>20.137</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>20.137</start>
+      <stop>22.194</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here is mummy bird,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>22.194</start>
+      <stop>24.165</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>24.165</start>
+      <stop>26.179</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here is mummy bird,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>26.179</start>
+      <stop>28.150</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>28.150</start>
+      <stop>30.185</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Here is daddy bird, too.]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>30.185</start>
+      <stop>38.154</stop>
+    </sound>
+
+
+    <sound>
+      <text><![CDATA[ Mummy and daddy bird,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>38.154</start>
+      <stop>40.189</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>40.189</start>
+      <stop>42.181</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Mummy and daddy bird,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>42.181</start>
+      <stop>44.174</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>44.174</start>
+      <stop>46.145</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Mummy and daddy bird,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>46.145</start>
+      <stop>48.180</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>48.180</start>
+      <stop>49.679</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Are making a big nest.]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>49.679</start>
+      <stop>58.163</stop>
+    </sound>
+
+
+    <sound>
+      <text><![CDATA[ Mummy bird’s in the nest,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>58.163</start>
+      <stop>60.177</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>60.177</start>
+      <stop>62.190</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Mummy bird’s in the nest,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>62.190</start>
+      <stop>64.183</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>64.183</start>
+      <stop>66.132</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Mummy bird’s in the nest,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>66.132</start>
+      <stop>68.146</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>68.146</start>
+      <stop>70.010</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Sitting on the eggs.]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>70.010</start>
+      <stop>78.215</stop>
+    </sound>
+
+
+    <sound>
+      <text><![CDATA[Here are the baby birds,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>78.215</start>
+      <stop>80.143</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>80.143</start>
+      <stop>82.178</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here are the baby birds,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>82.178</start>
+      <stop>84.106</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>84.106</start>
+      <stop>86.205</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Here are the baby birds,]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>86.205</start>
+      <stop>88.155</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Cheep, cheep, cheep. ]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>88.155</start>
+      <stop>90.147</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[ Three happy baby birds.]]></text>
+      <image>demo/LA/U4/L5-38/images/DRAMAIWB218.png</image>
+      <start>90.147</start>
+      <stop>99.595</stop>
+    </sound>
+  </sounds>
+</game>

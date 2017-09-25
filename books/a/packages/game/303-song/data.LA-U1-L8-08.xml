@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="song" withText="true">
+  <audio>demo/L5/U1/L8-01/audio/combined.mp3,demo/L5/U1/L8-01/audio/combined.ogg</audio>
+  <title>Listen to the song.</title>
+  <sounds>
+    <sound>
+      <text><![CDATA[Move your body,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>6.739</start>
+      <stop>8.298</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Run, run,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>8.298</start>
+      <stop>9.727</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Run, run,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>9.727</start>
+      <stop>11.110</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Run, run,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>11.110</start>
+      <stop>12.437</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Move your body,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>12.437</start>
+      <stop>13.966</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Run, run,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>13.966</start>
+      <stop>15.373</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Exercise will make you strong! ]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>15.373</start>
+      <stop>21.016</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Run, run, run,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB062.png</image>
+      <start>21.016</start>
+      <stop>23.767</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Jump, jump, jump,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB063.png</image>
+      <start>23.767</start>
+      <stop>26.403</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Stretch, stretch, stretch,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB064.png</image>
+      <start>26.403</start>
+      <stop>31.204</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[We’re strong!]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB066.png</image>
+      <start>31.204</start>
+      <stop>37.832</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Move your body,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>37.832</start>
+      <stop>39.228</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Climb, climb,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>39.228</start>
+      <stop>40.681</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Climb, climb,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>40.681</start>
+      <stop>42.130</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Climb, climb,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>42.130</start>
+      <stop>43.568</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Move your body,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>43.568</start>
+      <stop>44.924</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Climb, climb,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>44.924</start>
+      <stop>46.428</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Exercise will make you strong!]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>46.428</start>
+      <stop>51.940</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Climb, climb, climb,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB065.png</image>
+      <start>51.940</start>
+      <stop>55.0740625</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Jump, jump, jump,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB063.png</image>
+      <start>54.817</start>
+      <stop>57.378</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[Stretch, stretch, stretch,]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB064.png</image>
+      <start>57.378</start>
+      <stop>62.276</stop>
+    </sound>
+    <sound>
+      <text><![CDATA[We’re strong!]]></text>
+      <image>demo/L5/U1/L8-01/images/DRAMAIWB066.png</image>
+      <start>62.276</start>
+      <stop>68.02975</stop>
+    </sound>
+  </sounds>
+</game>

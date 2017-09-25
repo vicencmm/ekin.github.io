@@ -1,0 +1,89 @@
+#game.select-reveal h1 span {
+  min-height: 48px;
+  line-height: 48px;
+  margin-top: -5px;
+  vertical-align: middle;
+}
+#game.select-reveal #thumbnails {
+  min-width: 380px;
+}
+#game.select-reveal #thumbnails.left {
+  width: 354px;
+  float: left;
+}
+#game.select-reveal #thumbnails.horizontal {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+}
+#game.select-reveal #thumbnails.horizontal li {
+  margin: 0px 10px;
+}
+#game.select-reveal #thumbnails ul.row {
+  text-align: center;
+}
+#game.select-reveal #thumbnails li {
+  z-index: 25;
+  box-shadow: 3px 3px 6px #666666;
+  -moz-box-shadow: 3px 3px 6px #666666;
+  -webkit-box-shadow: 3px 3px 6px #666666;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+  position: relative;
+  overflow: visible;
+  border-radius: 6px;
+  background: #fafafa;
+  border: 3px solid #951b81;
+}
+#game.select-reveal #thumbnails li.selected {
+  box-shadow: 0 0 0 #666666;
+  -moz-box-shadow: 0 0 0 #666666;
+  -webkit-box-shadow: 0 0 0 #666666;
+}
+#game.select-reveal #thumbnails li.inactive {
+  cursor: default;
+}
+#game.select-reveal #thumbnails li img {
+  vertical-align: bottom;
+}
+#game.select-reveal #thumbnails li div.source {
+  z-index: 20;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  position: absolute;
+  vertical-align: middle;
+  padding: 1px;
+  left: -1px;
+  top: -1px;
+}
+#game.select-reveal #hidden-image {
+  width: 99% !important;
+  height: 99% !important;
+}
+#game.select-reveal #porthole {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border: 2px solid #fff;
+  height: 358px;
+  width: 400px;
+  left: auto;
+  right: 0px;
+}
+#game.select-reveal #porthole img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  left: 50%;
+  top: 50%;
+}
+#game.select-reveal #porthole img.reveal {
+  z-index: 51;
+}
+#game.select-reveal #porthole img.show {
+  z-index: 50;
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+By defining a config variable in the root of the xml you can make
+the elements draggable. This enables you to determine the position
+of each element through the output in the console.
+
+ <game type="make-picture" config="1">
+
+-->
+<game type="make-picture" config="0" audio="demo/LA/U3/L3-25/audio/audio.mp3,demo/LA/U3/L3-25/audio/audio.ogg">
+    <title>Dress Daisy in her artist costume.</title>
+
+    <screens random="true">
+        <screen>
+            <character width="350" height="350">
+                <image>demo/LA/U3/L3-25/images/DRAMAIWB156.png</image>
+                <targets>
+                    <target x="-1" y="0" id="wrist1"></target>
+                    <target x="-1" y="0" id="head"></target>
+                    <target x="-1" y="0" id="body"></target>
+                    <target x="-1" y="0" id="back"></target>
+                </targets>
+                <!-- <animation x="0" y="0" z="0" >
+                    <source>img/stars.gif</source>
+                </animation> -->
+            </character>
+            <elements>
+
+                <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB156a.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB156d.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound> 
+                </element>
+                <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB401a.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB401g.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound> 
+                </element>
+                 <element target="head" x="0" y="0" z="10">
+                    <type>head</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB003a.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB003g.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound> 
+                </element>
+
+
+
+                
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB156b.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB156e.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound> 
+                </element>
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB003b.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB003h.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound> 
+                </element>
+                <element target="body" x="0" y="0" z="1">
+                    <type>body</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB274d.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB274j.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound>
+                </element>
+
+
+
+
+                <element target="wrist1" x="0" y="0" z="1">
+                    <type>wrist</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMBIWB505o.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMBIWB505oa.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound>
+                </element>         
+                <element target="wrist1" x="0" y="0" z="1">
+                    <type>wrist</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMAIWB156c.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMAIWB156f.png</thumb>
+                    <sound>DRAM_GIGGLE_DAISY</sound>
+                </element>
+                <element target="wrist1" x="0" y="0" z="1">
+                    <type>wrist</type>
+                    <image>demo/LA/U3/L3-25/images/DRAMBIWB505q.png</image>
+                    <thumb>demo/LA/U3/L3-25/images/DRAMBIWB505qa.png</thumb>                 
+                    <sound>DRAM_GIGGLE_DAISY</sound>
+                </element>
+            </elements>
+        </screen>
+    </screens>
+
+
+    <sounds>
+        <sound>
+            <id>intro</id>
+            <start>0.53</start>
+            <stop>8.83</stop>
+        </sound>
+        <sound>
+            <id>animation</id>
+            <start>19.172</start>
+            <stop>25.674</stop>
+        </sound>
+        <sound>
+            <id>yes</id>
+            <start>10.0</start>
+            <stop>11.84</stop>
+        </sound>
+        <sound>
+            <id>no</id>
+            <start>12.69</start>
+            <stop>13.67</stop>
+        </sound>
+        <sound>
+            <id>s_win</id>
+            <start>14.89</start>
+            <stop>17.0</stop>
+        </sound>
+        <sound>
+            <id>DRAM_GIGGLE_DAISY</id>
+            <start>17.5</start>
+            <stop>18.7</stop>
+        </sound>
+    </sounds>
+</game>

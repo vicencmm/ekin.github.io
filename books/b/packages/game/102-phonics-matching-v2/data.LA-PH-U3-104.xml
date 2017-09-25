@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/PH/U3-104/audio/combined.mp3,demo/LA/PH/U3-104/audio/combined.ogg" countdown="0" type="phonics-matching">
+  <title>Listen and say. Click.</title>
+  <sounds>
+    <sound>
+      <id>E</id>
+      <start>0.70</start>
+      <stop>1.10</stop>
+    </sound>
+    <sound>
+      <id>U</id>
+      <start>3.03</start>
+      <stop>3.42</stop>
+    </sound>
+    <sound>
+      <id>R</id>
+      <start>5.33</start>
+      <stop>6.04</stop>
+    </sound>
+    <sound>
+      <id>H</id>
+      <start>7.98</start>
+      <stop>8.40</stop>
+    </sound>
+    <sound>
+      <id>B</id>
+      <start>10.26</start>
+      <stop>10.57</stop>
+    </sound>
+    <sound>
+      <id>F</id>
+      <start>12.50</start>
+      <stop>13.07</stop>
+    </sound>
+    <sound>
+      <id>1</id>
+      <start>15.03</start>
+      <stop>15.67</stop>
+    </sound>
+    <sound>
+      <id>2</id>
+      <start>17.57</start>
+      <stop>18.51</stop>
+    </sound>
+    <sound>
+      <id>3</id>
+      <start>20.42</start>
+      <stop>21.13</stop>
+    </sound>
+    <sound>
+      <id>4</id>
+      <start>23.04</start>
+      <stop>23.72</stop>
+    </sound>
+    <sound>
+      <id>5</id>
+      <start>25.61</start>
+      <stop>26.38</stop>
+    </sound>
+    <sound>
+      <id>6</id>
+      <start>28.31</start>
+      <stop>29.12</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>31.97</start>
+      <stop>36.65</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>39.18</start>
+      <stop>40.91</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>43.12</start>
+      <stop>43.74</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>46.13</start>
+      <stop>54.34</stop>
+    </sound>
+  </sounds>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">E</sound>
+      <text>e</text>
+    </phonic>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">U</sound>
+      <text>u</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">R</sound>
+      <text>r</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">H</sound>
+      <text>h</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">B</sound>
+      <text>b</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <screen row="3,3,3" size="80">
+    <phonic height="193" width="193">
+      <sound x="-10">F</sound>
+      <text>f</text>
+    </phonic>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB539.png</source>
+      <sound>1</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB540.png</source>
+      <sound>2</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB541.png</source>
+      <sound>3</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB542.png</source>
+      <sound>4</sound>
+    </image>
+    <image>
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB543.png</source>
+      <sound>5</sound>
+    </image>
+    <image solution="1">
+      <source>demo/LA/PH/U3-104/images/DRAMAIWB544.png</source>
+      <sound>6</sound>
+    </image>
+  </screen>
+  <phoneme_background>img/background.png</phoneme_background>
+  <popups>
+    <trophy>
+      <image>demo/LA/PH/U3-104/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/PH/U3-104/images/DRAM-Well-done-Times-Up-Daisy.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+</game>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="pelmanism" fullcard="0">
+  <title>Find the pairs.</title>
+  <oneTwoPlayer>
+  <textBackground>How many players?</textBackground>
+    <background>demo/LA/U2/L4-15/images/DRAM-Player-number-select-2.png</background>
+  </oneTwoPlayer>
+  <selectPlayer>
+    <background>demo/LA/U2/L4-15/images/DRAM-Two-player-names.png</background>
+  </selectPlayer>
+  <audio>demo/LA/U2/L4-15/audio/combined.mp3,demo/LA/U2/L4-15/audio/combined.ogg</audio>
+   <popups>
+    <trophy>
+      <image>demo/LA/U2/L4-15/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>It's a draw!</text>
+      <winnerText>[placeholder] wins!</winnerText>
+      <sound>win</sound>
+    </trophy>
+    <win>
+      <image>demo/LA/U2/L4-15/images/DRAM-Well-done-Times-Up-Robin.png</image>
+      <text>Hurray!</text>
+      <sound>win</sound>
+    </win>
+  </popups>
+  <level>easy</level>
+  <mode>image</mode>
+  <images>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB101.png</source>
+      <sound>ears</sound>
+      <title>ears</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB102.png</source>
+      <sound>nose</sound>
+      <title>nose</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB103.png</source>
+      <sound>eyes</sound>
+      <title>eyes</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB310.png</source>
+      <sound>mouth</sound>
+      <title>mouth</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB311.png</source>
+      <sound>sad</sound>
+      <title>sad</title>
+    </image>
+    <image>
+      <source>demo/LA/U2/L4-15/images/DRAMAIWB312.png</source>
+      <sound>happy</sound>
+      <title>happy</title>
+    </image>
+  </images>
+  <sounds>
+<sound>
+<id>win</id>
+<start>0.09</start>
+<stop>4.81</stop>
+</sound>
+<sound>
+<id>yes</id>
+<start>5.71</start>
+<stop>6.84</stop>
+</sound>
+<sound>
+<id>no</id>
+<start>8.03</start>
+<stop>8.55</stop>
+</sound>
+<sound>
+<id>intro</id>
+<start>9.61</start>
+<stop>17.70</stop>
+</sound>
+<sound>
+<id>ears</id>
+<start>18.72</start>
+<stop>19.69</stop>
+</sound>
+<sound>
+<id>sad</id>
+<start>20.63</start>
+<stop>21.63</stop>
+</sound>
+<sound>
+<id>nose</id>
+<start>22.58</start>
+<stop>23.60</stop>
+</sound>
+<sound>
+<id>mouth</id>
+<start>24.56</start>
+<stop>25.44</stop>
+</sound>
+<sound>
+<id>dirtyh</id>
+<start>26.38</start>
+<stop>27.94</stop>
+</sound>
+<sound>
+<id>happy</id>
+<start>28.91</start>
+<stop>30.06</stop>
+</sound>
+<sound>
+<id>cleanh</id>
+<start>31.01</start>
+<stop>32.55</stop>
+</sound>
+<sound>
+<id>dirtyf</id>
+<start>33.50</start>
+<stop>35.20</stop>
+</sound>
+<sound>
+<id>eyes</id>
+<start>36.17</start>
+<stop>37.11</stop>
+</sound>
+<sound>
+<id>cleanf</id>
+<start>38.05</start>
+<stop>40.27</stop>
+</sound>
+</sounds>
+</game>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U2/L4-25/audio/audio.mp3,demo/LB/U2/L4-25/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U2/L4-25/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U2/L4-25/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>feet</id>
+        <start>0.82</start>
+        <stop>5.35</stop>
+        </sound>
+        <sound>
+        <id>legs</id>
+        <start>7.19</start>
+        <stop>11.84</stop>
+        </sound>
+        <sound>
+        <id>head</id>
+        <start>13.69</start>
+        <stop>17.98</stop>
+        </sound>
+        <sound>
+        <id>body</id>
+        <start>19.83</start>
+        <stop>26.15</stop>
+        </sound>
+        <sound>
+        <id>arms</id>
+        <start>27.99</start>
+        <stop>32.82</stop>
+        </sound>
+        <sound>
+        <id>hands</id>
+        <start>34.68</start>
+        <stop>39.38</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>46.34</start>
+        <stop>47.06</stop>
+        </sound>
+        <sound>
+        <id>yes</id>
+        <start>52.05</start>
+        <stop>53.04</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>55.62</start>
+        <stop>56.12</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>58.06</start>
+        <stop>66.15</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>69.16</start>
+        <stop>73.87</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB153.png</source>
+            <title>feet</title>
+            <sound>feet</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB154.png</source>
+            <title>legs</title>
+            <sound>legs</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB155.png</source>
+            <title>head</title>
+            <sound>head</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB156.png</source>
+            <title>body</title>
+            <sound>body</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB157.png</source>
+            <title>arms</title>
+            <sound>arms</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U2/L4-25/images/DRAMBIWB158.png</source>
+            <title>hands</title>
+            <sound>hands</sound>        
+        </image>
+    </images>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2" fullcard="1"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U4/L4-47/audio/audio.mp3,demo/LB/U4/L4-47/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U4/L4-47/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U4/L4-47/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>yes</id>
+        <start>0.14</start>
+        <stop>1.13</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>3.72</start>
+        <stop>4.21</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>6.16</start>
+        <stop>14.25</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>17.25</start>
+        <stop>21.97</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>27.71</start>
+        <stop>28.43</stop>
+        </sound>
+        <sound>
+        <id>house</id>
+        <start>33.63</start>
+        <stop>34.55</stop>
+        </sound>
+        <sound>
+        <id>roof</id>
+        <start>36.22</start>
+        <stop>37.04</stop>
+        </sound>
+        <sound>
+        <id>floor</id>
+        <start>39.08</start>
+        <stop>39.94</stop>
+        </sound>
+        <sound>
+        <id>window</id>
+        <start>41.70</start>
+        <stop>42.69</stop>
+        </sound>
+        <sound>
+        <id>door</id>
+        <start>44.68</start>
+        <stop>45.44</stop>
+        </sound>
+        <sound>
+        <id>walls</id>
+        <start>47.91</start>
+        <stop>48.86</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB257.png</source>
+            <title>house</title>
+            <sound>house</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB258.png</source>
+            <title>roof</title>
+            <sound>roof</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB259.png</source>
+            <title>floor</title>
+            <sound>floor</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB260.png</source>
+            <title>window</title>
+            <sound>window</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB261.png</source>
+            <title>door</title>
+            <sound>door</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U4/L4-47/images/DRAMBIWB262.png</source>
+            <title>walls</title>
+            <sound>walls</sound>        
+        </image>
+    </images>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/U6/L4-69/audio/audio.mp3,demo/LB/U6/L4-69/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/U6/L4-69/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/U6/L4-69/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>yes</id>
+        <start>0.14</start>
+        <stop>1.13</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>3.72</start>
+        <stop>4.21</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>6.16</start>
+        <stop>14.25</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>17.25</start>
+        <stop>21.97</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>27.71</start>
+        <stop>28.43</stop>
+        </sound>
+        <sound>
+        <id>turtle</id>
+        <start>32.89</start>
+        <stop>34.48</stop>
+        </sound>
+        <sound>
+        <id>fish</id>
+        <start>35.99</start>
+        <stop>37.47</stop>
+        </sound>
+        <sound>
+        <id>crab</id>
+        <start>39.58</start>
+        <stop>41.03</stop>
+        </sound>
+        <sound>
+        <id>octopus</id>
+        <start>43.03</start>
+        <stop>44.73</stop>
+        </sound>
+        <sound>
+        <id>seahorse</id>
+        <start>47.12</start>
+        <stop>48.88</stop>
+        </sound>
+        <sound>
+        <id>shark</id>
+        <start>51.22</start>
+        <stop>52.64</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB378.png</source>
+            <title>turtle</title>
+            <sound>turtle</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB379.png</source>
+            <title>fish</title>
+            <sound>fish</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB380.png</source>
+            <title>crab</title>
+            <sound>crab</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB381.png</source>
+            <title>octopus</title>
+            <sound>octopus</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB382.png</source>
+            <title>seahorse</title>
+            <sound>seahorse</sound>        
+        </image>
+        <image>
+            <source>demo/LB/U6/L4-69/images/DRAMBIWB383.png</source>
+            <title>shark</title>
+            <sound>shark</sound>        
+        </image>
+    </images>
+</game>
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="snap" cardTime="2" fullcard="1"><!-- tiempo (en segundos) de espera entre flips -->
+    <title>Click and match.</title><!-- Titulo del juego -->
+    <audio>demo/LB/UO/L3-6/audio/audio.mp3,demo/LB/UO/L3-6/audio/audio.ogg</audio><!-- audio(s) del juego (default: audio.mp3) -->
+    <mode>image</mode> <!-- modo de juego [image | text] -->
+    <level>easy</level> <!-- probabilidad de coincidencia por turno [easy | medium | hard] (easy= mayor probabilidad)-->
+    <popups>
+        <win>
+            <image>demo/LB/UO/L3-6/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>Well done!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </win>
+        
+        <trophy>
+            <image>demo/LB/UO/L3-6/images/DRAM-Well-done-Time's-Up-Daisy.png</image>
+            <text>[placeholder] wins!</text>
+            <winnerText>[placeholder] wins!</winnerText>
+            <sound>win</sound>
+        </trophy>
+    </popups>
+    <sounds>
+        <sound>
+        <id>yes</id>
+        <start>0.14</start>
+        <stop>1.13</stop>
+        </sound>
+        <sound>
+        <id>no</id>
+        <start>3.72</start>
+        <stop>4.21</stop>
+        </sound>
+        <sound>
+        <id>intro</id>
+        <start>6.16</start>
+        <stop>14.25</stop>
+        </sound>
+        <sound>
+        <id>win</id>
+        <start>17.25</start>
+        <stop>21.97</stop>
+        </sound>
+        <sound>
+        <id>red</id>
+        <start>25.50</start>
+        <stop>26.26</stop>
+        </sound>
+        <sound>
+        <id>yellow</id>
+        <start>27.54</start>
+        <stop>28.49</stop>
+        </sound>
+        <sound>
+        <id>green</id>
+        <start>30.01</start>
+        <stop>30.90</stop>
+        </sound>
+        <sound>
+        <id>blue</id>
+        <start>32.17</start>
+        <stop>32.97</stop>
+        </sound>
+        <sound>
+        <id>pink</id>
+        <start>34.31</start>
+        <stop>35.04</stop>
+        </sound>
+        <sound>
+        <id>orange</id>
+        <start>36.70</start>
+        <stop>37.68</stop>
+        </sound>
+        <sound>
+        <id>grey</id>
+        <start>39.36</start>
+        <stop>40.31</stop>
+        </sound>
+        <sound>
+        <id>brown</id>
+        <start>42.01</start>
+        <stop>42.98</stop>
+        </sound>
+        <sound>
+        <id>black</id>
+        <start>44.56</start>
+        <stop>45.35</stop>
+        </sound>
+        <sound>
+        <id>white</id>
+        <start>47.09</start>
+        <stop>47.97</stop>
+        </sound>
+        <sound>
+        <id>purple</id>
+        <start>49.69</start>
+        <stop>50.63</stop>
+        </sound>
+        <sound>
+        <id>deal</id>
+        <start>55.01</start>
+        <stop>55.66</stop>
+        </sound>
+	</sounds>
+    <images>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB044.png</source>
+            <title>red</title>
+            <sound>red</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB045.png</source>
+            <title>yellow</title>
+            <sound>yellow</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB046.png</source>
+            <title>green</title>
+            <sound>green</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB047.png</source>
+            <title>blue</title>
+            <sound>blue</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB048.png</source>
+            <title>pink</title>
+            <sound>pink</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB049.png</source>
+            <title>orange</title>
+            <sound>orange</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB050.png</source>
+            <title>grey</title>
+            <sound>grey</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB051.png</source>
+            <title>brown</title>
+            <sound>brown</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB052.png</source>
+            <title>black</title>
+            <sound>black</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB053.png</source>
+            <title>white</title>
+            <sound>white</sound>        
+        </image>
+        <image>
+            <source>demo/LB/UO/L3-6/images/DRAMBIWB054.png</source>
+            <title>purple</title>
+            <sound>purple</sound>        
+        </image>
+    </images>
+</game>

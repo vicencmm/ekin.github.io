@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="large-image" config="0">
+  <title>Click and listen.</title>
+  <audio>demo/LB/U6/L1-66/audio/audio.mp3,demo/LB/U6/L1-66/audio/audio.ogg</audio>
+  <background>demo/LB/U6/L1-66/images/DRAMBIWB371b.png</background>
+  <images>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371c.png</source>
+      <sound>turtle</sound>
+      <title>turtle</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371d.png</source>
+      <sound>fish</sound>
+      <title>fish</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371e.png</source>
+      <sound>seahorse</sound>
+      <title>seahorse</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371f.png</source>
+      <sound>shark</sound>
+      <title>shark</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371g.png</source>
+      <sound>octopus</sound>
+      <title>octopus</title>
+      <effect>shake</effect>
+    </image>
+    <image x="0" y="0">
+      <source>demo/LB/U6/L1-66/images/DRAMBIWB371h.png</source>
+      <sound>crab</sound>
+      <title>crab</title>
+      <effect>shake</effect>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>turtle</id>
+    <start>0.48</start>
+    <stop>1.39</stop>
+    </sound>
+    <sound>
+    <id>fish</id>
+    <start>3.37</start>
+    <stop>4.26</stop>
+    </sound>
+    <sound>
+    <id>seahorse</id>
+    <start>6.14</start>
+    <stop>7.34</stop>
+    </sound>
+    <sound>
+    <id>shark</id>
+    <start>9.35</start>
+    <stop>10.29</stop>
+    </sound>
+    <sound>
+    <id>octopus</id>
+    <start>12.14</start>
+    <stop>13.25</stop>
+    </sound>
+    <sound>
+    <id>crab</id>
+    <start>15.49</start>
+    <stop>16.28</stop>
+    </sound>
+    <sound>
+    <id>intro</id>
+    <start>22.25</start>
+    <stop>30.34</stop>
+    </sound>
+  </sounds>
+</game>

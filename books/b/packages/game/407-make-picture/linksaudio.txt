@@ -1,0 +1,24 @@
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U1/L3-13/audio/audio.mp3,demo/LB/U1/L3-13/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U2/L3-24/audio/audio.mp3,demo/LB/U2/L3-24/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U3/L3-35/audio/audio.mp3,demo/LB/U3/L3-35/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U4/L3-46/audio/audio.mp3,demo/LB/U4/L3-46/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U5/L3-57/audio/audio.mp3,demo/LB/U5/L3-57/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U6/L3-68/audio/audio.mp3,demo/LB/U6/L3-68/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U7/L3-79/audio/audio.mp3,demo/LB/U7/L3-79/audio/audio.ogg">
+ <game type="make-picture" config="1">
+<game type="make-picture" config="0" audio="demo/LB/U8/L3-90/audio/audio.mp3,demo/LB/U8/L3-90/audio/audio.ogg">
+demo/LB/U1/L3-13/audio/audio.mp3
+demo/LB/U2/L3-24/audio/audio.mp3
+demo/LB/U3/L3-35/audio/audio.mp3
+demo/LB/U4/L3-46/audio/audio.mp3
+demo/LB/U5/L3-57/audio/audio.mp3
+demo/LB/U6/L3-68/audio/audio.mp3
+demo/LB/U7/L3-79/audio/audio.mp3
+demo/LB/U8/L3-90/audio/audio.mp3

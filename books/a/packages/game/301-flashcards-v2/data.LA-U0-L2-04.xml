@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LA/U1/L2-04/audio/combined.mp3,demo/LA/U1/L2-04/audio/combined.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LA/U1/L2-04/images/thumbs/DRAMAIWB615a.png</thumb>
+      <source>demo/LA/U1/L2-04/images/DRAMAIWB615.png</source>
+      <sound>sunny</sound>
+      <word>sunny</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L2-04/images/thumbs/DRAMAIWB616a.png</thumb>
+      <source>demo/LA/U1/L2-04/images/DRAMAIWB616.png</source>
+      <sound>windy</sound>
+      <word>windy</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L2-04/images/thumbs/DRAMAIWB617a.png</thumb>
+      <source>demo/LA/U1/L2-04/images/DRAMAIWB617.png</source>
+      <sound>rainy</sound>
+      <word>rainy</word>
+    </image>
+    <image>
+      <thumb>demo/LA/U1/L2-04/images/thumbs/DRAMAIWB618a.png</thumb>
+      <source>demo/LA/U1/L2-04/images/DRAMAIWB618.png</source>
+      <sound>cloudy</sound>
+      <word>cloudy</word>
+    </image>
+  </images>
+<sounds>
+<sound>
+<id>sunny</id>
+<start>0.21</start>
+<stop>1.20</stop>
+</sound>
+<sound>
+<id>windy</id>
+<start>2.06</start>
+<stop>3.14</stop>
+</sound>
+<sound>
+<id>rainy</id>
+<start>4.33</start>
+<stop>5.48</stop>
+</sound>
+<sound>
+<id>cloudy</id>
+<start>6.60</start>
+<stop>8.58</stop>
+</sound>
+</sounds>
+</game>

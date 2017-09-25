@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game audio="demo/LA/PH/U5-137/audio/combined.mp3, demo/LA/PH/U5-137/audio/combined.ogg" time="4" type="listening-maze">
+  <title>Listen and click the letters.</title>
+  <character>
+    <listen>demo/LA/PH/U5-137/images/listen.png</listen>
+    <jump>demo/LA/PH/U5-137/images/jump.png</jump>
+    <land>demo/LA/PH/U5-137/images/wait.png</land>
+    <finish pos="690">demo/LA/PH/U5-137/images/finish.png</finish>
+  </character>
+  <finish>
+    <sound>win</sound>
+    <image>demo/LA/PH/U5-137/images/trophy.png</image>
+  </finish>
+  <fontSize>45px</fontSize>
+  <sounds>
+    <sound>
+      <id>ur</id>
+      <start>0.95</start>
+      <stop>1.73</stop>
+    </sound>
+    <sound>
+      <id>er</id>
+      <start>3.65</start>
+      <stop>4.04</stop>
+    </sound>
+    <sound>
+      <id>ar</id>
+      <start>5.67</start>
+      <stop>6.41</stop>
+    </sound>
+    <sound>
+      <id>or</id>
+      <start>8.33</start>
+      <stop>9.07</stop>
+    </sound>
+    <sound>
+      <id>yes</id>
+      <start>10.74</start>
+      <stop>12.42</stop>
+    </sound>
+    <sound>
+      <id>no</id>
+      <start>14.12</start>
+      <stop>14.73</stop>
+    </sound>
+    <sound>
+      <id>intro</id>
+      <start>16.25</start>
+      <stop>24.44</stop>
+    </sound>
+    <sound>
+      <id>win</id>
+      <start>26.55</start>
+      <stop>28.60</stop>
+    </sound>
+  </sounds>
+  <col>
+    <sound>ur</sound>
+    <letters solution="ur">ar.or.er.ur</letters>
+  </col>
+  <col>
+    <sound>er</sound>
+    <letters solution="er">ur.er.or.ar</letters>
+  </col>
+  <col>
+    <sound>ar</sound>
+    <letters solution="ar">ur.ar.er.or</letters>
+  </col>
+  <col>
+    <sound>or</sound>
+    <letters solution="or">or.ur.er.ar</letters>
+  </col>
+</game>

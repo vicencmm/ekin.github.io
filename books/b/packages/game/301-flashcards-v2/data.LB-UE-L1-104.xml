@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/UE/L1-104/audio/audio.mp3,demo/LB/UE/L1-104/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/UE/L1-104/images/thumbs/DRAMBIWB424a.png</thumb>
+      <source>demo/LB/UE/L1-104/images/DRAMBIWB424.png</source>
+      <sound>egg</sound>
+      <word>Easter egg hunt</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UE/L1-104/images/thumbs/DRAMBIWB425a.png</thumb>
+      <source>demo/LB/UE/L1-104/images/DRAMBIWB425.png</source>
+      <sound>chocolate</sound>
+      <word>chocolate</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UE/L1-104/images/thumbs/DRAMBIWB426a.png</thumb>
+      <source>demo/LB/UE/L1-104/images/DRAMBIWB426.png</source>
+      <sound>sweet</sound>
+      <word>sweet</word>
+    </image>
+    <image>
+      <thumb>demo/LB/UE/L1-104/images/thumbs/DRAMBIWB427a.png</thumb>
+      <source>demo/LB/UE/L1-104/images/DRAMBIWB427.png</source>
+      <sound>basket</sound>
+      <word>basket</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>egg</id>
+    <start>0.30</start>
+    <stop>1.87</stop>
+    </sound>
+    <sound>
+    <id>chocolate</id>
+    <start>3.52</start>
+    <stop>4.46</stop>
+    </sound>
+    <sound>
+    <id>sweet</id>
+    <start>6.34</start>
+    <stop>7.29</stop>
+    </sound>
+    <sound>
+    <id>basket</id>
+    <start>9.35</start>
+    <stop>10.40</stop>
+    </sound>
+  </sounds>
+</game>

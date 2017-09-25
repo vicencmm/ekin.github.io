@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game type="flashcards" orientation="landscape" size="60" audio="demo/LB/U5/L5-60/audio/audio.mp3,demo/LB/U5/L5-60/audio/audio.ogg">
+  <title>Look and listen.</title>
+  <images>
+    <image>
+      <thumb>demo/LB/U5/L5-60/images/thumbs/DRAMBIWB334a.png</thumb>
+      <source>demo/LB/U5/L5-60/images/DRAMBIWB334.png</source>
+      <sound>winter</sound>
+      <word>winter</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L5-60/images/thumbs/DRAMBIWB335a.png</thumb>
+      <source>demo/LB/U5/L5-60/images/DRAMBIWB335.png</source>
+      <sound>spring</sound>
+      <word>spring</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L5-60/images/thumbs/DRAMBIWB336a.png</thumb>
+      <source>demo/LB/U5/L5-60/images/DRAMBIWB336.png</source>
+      <sound>summer</sound>
+      <word>summer</word>
+    </image>
+    <image>
+      <thumb>demo/LB/U5/L5-60/images/thumbs/DRAMBIWB337a.png</thumb>
+      <source>demo/LB/U5/L5-60/images/DRAMBIWB337.png</source>
+      <sound>autumn</sound>
+      <word>autumn</word>
+    </image>
+  </images>
+  <sounds>
+    <sound>
+    <id>winter</id>
+    <start>0.67</start>
+    <stop>4.03</stop>
+    </sound>
+    <sound>
+    <id>spring</id>
+    <start>5.55</start>
+    <stop>8.98</stop>
+    </sound>
+    <sound>
+    <id>summer</id>
+    <start>10.74</start>
+    <stop>14.08</stop>
+    </sound>
+    <sound>
+    <id>autumn</id>
+    <start>16.11</start>
+    <stop>19.81</stop>
+    </sound>
+  </sounds>
+</game>
